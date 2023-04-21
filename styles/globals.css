@@ -31,3 +31,19 @@ body {
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+.rdrDefinedRangesWrapper {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .rdrDefinedRangesWrapper {
+        display: block;
+    }
+}
+
+@media (width < 372px) {
+    .calendar {
+        scale: 0.75;
+    }
+}
