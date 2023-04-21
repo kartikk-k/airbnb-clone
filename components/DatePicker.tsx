@@ -4,16 +4,20 @@ import 'react-date-range/dist/theme/default.css'; // theme css file
 import { DateRangePicker } from 'react-date-range';
 import { motion } from 'framer-motion'
 import { UsersIcon } from '@heroicons/react/24/solid';
+import { useRouter } from 'next/router';
 
 interface Props {
     cancel: any
+    searchInput: string
 }
 
-function DatePicker({ cancel }: Props) {
+function DatePicker({ cancel, searchInput }: Props) {
 
     const [startDate, setStartDate] = useState(new Date())
     const [endDate, setEndDate] = useState(new Date())
     const [guests, setGuests] = useState<number>(1)
+
+    const router = useRouter()
 
     useEffect(() => {
         if (guests > 100) return setGuests(100)
@@ -34,6 +38,19 @@ function DatePicker({ cancel }: Props) {
         setStartDate(ranges.selection.startDate)
         setEndDate(ranges.selection.endDate)
         // console.log(ranges)
+    }
+
+
+    const handleSearch = () => {
+        router.push({
+            pathname: '/search',
+            query: {
+                location: searchInput,
+                startDate: startDate.toISOString(),
+                endDate: endDate.toISOString(),
+                guests: guests
+            }
+        })
     }
 
     return (
@@ -62,8 +79,8 @@ function DatePicker({ cancel }: Props) {
                     </div>
 
                     <div className='flex justify-around gap-6 py-4'>
-                        <button onClick={() => cancel(true)} className='w-full px-4 py-1 bg-gray-200 rounded-md'>Cancel</button>
-                        <button className='w-full px-4 py-1 text-white rounded-md bg-primary'>Submit</button>
+                        <button onClick={() => cancel(true)} className='w-full px-4 py-1 text-center bg-gray-200 rounded-md'>Cancel</button>
+                        <button onClick={() => handleSearch()} className='w-full px-4 py-1 text-center text-white rounded-md bg-primary'>Search</button>
                     </div>
                 </div>
             </div>
