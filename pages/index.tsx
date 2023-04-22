@@ -3,8 +3,8 @@ import Banner from '../components/Banner'
 import Header from '../components/Header'
 import { useEffect } from 'react'
 import SmallCard from '../components/SmallCard'
-import Image from 'next/image'
 import MediumCard from '../components/MediumCard'
+import Footer from '../components/Footer'
 
 
 interface Props {
@@ -13,6 +13,7 @@ interface Props {
 }
 
 interface ExploreData {
+  id: number,
   distance: string,
   img: string,
   location: string
@@ -40,7 +41,7 @@ const Home = ({ exploreData, cardsData }: Props) => {
         {/* <meta name='theme-color' content='#FF5A5F' /> */}
       </Head>
 
-      <main className='pb-32'>
+      <main className=''>
         <Header />
         <Banner />
 
@@ -50,8 +51,8 @@ const Home = ({ exploreData, cardsData }: Props) => {
             <h1 className='text-xl font-bold text-gray-700 md:text-2xl'>Explore Nearby</h1>
 
             <div className='flex w-auto overflow-auto sm:overflow-visible scrollbar-light sm:grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
-              {exploreData?.length !== 0 && exploreData.map((item: ExploreData, index) => (
-                <SmallCard key={index} distance={item.distance} img={item.img} location={item.location} />
+              {exploreData?.length !== 0 && exploreData.map((item: ExploreData) => (
+                <SmallCard key={item.id} distance={item.distance} img={item.img} location={item.location} />
               ))}
             </div>
           </div>
@@ -71,6 +72,9 @@ const Home = ({ exploreData, cardsData }: Props) => {
 
         </div>
       </main>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   )
 }

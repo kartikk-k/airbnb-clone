@@ -21,15 +21,16 @@ body {
 
 /* Handle */
 
-::-webkit-scrollbar-thumb {
+.scrollbar-light::-webkit-scrollbar-thumb {
     @apply bg-gray-400;
+    border-radius: 50px;
 }
 
 
 /* Handle on hover */
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    @apply bg-gray-500;
 }
 
 .rdrDefinedRangesWrapper {
@@ -47,3 +48,33 @@ body {
         scale: 0.75;
     }
 }
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FF5A60;
+}
+
+.mapboxgl-popup-content {
+    @apply bg-white w-44 rounded-md bg-opacity-40 backdrop-blur-md;
+}
+
+.mapboxgl-popup-tip {
+    @apply hidden;
+}
+
+.mapboxgl-popup-close-button {
+    @apply hidden;
+}
+
+
+/* mapboxgl-popup-tip */
+
+
+/* mapboxgl-popup-content */
+
+
+/* mapboxgl-popup-close-button */
