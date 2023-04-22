@@ -8,6 +8,8 @@ import { useRouter } from 'next/router'
 import { format } from 'date-fns'
 import PropertyCard from '../../components/PropertyCard'
 import Map from '../../components/Map'
+import { MapIcon } from '@heroicons/react/24/outline'
+import { motion } from 'framer-motion'
 
 
 interface Props {
@@ -16,11 +18,11 @@ interface Props {
 
 function index({ searchResults }: Props) {
 
-    console.log("search results: ", searchResults)
-
     const [formattedStartDate, setFormattedStartDate] = useState<string>()
     const [formattedEndDate, setFormattedEndDate] = useState<string>()
     const [range, setRange] = useState<number>()
+
+    const [showMap, setShowMap] = useState<boolean>(false)
 
     const router = useRouter()
     const { location, startDate, endDate, guests } = router.query
@@ -51,7 +53,14 @@ function index({ searchResults }: Props) {
             <main className='min-h-screen pb-10'>
                 <Header placeholder={`${location} | ${range} days | ${guests} guests`} />
 
-                <div className='flex mx-auto max-w-7xl'>
+                <div className='fixed z-[60] flex justify-center w-full lg:hidden bottom-10'>
+                    <button onClick={() => setShowMap(!showMap)} className='flex gap-2 p-2 rounded-full bg-primary'>
+                        <MapIcon className='w-6 h-6 stroke-white' />
+                        <span className='text-white'>{showMap === true ? 'Close Map' : 'Show Map'}</span>
+                    </button>
+                </div>
+
+                <div className='mx-auto lg:flex max-w-7xl'>
                     <section>
                         <div className='px-4 py-8'>
                             <div className='flex text-xs text-gray-500 md:text-sm'>
@@ -86,9 +95,16 @@ function index({ searchResults }: Props) {
                         </div>
                     </section>
 
-                    <section className='hidden overflow-hidden lg:inline-flex lg:min-w-[600px]'>
+                    <section className='hidden overflow-hidden my-10 mx-4 rounded-md lg:inline-flex max-h-screen sticky top-16 lg:min-w-[600px]'>
                         <Map searchResults={searchResults} />
                     </section>
+
+                    <motion.section
+                        initial={{ visibility: 'hidden', opacity: 0 }} // initially map is not rendered
+                        animate={{ visibility: showMap ? 'visible' : 'hidden', opacity: showMap ? 1 : 0 }} // just changes opacity once rendered
+                        className='fixed top-0 left-0 z-30 w-screen h-screen overflow-hidden bg-white'>
+                        <Map searchResults={searchResults} />
+                    </motion.section>
                 </div>
 
             </main>

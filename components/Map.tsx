@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import ReactMapGL, { Marker, Popup } from 'react-map-gl';
 import getCenter from 'geolib/es/getCenter';
+import MapMarker from './MapMarker';
 
 interface Props {
     searchResults: any
@@ -8,9 +9,9 @@ interface Props {
 
 
 function Map({ searchResults }: Props) {
-
+    console.log("map placed")
     const [centerViewport, setCenterViewport] = useState<any>()
-    const [selectedLocation, setSelectedLocation] = useState<any>()
+    const [selectedLocation, setSelectedLocation] = useState<number>()
 
     const [viewport, setViewport] = useState({
         width: "100%",
@@ -74,23 +75,7 @@ function Map({ searchResults }: Props) {
                 {searchResults.map((item: PropertyObject) => {
                     return (
                         <div key={item.id}>
-                            <Marker
-                                longitude={item.long}
-                                latitude={item.lat}
-                                offset={[-20, -10]}
-                            >
-                                <p role='img' onClick={() => setSelectedLocation(item.id)} className='text-2xl animate-pulse'>📌</p>
-                            </Marker>
-                            {/* {selectedLocation === item?.id ? (
-                                <Popup
-                                    onClose={() => setSelectedLocation(null)}
-                                    closeOnClick={true}
-                                    latitude={item.lat!}
-                                    longitude={item.long!}
-                                >
-                                    {item.title}
-                                </Popup>
-                            ) : false} */}
+                            <MapMarker item={item} />
                         </div>
                     )
                 })}

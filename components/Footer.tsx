@@ -13,6 +13,7 @@ function Footer() {
                         <p className='cursor-pointer'>Airbnb Luxe</p>
                     </div>
                 </div>
+
                 <div>
                     <h3 className='py-4 font-semibold text-gray-800'>COMMUNITY</h3>
                     <div className='space-y-4 text-sm text-gray-500'>
