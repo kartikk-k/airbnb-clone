@@ -1,0 +1,3561 @@
+{
+    "nhits": 47423,
+    "parameters": {
+        "dataset": [
+            "airbnb-listings@public"
+        ],
+        "rows": 10,
+        "start": 0,
+        "facet": [
+            "host_response_time",
+            "host_response_rate",
+            "host_verifications",
+            "city",
+            "country",
+            "property_type",
+            "room_type",
+            "bed_type",
+            "amenities",
+            "availability_365",
+            "cancellation_policy",
+            "features"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "9f565635d73a281a5d0890d5fc379091a8db2028",
+            "fields": {
+                "geolocation": [
+                    51.53648967090091,
+                    -0.07582679618221093
+                ],
+                "host_verifications": "email,phone,facebook,reviews,jumio,offline_government_id,government_id",
+                "review_scores_communication": 10,
+                "availability_90": 50,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 2,
+                "bathrooms": 1.0,
+                "description": "A modern & cosy flat overviewing the canal with fantastic natural light all day. Very quiet, we only hear the ducks from the canal every now and then! You will be staying in a lovely & bright double room with a comfy double bed & your own private bathroom. Great location, the place is in the heart of trendy East London between Shoreditch and Dalston. The closest station is Haggerston (3 minutes walk, overground) or Old street (15 min walk, northern line underground) and many many buses around. This is a very rare flat overlooking Regent's canal, we can see it from every window in the flat! You will have your own bathroom and will be sharing the kitchen and living room. Happy to advice on things to do in London and where to eat, drink or dance!",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "A modern & cosy flat overviewing the canal with fantastic natural light all day. Very quiet, we only hear the ducks from the canal every now and then! You will be staying in a lovely & bright double room with a comfy double bed & your own private bathroom. Great location, the place is in the heart of trendy East London between Shoreditch and Dalston. The closest station is Haggerston (3 minutes walk, overground) or Old street (15 min walk, northern line underground) and many many buses around.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Kingsland Road, London, England N1, United Kingdom",
+                "access": "You will have your own bathroom and will be sharing the kitchen and living room.",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/4bbd01f6-2a3c-428a-a4b1-13335d049b68.jpg?aki_policy=x_large",
+                "id": "17274997",
+                "price": 45,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 2.0,
+                "host_response_rate": 100,
+                "review_scores_rating": 100,
+                "smart_location": "London, United Kingdom",
+                "host_location": "GB",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified",
+                "space": "This is a very rare flat overlooking Regent's canal, we can see it from every window in the flat!",
+                "host_id": "80334405",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.53648967090091",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "review_scores_cleanliness": 10,
+                "state": "England",
+                "host_since": "2016-06-27",
+                "cleaning_fee": 20,
+                "availability_60": 20,
+                "minimum_nights": 5,
+                "medium_url": "https://a0.muscache.com/im/pictures/4bbd01f6-2a3c-428a-a4b1-13335d049b68.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/80334405",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/4bbd01f6-2a3c-428a-a4b1-13335d049b68.jpg?aki_policy=small",
+                "first_review": "2017-02-25",
+                "name": "Overlooking canal & Own bathroom dble bedroom",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/aad8d9f7-67be-4011-82a2-368a5a8d7278.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "28c0c6eee9d58792796f082e35d3c020",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "4bbd01f6-2a3c-428a-a4b1-13335d049b68.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(190, 181, 172, 1.00)",
+                        "rgba(143, 121, 103, 1.00)",
+                        "rgba(157, 123, 95, 1.00)"
+                    ]
+                },
+                "extra_people": 5,
+                "room_type": "Private room",
+                "amenities": "Wireless Internet,Kitchen,Heating,Washer,Smoke detector,Essentials,Hangers,Hair dryer,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/17274997",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "3 weeks ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/aad8d9f7-67be-4011-82a2-368a5a8d7278.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Charlotte",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "interaction": "Happy to advice on things to do in London and where to eat, drink or dance!",
+                "host_about": "A french girl in London, 29, professional!",
+                "availability_365": 50,
+                "last_review": "2017-02-26",
+                "bed_type": "Real Bed",
+                "review_scores_value": 10,
+                "zipcode": "N1",
+                "longitude": "-0.07582679618221093",
+                "maximum_nights": 1125,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07582679618221093,
+                    51.53648967090091
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "658315567d8215410fdf0528e03eb8c7833f5f43",
+            "fields": {
+                "host_neighbourhood": "Haggerston",
+                "geolocation": [
+                    51.536382284416895,
+                    -0.07223174222424289
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "review_scores_communication": 10,
+                "availability_90": 52,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 6,
+                "house_rules": "- Please leave the kitchen clean after cooking",
+                "bathrooms": 1.0,
+                "description": "We live in the heart of Hackney; the most vibrant area of central London. Our apartment is close to Hoxton station and both Kingsland Rd and the Regent's Canal. Many of the best markets in London can be walked to in 5-15mins, including; Broadway Market (coffee & pastries), Columbia Road (best flowers), Dalston (food and a lot more), Spitalfields (cloths and jewellery), and Brick Lane! The apartment is surrounded by a garden which provides a peaceful haven to your comfortable and stylish bedroom. One thing I should mention (and will add to the description too) is that we have a Whippet - he is not a barky fellow and he certainly wouldn't be allowed into your room but he does hang out in the living room. Your bedroom is completely private, as is your bathroom. You are invited to prepare food in the kitchen - please let us know if you are planning to do this and we will provide some cupboard/fridge space. We lead quite busy lives so expect us to be in and out of the house a fair bit. Anyt",
+                "review_scores_location": 9,
+                "accommodates": 2,
+                "summary": "We live in the heart of Hackney; the most vibrant area of central London. Our apartment is close to Hoxton station and both Kingsland Rd and the Regent's Canal. Many of the best markets in London can be walked to in 5-15mins, including; Broadway Market (coffee & pastries), Columbia Road (best flowers), Dalston (food and a lot more), Spitalfields (cloths and jewellery), and Brick Lane! The apartment is surrounded by a garden which provides a peaceful haven to your comfortable and stylish bedroom.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Swimmers Lane, London, E2 8FR, United Kingdom",
+                "access": "Your bedroom is completely private, as is your bathroom. You are invited to prepare food in the kitchen - please let us know if you are planning to do this and we will provide some cupboard/fridge space.",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/c81d746b-cee5-4015-8845-aa391ab2cc35.jpg?aki_policy=x_large",
+                "id": "13861442",
+                "price": 40,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 0.76,
+                "host_response_rate": 100,
+                "security_deposit": 100,
+                "transit": "We love to walk and cycle around the city. Both are very easy from where our flat is. There is a public bicycle hire point (costing \u00a32 per day) only 30 meters from our front door. There are three different train lines you can reach from our place. Firstly, the London Overground route (via Hoxton and Haggerston stations) which is an orbital track taking you up to Islington and Hampstead, or down to Aldgate and New Cross. The nearest Northern Line station is Old Street which takes you to up Euston and Camden or down to Kennington and Clapham. Finally, the Central Line is accessible via Bethnal Green station and can be used to take you into Oxford Street and Notting Hill. There are also tons of buses from either Kingsland Road or Hackney Road. They are cheap and very reliable and can take you to Liverpool Street, London Bridge or into London's West End.",
+                "neighbourhood": "Haggerston",
+                "review_scores_rating": 97,
+                "smart_location": "London, United Kingdom",
+                "host_location": "London",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "One thing I should mention (and will add to the description too) is that we have a Whippet - he is not a barky fellow and he certainly wouldn't be allowed into your room but he does hang out in the living room.",
+                "host_id": "9477714",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.536382284416895",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "review_scores_cleanliness": 10,
+                "host_since": "2013-10-17",
+                "cleaning_fee": 15,
+                "availability_60": 22,
+                "minimum_nights": 2,
+                "medium_url": "https://a0.muscache.com/im/pictures/c81d746b-cee5-4015-8845-aa391ab2cc35.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/9477714",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/c81d746b-cee5-4015-8845-aa391ab2cc35.jpg?aki_policy=small",
+                "first_review": "2016-07-11",
+                "name": "Garden apartment in the heart of Hackney",
+                "neighborhood_overview": "This is one of the oldest parts of London, close to the original site of Shakespeare's Globe Theatre. It is where the area in which the famous mid-20th century gangsters, the Kray twins, ruled East London from. However, the area's industrial past (canals and warehouses) now play host to London's artistic and creative talent.",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/users/9477714/profile_pic/1394116373/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "a07a66ba67cf96fe7743dcc54caeadfe",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 720,
+                    "filename": "c81d746b-cee5-4015-8845-aa391ab2cc35.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(52, 50, 41, 1.00)",
+                        "rgba(187, 181, 154, 1.00)",
+                        "rgba(48, 47, 45, 1.00)"
+                    ]
+                },
+                "extra_people": 6,
+                "room_type": "Private room",
+                "notes": "One thing we should mention is that we have a Whippet - he is not a barky fellow and certainly wouldn't be allowed into your room. However, he does hang out in the living room and likes a belly-rub if you have the time!",
+                "amenities": "Internet,Wireless Internet,Kitchen,Pets live on this property,Dog(s),Heating,Washer,Smoke detector,Carbon monoxide detector,First aid kit,Safety card,Essentials,Hangers,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/13861442",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "2 months ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/9477714/profile_pic/1394116373/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Alaric",
+                "host_response_time": "within a few hours",
+                "review_scores_checkin": 9,
+                "interaction": "We lead quite busy lives so expect us to be in and out of the house a fair bit. Anytime you see us, of course, ask us anything and we will do our utmost to help. If we are out, you can always contact us by phone and email.",
+                "host_about": "Hello!\r\n\r\nI am a university scientist and jazz musician living in East-London. I have been playing trumpet and percussion professionally for the last eight years but my work as a material scientist / optical engineer has also led me on many global travels. I love to cycle, swim and hike in the mountains (when I can find the time!).\r\n\r\nThanks,\r\n\r\nAlaric",
+                "availability_365": 52,
+                "last_review": "2016-10-09",
+                "review_scores_value": 10,
+                "bed_type": "Real Bed",
+                "zipcode": "E2 8FR",
+                "longitude": "-0.07223174222424289",
+                "maximum_nights": 90,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07223174222424289,
+                    51.536382284416895
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "369560381968993d77fe104e00fd73088d17e7ea",
+            "fields": {
+                "host_neighbourhood": "LB of Hackney",
+                "geolocation": [
+                    51.56403959821383,
+                    -0.06536901090154891
+                ],
+                "host_verifications": "email,phone,facebook,reviews,jumio",
+                "review_scores_communication": 10,
+                "availability_90": 67,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 46,
+                "house_rules": "I ask that all the facilities in my home and my wonderful neighbours be treated with respect.  We live in the Republic of Hackney, so we segregate trash :-). Please use the appropriate bins for food waste, recyclables and general household waste. To conserve energy, the washer-dryer is available only once a week to guests who stay for a week or longer. As no cleaning charge applies, I request you to take care to clear crumbs and spills on the breakfast bar, and floor and in the oven and to clean out the food trap in the kitchen sink after washing up. In the bathroom, do rinse out the bathtub after use, making sure no long hair is swilled down the plughole. Use the toilet brush whenever necessary. Please limit yourself to one hot shower a day of no more than 10 minutes, turning off the water when shampooing and conditioning. There could be understandable exceptions if you are going out for the evening. Downloading illegal digital content is not permitted inside the house. Smoking is per",
+                "bathrooms": 1.0,
+                "description": "The zest, charm and charisma of Stoke Newington is only a ten minute walk away from this spacious, airy and light apartment in a '60s purpose-built block. Comfortable new mattress, Ikea wardrobe and desk with hi-speed Internet access for guests. The flat enjoys a desirable dual aspect and good vibes. I tend to work at home during the day but am up for sharing meals and socializing in the evenings. If you are driving, there is plentiful street parking on our tree-lined street. You would be within walking distance (10 minutes) to the boutiques and cafes of Church Street. Morning or afternoon walks are lovely in the nearby Springfield Park and Abney Park Cemetery. The flat also benefits from 50 MBPS fibre-based internet over a new 5GHz hub, ideal for downloading movies, games or TV shows or other child-safe content. In addition to the bathroom, you can access the kitchen and all its facilities. There is also a communal garden which children use during the day, but which you would be welco",
+                "review_scores_location": 9,
+                "accommodates": 1,
+                "summary": "The zest, charm and charisma of Stoke Newington is only a ten minute walk away from this spacious, airy and light apartment in a '60s purpose-built block. Comfortable new mattress, Ikea wardrobe and desk with hi-speed Internet access for guests.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Fountayne Road, London, England N16 7EA, United Kingdom",
+                "access": "In addition to the bathroom, you can access the kitchen and all its facilities. There is also a communal garden which children use during the day, but which you would be welcome to relax in when the weather gods smile on us. You are welcome to wander into my room and my little balcony if the door is open.",
+                "cancellation_policy": "moderate",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/fadbe15c-375c-4120-b697-eab142e92eab.jpg?aki_policy=x_large",
+                "id": "12179316",
+                "price": 24,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 4.45,
+                "host_response_rate": 100,
+                "transit": "There are a number of options to get to the flat, the Overground being the fastest. The station is about ten minutes walk from the flat and the Overground will whisk you to Liverpool Street station in ten minutes with many popular spots like Bethnal Green and Hackney Downs along the way. In the other direction, Seven Sisters is only two Overground stops away, from where you can switch to the Underground Victoria Line to take you swiftly into the city. There are also a number of buses, such as Nos. 73 and 389 which will take you to Angel or Kings Cross or closer in, to Manor House station or Caledonian Road on the Piccadilly Line, the latter being preferable if you are arriving from Heathrow with baggage.",
+                "neighbourhood": "LB of Hackney",
+                "review_scores_rating": 93,
+                "smart_location": "London, United Kingdom",
+                "host_location": "London, United Kingdom",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "The flat enjoys a desirable dual aspect and good vibes. I tend to work at home during the day but am up for sharing meals and socializing in the evenings. If you are driving, there is plentiful street parking on our tree-lined street. You would be within walking distance (10 minutes) to the boutiques and cafes of Church Street. Morning or afternoon walks are lovely in the nearby Springfield Park and Abney Park Cemetery. The flat also benefits from 50 MBPS fibre-based internet over a new 5GHz hub, ideal for downloading movies, games or TV shows or other child-safe content.",
+                "host_id": "8624213",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.56403959821383",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "review_scores_cleanliness": 10,
+                "state": "England",
+                "host_since": "2013-09-04",
+                "availability_60": 37,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/fadbe15c-375c-4120-b697-eab142e92eab.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/8624213",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/fadbe15c-375c-4120-b697-eab142e92eab.jpg?aki_policy=small",
+                "first_review": "2016-04-30",
+                "name": "Cozy bedroom in Hackney",
+                "neighborhood_overview": "A safe, family-oriented and multi-cultural quarter, with a mixture of Hassidic Jewish families, Portuguese Gujaratis, Kurdistanis and hipsters. The legendary Rasa Restaurant, Fox Reformed Wine Bar, Bacio Italian Restaurant are only a hop, skip and jump away.",
+                "calculated_host_listings_count": 2,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/users/8624213/profile_pic/1389817047/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 2,
+                "picture_url": {
+                    "id": "a576e4c8f9aa712e85ea50e38fb3a978",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "fadbe15c-375c-4120-b697-eab142e92eab.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(157, 156, 144, 1.00)",
+                        "rgba(143, 145, 139, 1.00)",
+                        "rgba(113, 109, 106, 1.00)"
+                    ]
+                },
+                "extra_people": 20,
+                "room_type": "Private room",
+                "notes": "This is a baby-friendly building, so don't be surprised to find the foyer clogged with perambulators! The flush tank can be a little touchy, but does the job.",
+                "amenities": "Internet,Wireless Internet,Kitchen,Free parking on premises,Buzzer/wireless intercom,Heating,Family/kid friendly,Washer,Dryer,Smoke detector,Carbon monoxide detector,First aid kit,Safety card,Fire extinguisher,Essentials,Shampoo,Lock on bedroom door,24-hour check-in,Hangers,Hair dryer,Iron,Laptop friendly workspace",
+                "listing_url": "https://www.airbnb.com/rooms/12179316",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "today",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/8624213/profile_pic/1389817047/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 2,
+                "host_name": "Vineeta",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "interaction": "As I work from home, I am pre-occupied during the day, but always available for any help or advice.",
+                "host_about": "I would describe myself as quiet, compassionate and considerate. My daily regime includes yoga and Buddhist chanting, though I am not obsessive about it when on holiday. Five things I can't live without: my pot of green tea in the mornings, my NUJ membership, my Canon 650D, my moisturiser and my MacBook Pro. I am very eclectic in my tastes in music, books and food. My style of travelling can vary from luxury to backpacking, but I derive more pleasure from the latter. \r\nMy idea of hosting is to make the guest feel as much at home as possible. A comfortable bed, lighting, a local hand-drawn map, clean surroundings are important and whenever possible, a home-cooked meal.",
+                "availability_365": 130,
+                "last_review": "2017-01-16",
+                "bed_type": "Real Bed",
+                "review_scores_value": 10,
+                "zipcode": "N16 7EA",
+                "longitude": "-0.06536901090154891",
+                "maximum_nights": 1125,
+                "availability_30": 7,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.06536901090154891,
+                    51.56403959821383
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "343b0632d9564aaaa7b79377ab7150360570c826",
+            "fields": {
+                "host_neighbourhood": "LB of Hackney",
+                "geolocation": [
+                    51.5558490221851,
+                    -0.053689516875005575
+                ],
+                "host_verifications": "email,phone,reviews,jumio,offline_government_id,government_id",
+                "review_scores_communication": 10,
+                "availability_90": 3,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 6,
+                "house_rules": "- quiet residential area. please respect neighbours",
+                "bathrooms": 1.0,
+                "description": "Close to many well loved shops, bars/cafes: Organic&Natural for food, vegetarian/vegan cafe, Palm 2 a delicious Deli with homemade Mediterranean food and fresh Sourdough bread, pop up restaurants upstairs. The Clapton Hart pub for craft beers/food in vintage decor. Ideal for couples, solo adventurers, and business travellers. Quiet and private flat, nice street in a great location very close to many buses and direct train to City in 10 min from Clapton station. Many parks and Hackney Marshes. Parking is available in my street, free on week ends but restricted during the week from 7.30am to 6.30pm. Contact me for more details, I can provide visitors vouchers if necessary.",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "Close to many well loved shops, bars/cafes: Organic&Natural for food, vegetarian/vegan cafe, Palm 2 a delicious Deli with homemade Mediterranean food and fresh Sourdough bread, pop up restaurants upstairs. The Clapton Hart pub for craft beers/food in vintage decor. Ideal for couples, solo adventurers, and business travellers. Quiet and private flat, nice street in a great location very close to many buses and direct train to City in 10 min from Clapton station. Many parks and Hackney Marshes.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "A Newick Road, London, England E5 0RR, United Kingdom",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/1094c0a8-eb64-47be-9be1-bfc2e6fba065.jpg?aki_policy=x_large",
+                "id": "15595629",
+                "price": 74,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 1.58,
+                "host_response_rate": 100,
+                "security_deposit": 200,
+                "neighbourhood": "LB of Hackney",
+                "review_scores_rating": 100,
+                "smart_location": "London, United Kingdom",
+                "host_location": "London, England, United Kingdom",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "host_id": "100494073",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.5558490221851",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "review_scores_cleanliness": 9,
+                "state": "England",
+                "host_since": "2016-10-20",
+                "cleaning_fee": 15,
+                "availability_60": 0,
+                "minimum_nights": 4,
+                "medium_url": "https://a0.muscache.com/im/pictures/1094c0a8-eb64-47be-9be1-bfc2e6fba065.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/100494073",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/1094c0a8-eb64-47be-9be1-bfc2e6fba065.jpg?aki_policy=small",
+                "first_review": "2016-11-12",
+                "name": "Smart quiet flat easy City access",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/fc31ef67-599f-45e9-8970-cbf9c0ba975e.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "7730a803061a11905f00a60191d44549",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "1094c0a8-eb64-47be-9be1-bfc2e6fba065.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(209, 198, 178, 1.00)",
+                        "rgba(189, 163, 126, 1.00)",
+                        "rgba(139, 85, 55, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "notes": "Parking is available in my street, free on week ends but restricted during the week from 7.30am to 6.30pm. Contact me for more details, I can provide visitors vouchers if necessary.",
+                "amenities": "Wireless Internet,Kitchen,Heating,Washer,Dryer,Smoke detector,Carbon monoxide detector,Fire extinguisher,Essentials,Hangers,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/15595629",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "3 days ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/fc31ef67-599f-45e9-8970-cbf9c0ba975e.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Laurence",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "host_about": "I am French and have been living in East London with my family for the last 15 years. I first came to London to study Arts at Central Saint Martins and I love the creative spirit of this area of London. I can give recommendations and tips to suit all tastes as the local area has so much to offer. Bienvenue!",
+                "availability_365": 3,
+                "last_review": "2016-12-20",
+                "review_scores_value": 9,
+                "bed_type": "Real Bed",
+                "zipcode": "E5 0RR",
+                "longitude": "-0.053689516875005575",
+                "maximum_nights": 14,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.053689516875005575,
+                    51.5558490221851
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "436c042b07c3b50fe8b0f83fcd5464db36fad53d",
+            "fields": {
+                "host_neighbourhood": "Putney",
+                "geolocation": [
+                    51.53662033357821,
+                    -0.06735242093132549
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "availability_90": 0,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 0,
+                "house_rules": "- The lead guest will be required to sign an Occupation Agreement prior to arrival. This is for insurance purposes to say that the guests will look after the property and not smoke or have parties - Please note that the lead guest must be over 25 years old - Normal check in time is between 3pm and 9pm. Any time outside of this period may incur an additional fee - No pets, no parties or smoking, please",
+                "bathrooms": 1.0,
+                "description": "Nestled away next to one of London\u2019s famous canals, this one bedroom apartment is a comfortable refuge after a long day out exploring London. On entering the property which is located on the first floor of a quiet building, this apartment is the perfect space for two with each room of a decent size. On the left as you enter is the living room with its views out over the canal, stylish decoration and comfortable seating. The kitchen is located next door to the living room and is well equipped for all your culinary requirements.  Leading through to the next room is a newly refurbished bathroom with a bath and state of the art shower head over the top. Through to the master bedroom where you will find a generous sized double bed, and a mirrored dressing table. The room also has a great amount of storage both under the bed and in the wardrobes provided. Upon request, a single mattress can be set up in the living room. Nearby Kingsland Road offers a wide variety of local attractions such as",
+                "accommodates": 3,
+                "summary": "Nestled away next to one of London\u2019s famous canals, this one bedroom apartment is a comfortable refuge after a long day out exploring London.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Gloucester Square, London, E2 8RS, United Kingdom",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/cee8e55f-15be-40aa-8e92-0d1a994f3c8c.jpg?aki_policy=x_large",
+                "id": "11270037",
+                "price": 100,
+                "neighbourhood_cleansed": "Hackney",
+                "host_response_rate": 98,
+                "security_deposit": 495,
+                "transit": "The closest Overground station is a short 5 minute walk to the Haggerston Overground, which will take you down to Canary Wharf within 15 minutes or give you handy connections at Whitechapel for the District line (to Kensington in 45 minutes) or Highbury & Islington (for the Victoria line and Oxford Street in 25 minutes). If you're a City slicker, you could walk to work or catch one of the many buses outside the apartment leading down to Bishopsgate and reach the City with 5-10 minutes.",
+                "neighbourhood": "Haggerston",
+                "smart_location": "London, United Kingdom",
+                "host_location": "London",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "On entering the property which is located on the first floor of a quiet building, this apartment is the perfect space for two with each room of a decent size. On the left as you enter is the living room with its views out over the canal, stylish decoration and comfortable seating. The kitchen is located next door to the living room and is well equipped for all your culinary requirements.  Leading through to the next room is a newly refurbished bathroom with a bath and state of the art shower head over the top. Through to the master bedroom where you will find a generous sized double bed, and a mirrored dressing table. The room also has a great amount of storage both under the bed and in the wardrobes provided. Upon request, a single mattress can be set up in the living room.",
+                "host_id": "33889201",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.53662033357821",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "host_since": "2015-05-21",
+                "cleaning_fee": 75,
+                "availability_60": 0,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/cee8e55f-15be-40aa-8e92-0d1a994f3c8c.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/33889201",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/cee8e55f-15be-40aa-8e92-0d1a994f3c8c.jpg?aki_policy=small",
+                "name": "Up to 20% off! 1 bed 1 bath in stylish Shoreditch",
+                "neighborhood_overview": "Nearby Kingsland Road offers a wide variety of local attractions such as the Geffrye Museum of the Home and further down the same street is 'Pho Mile', home to London's finest Vietnamese restaurants, as well as other edgy and arty cafes and bars.",
+                "calculated_host_listings_count": 711,
+                "calendar_last_scraped": "2017-03-05",
+                "picture_url": {
+                    "id": "4519ccaf5bc1d409955668083677b3af",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "cee8e55f-15be-40aa-8e92-0d1a994f3c8c.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(195, 195, 196, 1.00)",
+                        "rgba(185, 184, 185, 1.00)",
+                        "rgba(188, 179, 170, 1.00)"
+                    ]
+                },
+                "host_picture_url": "https://a0.muscache.com/im/users/33889201/profile_pic/1434447500/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 735,
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "notes": "Please note this property is in a good location. It is a cheap and cheerful, lived in property. The price reflects the condition. It is not recently refurbished.  The lead guest will be required to sign an Occupation Agreement prior to arrival. Please note that the lead guest must be over 25 years old. Normal check in time is between 3pm and 9pm. All other times may incur an additional fee.",
+                "amenities": "TV,Cable TV,Internet,Wireless Internet,Kitchen,Heating,Washer,Smoke detector,Essentials,Shampoo,Hair dryer,Iron",
+                "listing_url": "https://www.airbnb.com/rooms/11270037",
+                "calendar_updated": "today",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/33889201/profile_pic/1434447500/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 735,
+                "host_name": "Tom",
+                "host_response_time": "within a few hours",
+                "host_about": "Greetings from London! \r\n \r\nMy name is Tom and along with my team I manage this collection of hand-picked apartments and houses for their individual owners while they are away. Each property is carefully selected and offers a stylish living experience and excellent value. \r\n\r\nAs a lifelong Londoner I love having the opportunity to share these spaces, my knowledge and personal recommendations about this great city with those visiting for both short and long term stays. \r\n\r\nAll our guests will be greeted personally at the property by a member of our hospitality team, and guest assistance is also provided by our professional customer service team between 8am - 8pm 7 days a week, should any issues arise during your stay. Please note that once a booking is made, the customer service team will be the point of contact thereafter.\r\n\r\nPlease be aware that viewings are not possible for stays of less than 1 month.\r\n  \r\nIf you have any questions please do not hesitate to contact me and I will be sure to answer them promptly.",
+                "availability_365": 31,
+                "bed_type": "Real Bed",
+                "zipcode": "E2 8RS",
+                "longitude": "-0.06735242093132549",
+                "maximum_nights": 1125,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.06735242093132549,
+                    51.53662033357821
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "5401ed7f74e1de4e3ad5828c875721ba013bd7a6",
+            "fields": {
+                "geolocation": [
+                    51.53925166255423,
+                    -0.04315094607577517
+                ],
+                "host_verifications": "email,phone,reviews",
+                "review_scores_communication": 9,
+                "availability_90": 1,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 3,
+                "house_rules": "- Smoking is allowed outside on the terrace/steps but not inside the house.",
+                "bathrooms": 1.0,
+                "description": "My place is in a truly wonderful area in South Hackney right next to the beautiful Victoria Park, famous pub The Lauriston, and Regent's Canal. You\u2019ll love my place because of the neighbourhood, the cosiness, and the light. My place is good for couples and solo adventurers looking for a comfy place to stay while exploring East London and beyond! We're a 15/20 minute walk to Broadway Market, Mile End station, and the famous Columbia Road Flower Market and Brick Lane.",
+                "review_scores_location": 9,
+                "accommodates": 2,
+                "summary": "My place is in a truly wonderful area in South Hackney right next to the beautiful Victoria Park, famous pub The Lauriston, and Regent's Canal. You\u2019ll love my place because of the neighbourhood, the cosiness, and the light. My place is good for couples and solo adventurers looking for a comfy place to stay while exploring East London and beyond! We're a 15/20 minute walk to Broadway Market, Mile End station, and the famous Columbia Road Flower Market and Brick Lane.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Victoria Park Road, London, England E9 7HD, United Kingdom",
+                "cancellation_policy": "flexible",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/2468f4dc-079d-47cc-b73a-0fc55b0edc0b.jpg?aki_policy=x_large",
+                "id": "16152981",
+                "price": 50,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 1.41,
+                "host_response_rate": 100,
+                "review_scores_rating": 90,
+                "smart_location": "London, United Kingdom",
+                "host_location": "London, England, United Kingdom",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Instant Bookable",
+                "host_id": "38314644",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.53925166255423",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "review_scores_cleanliness": 9,
+                "state": "England",
+                "host_since": "2015-07-13",
+                "availability_60": 1,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/2468f4dc-079d-47cc-b73a-0fc55b0edc0b.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/38314644",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/2468f4dc-079d-47cc-b73a-0fc55b0edc0b.jpg?aki_policy=small",
+                "first_review": "2017-01-01",
+                "name": "Cosy Flat near Victoria Park",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/e07033e1-f4fd-412e-b3e0-abd9902f65c3.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "7fae5d60033001f528ff14d844261123",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 270,
+                    "filename": "2468f4dc-079d-47cc-b73a-0fc55b0edc0b.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(150, 142, 126, 1.00)",
+                        "rgba(158, 147, 123, 1.00)",
+                        "rgba(129, 112, 81, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Private room",
+                "amenities": "Wireless Internet,Kitchen,Smoking allowed,Heating,Suitable for events,Washer,Smoke detector,Fire extinguisher,Essentials,Hair dryer,Iron,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/16152981",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "today",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/e07033e1-f4fd-412e-b3e0-abd9902f65c3.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Ashley",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 9,
+                "host_about": "Currently a graduate student in London, I'm loving being in this part of the world for the next few years. I enjoy reading, and drinking copious amounts of tea (and wine).",
+                "availability_365": 1,
+                "last_review": "2017-01-28",
+                "bed_type": "Real Bed",
+                "review_scores_value": 9,
+                "zipcode": "E9 7HD",
+                "longitude": "-0.04315094607577517",
+                "maximum_nights": 1125,
+                "availability_30": 1,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04315094607577517,
+                    51.53925166255423
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "44a84d43fdc6a6094d8a93a2c21280248e638f44",
+            "fields": {
+                "host_neighbourhood": "Stoke Newington",
+                "geolocation": [
+                    51.55571227666764,
+                    -0.07975639906193195
+                ],
+                "host_verifications": "email,phone,reviews",
+                "review_scores_communication": 9,
+                "availability_90": 60,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 2,
+                "bathrooms": 1.0,
+                "description": "In the heart of Stoke Newington/ Dalston, Newly converted 1 bed studio apartment with private shower & Bathroom. Minutes away from the High street with lots of Bars , restaurants , parks & live Music just around the corner. Recently converted from a shop into a cosy and light 1 bed studio space separated in to two areas . . The Back room includes a Kitchen (Cooker / Fridge / Kettle / Toaster / Washing machine), A large Shower and steps that lead up to a mezzanine double bed. The front space is flooded with natural day light from its floor to ceiling old Shop Window front (Frosted). The living room area has a double sofa bed ( can sleep additional guests) and dinning Table ( extendable can seat 4)  . The Space is packed with lots of books and board games, Wifi is included a swell as fresh bed linen and Towels for guests . The space is perfect for a couple o who are looking to have the own cosy private place for a stay in London that feels like home as the space is very open planned . Pl",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "In the heart of Stoke Newington/ Dalston, Newly converted 1 bed studio apartment with private shower & Bathroom. Minutes away from the High street with lots of Bars , restaurants , parks & live Music just around the corner.",
+                "property_type": "Other",
+                "bedrooms": 0,
+                "street": "Nevill Road, London, England N16 8SR, United Kingdom",
+                "access": "The entrance to the main building is used by other tenants for a first floor flat and basement flat , However guests have sole access to the first floor apartment where the studio has its own locked door. The shower is within the studio apartment and Kitchen which will be of private use to the guests which are located within the studio and have access to their own private toilet room that is located down a communal hallway.",
+                "cancellation_policy": "moderate",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/ebbd4fc0-edec-4eb6-b3b9-96156209010e.jpg?aki_policy=x_large",
+                "id": "17166982",
+                "price": 66,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 2.0,
+                "host_response_rate": 86,
+                "transit": "You will be a 2 minute walk from the closest bus stop that has direct buses that go to Central London and most East London destinations. The closest overground train station in Dalston Kingsland Station that is a 10 minute walk. From Kingsland it will take 15 minutes to get to Central London ( Oxford Street ).",
+                "neighbourhood": "Stoke Newington",
+                "review_scores_rating": 90,
+                "smart_location": "London, United Kingdom",
+                "host_location": "London, England, United Kingdom",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Is Location Exact",
+                "space": "Recently converted from a shop into a cosy and light 1 bed studio space separated in to two areas . . The Back room includes a Kitchen (Cooker / Fridge / Kettle / Toaster / Washing machine), A large Shower and steps that lead up to a mezzanine double bed. The front space is flooded with natural day light from its floor to ceiling old Shop Window front (Frosted). The living room area has a double sofa bed ( can sleep additional guests) and dinning Table ( extendable can seat 4)  . The Space is packed with lots of books and board games, Wifi is included a swell as fresh bed linen and Towels for guests . The space is perfect for a couple o who are looking to have the own cosy private place for a stay in London that feels like home as the space is very open planned . Please keep in mind this is our home so the apartment will have s our personal items within the apartment when we rent the space out , however we will always do our best to clear out space for our guests to have their own stor",
+                "host_id": "102045710",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.55571227666764",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "review_scores_cleanliness": 10,
+                "state": "England",
+                "host_since": "2016-11-01",
+                "cleaning_fee": 16,
+                "availability_60": 30,
+                "minimum_nights": 2,
+                "medium_url": "https://a0.muscache.com/im/pictures/ebbd4fc0-edec-4eb6-b3b9-96156209010e.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/102045710",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/ebbd4fc0-edec-4eb6-b3b9-96156209010e.jpg?aki_policy=small",
+                "first_review": "2017-02-19",
+                "name": "1 Bed bright studio flat in Dalston/StokeNewington",
+                "neighborhood_overview": "The space is located between the borders of Dalston & Stoke Newington, a couple of minutes walk from Stoke Newington High street and Kingsland Road. There are few places in London that offer the zest, charm and charisma of Stoke Newington. Church Street is the area's lively epicentre, with packed-out bars and pubs never too far away. Stokie's shops overflow with indie labels and vintage goods and its restaurants are noteworthy for their diversity as well as their quality. Of course much of N16's success is down to the remarkably strong presence of independent business in the area, making it a truly distinctive part of the capital. You are also 10 minute walk from Clissold Park which is one of Hackneys best loved traditional parks with deers and farm animals.",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/2d383a24-cf26-478a-b37c-1b1cbcb3d36d.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "6a6123bda2252cb1577030dccb9c888d",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "ebbd4fc0-edec-4eb6-b3b9-96156209010e.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(189, 187, 172, 1.00)",
+                        "rgba(181, 166, 160, 1.00)",
+                        "rgba(156, 104, 101, 1.00)"
+                    ]
+                },
+                "extra_people": 15,
+                "room_type": "Entire home/apt",
+                "amenities": "Wireless Internet,Kitchen,Pets allowed,Heating,Family/kid friendly,Washer,Carbon monoxide detector,Essentials,Iron",
+                "listing_url": "https://www.airbnb.com/rooms/17166982",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "2 days ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/2d383a24-cf26-478a-b37c-1b1cbcb3d36d.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Charlie And Danielle",
+                "host_response_time": "within a few hours",
+                "review_scores_checkin": 9,
+                "interaction": "we usually rent out our apartment when we are away however we are always contactable and have friends who live close who are always available to help guests when needed.",
+                "host_about": "Both work in the creative industry in London. Charlie a designer and maker and Danielle a Fashion stylist. We enjoy renting out our home when we go travelling :)",
+                "availability_365": 60,
+                "last_review": "2017-02-27",
+                "bed_type": "Real Bed",
+                "review_scores_value": 9,
+                "zipcode": "N16 8SR",
+                "longitude": "-0.07975639906193195",
+                "maximum_nights": 1125,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07975639906193195,
+                    51.55571227666764
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "9385aca25c3e8ebaa3839fec98174be8a3eed72e",
+            "fields": {
+                "host_neighbourhood": "Shoreditch",
+                "geolocation": [
+                    51.5240694116651,
+                    -0.08046593050523144
+                ],
+                "host_verifications": "email,phone,facebook,reviews,jumio,offline_government_id,government_id",
+                "review_scores_communication": 10,
+                "availability_90": 0,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 3,
+                "house_rules": "- Check-in is before 8pm",
+                "bathrooms": 1.0,
+                "description": "The flat is a large 2 bedroom warehouse/loft-style apartment with lots of character in an unbeatable location on Great Eastern Street, with double-glazed windows and quiet bedrooms at the back of the building. The place is good for couples or solo travelers.",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "The flat is a large 2 bedroom warehouse/loft-style apartment with lots of character in an unbeatable location on Great Eastern Street, with double-glazed windows and quiet bedrooms at the back of the building. The place is good for couples or solo travelers.",
+                "property_type": "Apartment",
+                "bedrooms": 2,
+                "street": "Great Eastern Street, London, England EC2A 3QR, United Kingdom",
+                "cancellation_policy": "moderate",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/5ab0bb66-6357-4a48-8dcc-4de2134de86f.jpg?aki_policy=x_large",
+                "id": "15987082",
+                "price": 117,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 1.11,
+                "host_response_rate": 100,
+                "neighbourhood": "Shoreditch",
+                "review_scores_rating": 100,
+                "smart_location": "London, United Kingdom",
+                "host_location": "London, England, United Kingdom",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "host_id": "4697594",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.5240694116651",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "review_scores_cleanliness": 10,
+                "state": "England",
+                "host_since": "2013-01-14",
+                "cleaning_fee": 30,
+                "availability_60": 0,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/5ab0bb66-6357-4a48-8dcc-4de2134de86f.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/4697594",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/5ab0bb66-6357-4a48-8dcc-4de2134de86f.jpg?aki_policy=small",
+                "first_review": "2016-12-15",
+                "name": "Perfect Shoreditch Loft",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/users/4697594/profile_pic/1358169040/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "027ef5d863c62e9a60e1d27c705584f1",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "5ab0bb66-6357-4a48-8dcc-4de2134de86f.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(215, 196, 181, 1.00)",
+                        "rgba(175, 153, 135, 1.00)",
+                        "rgba(113, 92, 80, 1.00)"
+                    ]
+                },
+                "extra_people": 15,
+                "room_type": "Entire home/apt",
+                "amenities": "Wireless Internet,Kitchen,Heating,Washer,Smoke detector,Carbon monoxide detector,Essentials,Hangers,Hair dryer,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/15987082",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "4 days ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/4697594/profile_pic/1358169040/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Camille",
+                "host_response_time": "within a few hours",
+                "review_scores_checkin": 10,
+                "host_about": "Hello, my name is Camille, i'm French,  I love traveling,  my ideal next destination would be somewhere in Asia! I also love cooking, reading, old movies and arts.\r\nI hope you will love this Shoreditch apartment as much as my boyfriend and I do!",
+                "availability_365": 0,
+                "last_review": "2017-02-12",
+                "bed_type": "Real Bed",
+                "review_scores_value": 10,
+                "zipcode": "EC2A 3QR",
+                "longitude": "-0.08046593050523144",
+                "maximum_nights": 27,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08046593050523144,
+                    51.5240694116651
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "cd2361393a811fd50ee21b9ff398091f0935a6cc",
+            "fields": {
+                "host_neighbourhood": "Shoreditch",
+                "geolocation": [
+                    51.530004575706116,
+                    -0.08895311032396233
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "review_scores_communication": 10,
+                "availability_90": 38,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 9,
+                "house_rules": "CHECK IN AND OUT  Check-in is anytime after 3 pm. If possible we do our best to check you in as soon as you arrive but 3 pm is a deadline. Check-out is anytime before 11am. VISITORS  Please ask in advance each time you wish to have a friend or family member visit. We request that there are strictly no visitors from midnight through to 9am.  .  SMOKING  This is a non-smoking apartment therefore no smoking (not even by the window) is allowed  ABSOLUTELY NO PARTIES ALLOWED WITHIN THE APARTMENT nor disturbing the peace.  If we receive a complaint or the police are called with good reason you will have to be asked to leave without a refund and we will not be returning your deposit. We want you to have fun, but please go and do it outside. London is a big place. Enjoy it.",
+                "bathrooms": 2.0,
+                "description": "Spacious, stylishly furnished two bedroom apartment located in a building in one of the most desired districts of London. Just five minutes away walking from the Old Street underground station.  Excellent option for a group of travellers, who is not willing to split its company. AMENITIES Iron & Ironing Board, Hair Dryer, Bed Linen & Towels, Washing Machine, Dishwasher, DVD, TV, internet connection, heating BATHROOM Drying Rack, Hair Dryer, toilet, shower, washbasin , bathtub, mirror BATHROOM Drying Rack, Hair Dryer, shower, washbasin , Heated towel bar, mirror BEDROOM Bed Linen & Towels, double bed, night tables, chest of drawers, lamp, wardrobe, mirror BEDROOM Bed Linen & Towels, double bed, night tables, chest of drawers, lamp, wardrobe, mirror COMPOSITION 2 x Bathroom, Kitchen in the living / dining room, 2 x Bedroom LIVING ROOM WITH KITCHEN Cookware & Kitchen Utensils, Crockery & Cutlery, Washing Machine, Dishwasher, DVD, TV, cooking hob, oven, electric kettle, microwave, toaster,",
+                "review_scores_location": 9,
+                "accommodates": 6,
+                "property_type": "Apartment",
+                "bedrooms": 2,
+                "street": "Jasper Walk, London, N17, United Kingdom",
+                "cancellation_policy": "moderate",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/4359129/ab84810b_original.jpg?aki_policy=x_large",
+                "id": "386969",
+                "price": 350,
+                "neighbourhood_cleansed": "Hackney",
+                "reviews_per_month": 0.18,
+                "host_response_rate": 100,
+                "security_deposit": 150,
+                "neighbourhood": "Shoreditch",
+                "review_scores_rating": 78,
+                "smart_location": "London, United Kingdom",
+                "host_location": "London, England, United Kingdom",
+                "beds": 3,
+                "features": "Host Has Profile Pic,Host Identity Verified,Instant Bookable",
+                "space": "Spacious, stylishly furnished two bedroom apartment located in a building in one of the most desired districts of London. Just five minutes away walking from the Old Street underground station.  Excellent option for a group of travellers, who is not willing to split its company. AMENITIES Iron & Ironing Board, Hair Dryer, Bed Linen & Towels, Washing Machine, Dishwasher, DVD, TV, internet connection, heating BATHROOM Drying Rack, Hair Dryer, toilet, shower, washbasin , bathtub, mirror BATHROOM Drying Rack, Hair Dryer, shower, washbasin , Heated towel bar, mirror BEDROOM Bed Linen & Towels, double bed, night tables, chest of drawers, lamp, wardrobe, mirror BEDROOM Bed Linen & Towels, double bed, night tables, chest of drawers, lamp, wardrobe, mirror COMPOSITION 2 x Bathroom, Kitchen in the living / dining room, 2 x Bedroom LIVING ROOM WITH KITCHEN Cookware & Kitchen Utensils, Crockery & Cutlery, Washing Machine, Dishwasher, DVD, TV, cooking hob, oven, electric kettle, microwave, toaster,",
+                "host_id": "922398",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.530004575706116",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "review_scores_cleanliness": 9,
+                "host_since": "2011-08-04",
+                "cleaning_fee": 25,
+                "availability_60": 25,
+                "minimum_nights": 2,
+                "medium_url": "https://a0.muscache.com/im/pictures/4359129/ab84810b_original.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/922398",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/4359129/ab84810b_original.jpg?aki_policy=small",
+                "first_review": "2013-02-09",
+                "name": "\"Luke\" apt., Sup., 2B, free wifi",
+                "calculated_host_listings_count": 73,
+                "calendar_last_scraped": "2017-03-05",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/9d0479e4-4fc4-4856-a783-bafd05fab447.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 76,
+                "picture_url": {
+                    "id": "c64d967d8ce5d8425e7a94425c042f62",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 640,
+                    "filename": "ab84810b_original.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(178, 152, 152, 1.00)",
+                        "rgba(175, 140, 137, 1.00)",
+                        "rgba(136, 90, 78, 1.00)"
+                    ]
+                },
+                "extra_people": 20,
+                "room_type": "Entire home/apt",
+                "notes": "min. age for check-in: 18",
+                "amenities": "TV,Wireless Internet,Kitchen,Heating,Family/kid friendly,Washer",
+                "listing_url": "https://www.airbnb.com/rooms/386969",
+                "review_scores_accuracy": 8,
+                "calendar_updated": "today",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/9d0479e4-4fc4-4856-a783-bafd05fab447.jpg?aki_policy=profile_small",
+                "host_listings_count": 76,
+                "host_name": "Katarina",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 8,
+                "host_about": "Hi,\r\n\r\nI\u00b4m here for your assistance to choose the best apartment for you. I hope that you will enjoy our apartments and that your stay in London will be very pleasurable.\r\n\r\nKatarina",
+                "availability_365": 285,
+                "last_review": "2017-02-26",
+                "review_scores_value": 8,
+                "bed_type": "Real Bed",
+                "zipcode": "N17",
+                "longitude": "-0.08895311032396233",
+                "maximum_nights": 1125,
+                "availability_30": 7,
+                "experiences_offered": "none",
+                "guests_included": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08895311032396233,
+                    51.530004575706116
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "70356c6b9fe3ce5fec463db72f29c05f1239d633",
+            "fields": {
+                "host_neighbourhood": "Stoke Newington",
+                "geolocation": [
+                    51.560160420177304,
+                    -0.0825195327513658
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "availability_90": 13,
+                "scrape_id": "20170304065726",
+                "city": "London",
+                "number_of_reviews": 0,
+                "bathrooms": 1.5,
+                "description": "Our lovely home is in the heart of Stoke Newington . Few minute away from Clissold park and church street.         1st bedroom with a double bed    2nd room with a baby cot or a toddler cot or a double airbed !  Our flat can accommodate 2 adults and one baby/toddler or 4 adults .  when we are not on holiday we host guests in our spare room . check out our good reviews and you'll see the flat has everything you need to have a nice stay ! Beautiful 2 bedrooms flats, with one double bedroom on the ground floor,  a  kid room with a cot ( or a toddler bed / or a double airbed), kitchen , living room and bathroom. Our flat is perfect if you are visiting friends or family in Stoke Newington. The area is amazing . Not because I live here but because it is ! Its creative, young, friendly and away from the noise and the chain stores. Step out of the flat and you will find tones cafes, French bakery, English and Irish pubs, Italian / Spanish / Indian / Turkish and gastro pub restaurants and tonne",
+                "accommodates": 4,
+                "summary": "Our lovely home is in the heart of Stoke Newington . Few minute away from Clissold park and church street.         1st bedroom with a double bed    2nd room with a baby cot or a toddler cot or a double airbed !  Our flat can accommodate 2 adults and one baby/toddler or 4 adults .  when we are not on holiday we host guests in our spare room . check out our good reviews and you'll see the flat has everything you need to have a nice stay !",
+                "property_type": "Apartment",
+                "bedrooms": 2,
+                "street": "Albion Road, London, England N16, United Kingdom",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/569eab59-7375-412b-905e-2b91b1be95ac.jpg?aki_policy=x_large",
+                "id": "14146368",
+                "price": 95,
+                "neighbourhood_cleansed": "Hackney",
+                "host_response_rate": 100,
+                "security_deposit": 200,
+                "transit": "The house has excellent transport links to the city and center of London.  within 3 min walk : 73 to Victoria (night bus)  , 476 to Euston, 393 to Chalk farm within 10 min walk:  21 to Lewisham Centre, 236 to Finsbury Pk,  21 to Lewisham Centre, 341 to Waterloo, 141 to London Bridge Nearest tube Manor House on the Piccadilly Line (5 min walk + 10 min on the 141 or 341 bus ) Nearest  Overground  is 20 min walk :  - Cannonbury  (to the Olympic Park or Westfield Shopping Center  / Hampstead / Kew Gardens / Richmond ... ) -Stoke Newington stations (travel to Liverpool street station in 15 min) From Stansted airport  : get the Stansted express to Tottenham hale then the easiest would be to get a cab (only 15min)  From Gatwick / Luton airport  : get the train to st Pancras , then 73 bus (towards Stoke Newington) or 476 bus (towards Northumberland Park) stop at Stoke Newington Town Hall.  From Heathrow airport : get the Piccadilly line to King's Cross St.Pancras Underground Station. then 73 b",
+                "smart_location": "London, United Kingdom",
+                "host_location": "London",
+                "beds": 2,
+                "features": "Host Has Profile Pic,Host Identity Verified",
+                "space": "Beautiful 2 bedrooms flats, with one double bedroom on the ground floor,  a  kid room with a cot ( or a toddler bed / or a double airbed), kitchen , living room and bathroom. Our flat is perfect if you are visiting friends or family in Stoke Newington.",
+                "host_id": "9046786",
+                "last_scraped": "2017-03-05",
+                "latitude": "51.560160420177304",
+                "country_code": "GB",
+                "country": "United Kingdom",
+                "market": "London",
+                "state": "England",
+                "host_since": "2013-09-25",
+                "cleaning_fee": 20,
+                "availability_60": 7,
+                "minimum_nights": 4,
+                "medium_url": "https://a0.muscache.com/im/pictures/569eab59-7375-412b-905e-2b91b1be95ac.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/9046786",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/569eab59-7375-412b-905e-2b91b1be95ac.jpg?aki_policy=small",
+                "name": "Spacious Family flat 2 bedrooms N16",
+                "neighborhood_overview": "The area is amazing . Not because I live here but because it is ! Its creative, young, friendly and away from the noise and the chain stores. Step out of the flat and you will find tones cafes, French bakery, English and Irish pubs, Italian / Spanish / Indian / Turkish and gastro pub restaurants and tonnes of independent stores. You will also find a butcher, fish monger, fruit & veg shop, florists and a spooky cemetery on church street  - Clissold park with playground, paddling pool, skate park, Table tennis tables, Tennis courts, butterfly dome, large animal enclosure including deer, goats and chicken ! only few minutes from the flat - The famous Dalston with hundreds of bars/clubs",
+                "calculated_host_listings_count": 3,
+                "calendar_last_scraped": "2017-03-05",
+                "picture_url": {
+                    "id": "d9b1450d6a8532f969cce44b424df804",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "569eab59-7375-412b-905e-2b91b1be95ac.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(188, 169, 158, 1.00)",
+                        "rgba(170, 154, 144, 1.00)",
+                        "rgba(153, 128, 116, 1.00)"
+                    ]
+                },
+                "host_picture_url": "https://a0.muscache.com/im/users/9046786/profile_pic/1396283139/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 5,
+                "extra_people": 5,
+                "room_type": "Entire home/apt",
+                "notes": "Our bloc of flat is really friendly . People usually hang out outside for drinks or BBQ. Please tell us a bit about you when you make your booking !",
+                "amenities": "TV,Cable TV,Internet,Wireless Internet,Kitchen,Free parking on premises,Heating,Family/kid friendly,Washer,Smoke detector,Carbon monoxide detector,Essentials,Shampoo,Hangers,Hair dryer,Iron,Laptop friendly workspace",
+                "listing_url": "https://www.airbnb.com/rooms/14146368",
+                "calendar_updated": "2 weeks ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/9046786/profile_pic/1396283139/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 5,
+                "host_name": "Clemence",
+                "host_response_time": "within a few hours",
+                "host_about": "Hello\r\nCiaran and I live in London . I'm French and he's Irish . Ciaran runs a bike shop and I work in fashion . We love travelling and usually use Airbnb when we go on an adventure ! \r\n\r\nWe have a spare room in our family flat that we put on Airbnb when we don't have friends or family staying with us .\r\n\r\nWe also manage our friends and family amazing apartments in Stoke Newington when they are away . Check out our different listings!",
+                "availability_365": 192,
+                "bed_type": "Real Bed",
+                "zipcode": "N16",
+                "longitude": "-0.0825195327513658",
+                "maximum_nights": 8,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0825195327513658,
+                    51.560160420177304
+                ]
+            },
+            "record_timestamp": "2020-08-02T17:09:33.658Z"
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "host_response_time",
+            "facets": [
+                {
+                    "name": "within an hour",
+                    "count": 17040,
+                    "state": "displayed",
+                    "path": "within an hour"
+                },
+                {
+                    "name": "within a few hours",
+                    "count": 10301,
+                    "state": "displayed",
+                    "path": "within a few hours"
+                },
+                {
+                    "name": "within a day",
+                    "count": 7087,
+                    "state": "displayed",
+                    "path": "within a day"
+                },
+                {
+                    "name": "a few days or more",
+                    "count": 1343,
+                    "state": "displayed",
+                    "path": "a few days or more"
+                }
+            ]
+        },
+        {
+            "name": "host_response_rate",
+            "facets": [
+                {
+                    "name": "100",
+                    "count": 23369,
+                    "state": "displayed",
+                    "path": "100"
+                },
+                {
+                    "name": "99",
+                    "count": 1524,
+                    "state": "displayed",
+                    "path": "99"
+                },
+                {
+                    "name": "98",
+                    "count": 1391,
+                    "state": "displayed",
+                    "path": "98"
+                },
+                {
+                    "name": "90",
+                    "count": 1196,
+                    "state": "displayed",
+                    "path": "90"
+                },
+                {
+                    "name": "0",
+                    "count": 830,
+                    "state": "displayed",
+                    "path": "0"
+                },
+                {
+                    "name": "80",
+                    "count": 669,
+                    "state": "displayed",
+                    "path": "80"
+                },
+                {
+                    "name": "97",
+                    "count": 611,
+                    "state": "displayed",
+                    "path": "97"
+                },
+                {
+                    "name": "50",
+                    "count": 526,
+                    "state": "displayed",
+                    "path": "50"
+                },
+                {
+                    "name": "94",
+                    "count": 496,
+                    "state": "displayed",
+                    "path": "94"
+                },
+                {
+                    "name": "95",
+                    "count": 377,
+                    "state": "displayed",
+                    "path": "95"
+                },
+                {
+                    "name": "67",
+                    "count": 369,
+                    "state": "displayed",
+                    "path": "67"
+                },
+                {
+                    "name": "96",
+                    "count": 369,
+                    "state": "displayed",
+                    "path": "96"
+                },
+                {
+                    "name": "92",
+                    "count": 316,
+                    "state": "displayed",
+                    "path": "92"
+                },
+                {
+                    "name": "75",
+                    "count": 309,
+                    "state": "displayed",
+                    "path": "75"
+                },
+                {
+                    "name": "93",
+                    "count": 295,
+                    "state": "displayed",
+                    "path": "93"
+                },
+                {
+                    "name": "83",
+                    "count": 256,
+                    "state": "displayed",
+                    "path": "83"
+                },
+                {
+                    "name": "89",
+                    "count": 236,
+                    "state": "displayed",
+                    "path": "89"
+                },
+                {
+                    "name": "86",
+                    "count": 234,
+                    "state": "displayed",
+                    "path": "86"
+                },
+                {
+                    "name": "88",
+                    "count": 221,
+                    "state": "displayed",
+                    "path": "88"
+                },
+                {
+                    "name": "60",
+                    "count": 217,
+                    "state": "displayed",
+                    "path": "60"
+                },
+                {
+                    "name": "70",
+                    "count": 202,
+                    "state": "displayed",
+                    "path": "70"
+                },
+                {
+                    "name": "91",
+                    "count": 170,
+                    "state": "displayed",
+                    "path": "91"
+                },
+                {
+                    "name": "79",
+                    "count": 154,
+                    "state": "displayed",
+                    "path": "79"
+                },
+                {
+                    "name": "33",
+                    "count": 150,
+                    "state": "displayed",
+                    "path": "33"
+                },
+                {
+                    "name": "85",
+                    "count": 106,
+                    "state": "displayed",
+                    "path": "85"
+                },
+                {
+                    "name": "40",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "40"
+                },
+                {
+                    "name": "82",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "82"
+                },
+                {
+                    "name": "87",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "87"
+                },
+                {
+                    "name": "71",
+                    "count": 73,
+                    "state": "displayed",
+                    "path": "71"
+                },
+                {
+                    "name": "78",
+                    "count": 67,
+                    "state": "displayed",
+                    "path": "78"
+                },
+                {
+                    "name": "84",
+                    "count": 67,
+                    "state": "displayed",
+                    "path": "84"
+                },
+                {
+                    "name": "25",
+                    "count": 60,
+                    "state": "displayed",
+                    "path": "25"
+                },
+                {
+                    "name": "81",
+                    "count": 60,
+                    "state": "displayed",
+                    "path": "81"
+                },
+                {
+                    "name": "77",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "77"
+                },
+                {
+                    "name": "63",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "63"
+                },
+                {
+                    "name": "57",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "57"
+                },
+                {
+                    "name": "72",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "72"
+                },
+                {
+                    "name": "74",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "74"
+                },
+                {
+                    "name": "30",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "30"
+                },
+                {
+                    "name": "65",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "65"
+                },
+                {
+                    "name": "73",
+                    "count": 27,
+                    "state": "displayed",
+                    "path": "73"
+                },
+                {
+                    "name": "43",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "43"
+                },
+                {
+                    "name": "76",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "76"
+                },
+                {
+                    "name": "20",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "20"
+                },
+                {
+                    "name": "56",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "56"
+                },
+                {
+                    "name": "69",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "69"
+                },
+                {
+                    "name": "17",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "17"
+                },
+                {
+                    "name": "62",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "62"
+                },
+                {
+                    "name": "14",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "14"
+                },
+                {
+                    "name": "64",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "64"
+                },
+                {
+                    "name": "18",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "18"
+                },
+                {
+                    "name": "53",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "53"
+                },
+                {
+                    "name": "58",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "58"
+                },
+                {
+                    "name": "46",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "46"
+                },
+                {
+                    "name": "44",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "44"
+                },
+                {
+                    "name": "55",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "55"
+                },
+                {
+                    "name": "5",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "5"
+                },
+                {
+                    "name": "59",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "59"
+                },
+                {
+                    "name": "61",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "61"
+                },
+                {
+                    "name": "6",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "6"
+                },
+                {
+                    "name": "19",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "19"
+                },
+                {
+                    "name": "38",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "38"
+                },
+                {
+                    "name": "10",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "10"
+                },
+                {
+                    "name": "29",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "29"
+                },
+                {
+                    "name": "68",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "68"
+                },
+                {
+                    "name": "28",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "28"
+                },
+                {
+                    "name": "66",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "66"
+                },
+                {
+                    "name": "13",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "13"
+                },
+                {
+                    "name": "34",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "34"
+                },
+                {
+                    "name": "47",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "47"
+                },
+                {
+                    "name": "54",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "54"
+                },
+                {
+                    "name": "7",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "7"
+                },
+                {
+                    "name": "9",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "9"
+                },
+                {
+                    "name": "15",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "15"
+                },
+                {
+                    "name": "21",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "21"
+                },
+                {
+                    "name": "22",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "22"
+                },
+                {
+                    "name": "23",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "23"
+                },
+                {
+                    "name": "31",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "31"
+                },
+                {
+                    "name": "35",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "35"
+                },
+                {
+                    "name": "39",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "39"
+                },
+                {
+                    "name": "48",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "48"
+                },
+                {
+                    "name": "49",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "49"
+                }
+            ]
+        },
+        {
+            "name": "host_verifications",
+            "facets": [
+                {
+                    "name": "phone",
+                    "count": 46955,
+                    "state": "displayed",
+                    "path": "phone"
+                },
+                {
+                    "name": "email",
+                    "count": 45205,
+                    "state": "displayed",
+                    "path": "email"
+                },
+                {
+                    "name": "reviews",
+                    "count": 41638,
+                    "state": "displayed",
+                    "path": "reviews"
+                },
+                {
+                    "name": "jumio",
+                    "count": 29710,
+                    "state": "displayed",
+                    "path": "jumio"
+                },
+                {
+                    "name": "facebook",
+                    "count": 10554,
+                    "state": "displayed",
+                    "path": "facebook"
+                },
+                {
+                    "name": "government_id",
+                    "count": 8424,
+                    "state": "displayed",
+                    "path": "government_id"
+                },
+                {
+                    "name": "google",
+                    "count": 2177,
+                    "state": "displayed",
+                    "path": "google"
+                },
+                {
+                    "name": "offline_government_id",
+                    "count": 1672,
+                    "state": "displayed",
+                    "path": "offline_government_id"
+                },
+                {
+                    "name": "manual_offline",
+                    "count": 1268,
+                    "state": "displayed",
+                    "path": "manual_offline"
+                },
+                {
+                    "name": "linkedin",
+                    "count": 1263,
+                    "state": "displayed",
+                    "path": "linkedin"
+                },
+                {
+                    "name": "manual_online",
+                    "count": 472,
+                    "state": "displayed",
+                    "path": "manual_online"
+                },
+                {
+                    "name": "kba",
+                    "count": 388,
+                    "state": "displayed",
+                    "path": "kba"
+                },
+                {
+                    "name": "selfie",
+                    "count": 103,
+                    "state": "displayed",
+                    "path": "selfie"
+                },
+                {
+                    "name": "sent_id",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "sent_id"
+                },
+                {
+                    "name": "weibo",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "weibo"
+                },
+                {
+                    "name": "photographer",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "photographer"
+                },
+                {
+                    "name": "None",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "None"
+                },
+                {
+                    "name": "sesame",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "sesame"
+                },
+                {
+                    "name": "sesame_offline",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "sesame_offline"
+                },
+                {
+                    "name": "amex",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "amex"
+                }
+            ]
+        },
+        {
+            "name": "city",
+            "facets": [
+                {
+                    "name": "London",
+                    "count": 47423,
+                    "state": "refined",
+                    "path": "London"
+                }
+            ]
+        },
+        {
+            "name": "country",
+            "facets": [
+                {
+                    "name": "United Kingdom",
+                    "count": 47423,
+                    "state": "displayed",
+                    "path": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "name": "property_type",
+            "facets": [
+                {
+                    "name": "Apartment",
+                    "count": 34882,
+                    "state": "displayed",
+                    "path": "Apartment"
+                },
+                {
+                    "name": "House",
+                    "count": 10528,
+                    "state": "displayed",
+                    "path": "House"
+                },
+                {
+                    "name": "Bed & Breakfast",
+                    "count": 791,
+                    "state": "displayed",
+                    "path": "Bed & Breakfast"
+                },
+                {
+                    "name": "Townhouse",
+                    "count": 333,
+                    "state": "displayed",
+                    "path": "Townhouse"
+                },
+                {
+                    "name": "Loft",
+                    "count": 231,
+                    "state": "displayed",
+                    "path": "Loft"
+                },
+                {
+                    "name": "Other",
+                    "count": 226,
+                    "state": "displayed",
+                    "path": "Other"
+                },
+                {
+                    "name": "Dorm",
+                    "count": 83,
+                    "state": "displayed",
+                    "path": "Dorm"
+                },
+                {
+                    "name": "Guesthouse",
+                    "count": 63,
+                    "state": "displayed",
+                    "path": "Guesthouse"
+                },
+                {
+                    "name": "Serviced apartment",
+                    "count": 61,
+                    "state": "displayed",
+                    "path": "Serviced apartment"
+                },
+                {
+                    "name": "Boat",
+                    "count": 52,
+                    "state": "displayed",
+                    "path": "Boat"
+                },
+                {
+                    "name": "Condominium",
+                    "count": 45,
+                    "state": "displayed",
+                    "path": "Condominium"
+                },
+                {
+                    "name": "Boutique hotel",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "Boutique hotel"
+                },
+                {
+                    "name": "Cabin",
+                    "count": 25,
+                    "state": "displayed",
+                    "path": "Cabin"
+                },
+                {
+                    "name": "Hostel",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Hostel"
+                },
+                {
+                    "name": "Bungalow",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "Bungalow"
+                },
+                {
+                    "name": "Villa",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Villa"
+                },
+                {
+                    "name": "Camper/RV",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Camper/RV"
+                },
+                {
+                    "name": "Chalet",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Chalet"
+                },
+                {
+                    "name": "Yurt",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Yurt"
+                },
+                {
+                    "name": "Castle",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Castle"
+                },
+                {
+                    "name": "Hut",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Hut"
+                },
+                {
+                    "name": "Cave",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Cave"
+                },
+                {
+                    "name": "Igloo",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Igloo"
+                },
+                {
+                    "name": "Parking Space",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Parking Space"
+                },
+                {
+                    "name": "Ryokan (Japan)",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Ryokan (Japan)"
+                },
+                {
+                    "name": "Tent",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Tent"
+                }
+            ]
+        },
+        {
+            "name": "room_type",
+            "facets": [
+                {
+                    "name": "Entire home/apt",
+                    "count": 24650,
+                    "state": "displayed",
+                    "path": "Entire home/apt"
+                },
+                {
+                    "name": "Private room",
+                    "count": 22203,
+                    "state": "displayed",
+                    "path": "Private room"
+                },
+                {
+                    "name": "Shared room",
+                    "count": 570,
+                    "state": "displayed",
+                    "path": "Shared room"
+                }
+            ]
+        },
+        {
+            "name": "bed_type",
+            "facets": [
+                {
+                    "name": "Real Bed",
+                    "count": 46504,
+                    "state": "displayed",
+                    "path": "Real Bed"
+                },
+                {
+                    "name": "Pull-out Sofa",
+                    "count": 552,
+                    "state": "displayed",
+                    "path": "Pull-out Sofa"
+                },
+                {
+                    "name": "Futon",
+                    "count": 219,
+                    "state": "displayed",
+                    "path": "Futon"
+                },
+                {
+                    "name": "Couch",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "Couch"
+                },
+                {
+                    "name": "Airbed",
+                    "count": 49,
+                    "state": "displayed",
+                    "path": "Airbed"
+                }
+            ]
+        },
+        {
+            "name": "amenities",
+            "facets": [
+                {
+                    "name": "Wireless Internet",
+                    "count": 45008,
+                    "state": "displayed",
+                    "path": "Wireless Internet"
+                },
+                {
+                    "name": "Heating",
+                    "count": 44669,
+                    "state": "displayed",
+                    "path": "Heating"
+                },
+                {
+                    "name": "Kitchen",
+                    "count": 44043,
+                    "state": "displayed",
+                    "path": "Kitchen"
+                },
+                {
+                    "name": "Essentials",
+                    "count": 40282,
+                    "state": "displayed",
+                    "path": "Essentials"
+                },
+                {
+                    "name": "Washer",
+                    "count": 39937,
+                    "state": "displayed",
+                    "path": "Washer"
+                },
+                {
+                    "name": "Smoke detector",
+                    "count": 37022,
+                    "state": "displayed",
+                    "path": "Smoke detector"
+                },
+                {
+                    "name": "TV",
+                    "count": 31491,
+                    "state": "displayed",
+                    "path": "TV"
+                },
+                {
+                    "name": "Hangers",
+                    "count": 29153,
+                    "state": "displayed",
+                    "path": "Hangers"
+                },
+                {
+                    "name": "Internet",
+                    "count": 28704,
+                    "state": "displayed",
+                    "path": "Internet"
+                },
+                {
+                    "name": "Iron",
+                    "count": 28631,
+                    "state": "displayed",
+                    "path": "Iron"
+                },
+                {
+                    "name": "Shampoo",
+                    "count": 27540,
+                    "state": "displayed",
+                    "path": "Shampoo"
+                },
+                {
+                    "name": "Hair dryer",
+                    "count": 25767,
+                    "state": "displayed",
+                    "path": "Hair dryer"
+                },
+                {
+                    "name": "Family/kid friendly",
+                    "count": 25370,
+                    "state": "displayed",
+                    "path": "Family/kid friendly"
+                },
+                {
+                    "name": "Laptop friendly workspace",
+                    "count": 23407,
+                    "state": "displayed",
+                    "path": "Laptop friendly workspace"
+                },
+                {
+                    "name": "Carbon monoxide detector",
+                    "count": 21842,
+                    "state": "displayed",
+                    "path": "Carbon monoxide detector"
+                },
+                {
+                    "name": "Dryer",
+                    "count": 20654,
+                    "state": "displayed",
+                    "path": "Dryer"
+                },
+                {
+                    "name": "translation missing: en.hosting_amenity_50",
+                    "count": 15359,
+                    "state": "displayed",
+                    "path": "translation missing: en.hosting_amenity_50"
+                },
+                {
+                    "name": "Buzzer/wireless intercom",
+                    "count": 13549,
+                    "state": "displayed",
+                    "path": "Buzzer/wireless intercom"
+                },
+                {
+                    "name": "First aid kit",
+                    "count": 13235,
+                    "state": "displayed",
+                    "path": "First aid kit"
+                },
+                {
+                    "name": "Fire extinguisher",
+                    "count": 12502,
+                    "state": "displayed",
+                    "path": "Fire extinguisher"
+                },
+                {
+                    "name": "translation missing: en.hosting_amenity_49",
+                    "count": 12019,
+                    "state": "displayed",
+                    "path": "translation missing: en.hosting_amenity_49"
+                },
+                {
+                    "name": "Elevator in building",
+                    "count": 11404,
+                    "state": "displayed",
+                    "path": "Elevator in building"
+                },
+                {
+                    "name": "24-hour check-in",
+                    "count": 10950,
+                    "state": "displayed",
+                    "path": "24-hour check-in"
+                },
+                {
+                    "name": "Free parking on premises",
+                    "count": 9503,
+                    "state": "displayed",
+                    "path": "Free parking on premises"
+                },
+                {
+                    "name": "Cable TV",
+                    "count": 9315,
+                    "state": "displayed",
+                    "path": "Cable TV"
+                },
+                {
+                    "name": "Breakfast",
+                    "count": 6869,
+                    "state": "displayed",
+                    "path": "Breakfast"
+                },
+                {
+                    "name": "Lock on bedroom door",
+                    "count": 6014,
+                    "state": "displayed",
+                    "path": "Lock on bedroom door"
+                },
+                {
+                    "name": "Safety card",
+                    "count": 5738,
+                    "state": "displayed",
+                    "path": "Safety card"
+                },
+                {
+                    "name": "Indoor fireplace",
+                    "count": 4216,
+                    "state": "displayed",
+                    "path": "Indoor fireplace"
+                },
+                {
+                    "name": "Smoking allowed",
+                    "count": 3858,
+                    "state": "displayed",
+                    "path": "Smoking allowed"
+                },
+                {
+                    "name": "Pets allowed",
+                    "count": 3749,
+                    "state": "displayed",
+                    "path": "Pets allowed"
+                },
+                {
+                    "name": "Hot tub",
+                    "count": 3469,
+                    "state": "displayed",
+                    "path": "Hot tub"
+                },
+                {
+                    "name": "Pets live on this property",
+                    "count": 3272,
+                    "state": "displayed",
+                    "path": "Pets live on this property"
+                },
+                {
+                    "name": "Wheelchair accessible",
+                    "count": 3038,
+                    "state": "displayed",
+                    "path": "Wheelchair accessible"
+                },
+                {
+                    "name": "Air conditioning",
+                    "count": 2527,
+                    "state": "displayed",
+                    "path": "Air conditioning"
+                },
+                {
+                    "name": "Self Check-In",
+                    "count": 2027,
+                    "state": "displayed",
+                    "path": "Self Check-In"
+                },
+                {
+                    "name": "Doorman",
+                    "count": 1919,
+                    "state": "displayed",
+                    "path": "Doorman"
+                },
+                {
+                    "name": "Cat(s)",
+                    "count": 1845,
+                    "state": "displayed",
+                    "path": "Cat(s)"
+                },
+                {
+                    "name": "Lockbox",
+                    "count": 1560,
+                    "state": "displayed",
+                    "path": "Lockbox"
+                },
+                {
+                    "name": "Gym",
+                    "count": 1527,
+                    "state": "displayed",
+                    "path": "Gym"
+                },
+                {
+                    "name": "Private entrance",
+                    "count": 1478,
+                    "state": "displayed",
+                    "path": "Private entrance"
+                },
+                {
+                    "name": "Suitable for events",
+                    "count": 1321,
+                    "state": "displayed",
+                    "path": "Suitable for events"
+                },
+                {
+                    "name": "Dog(s)",
+                    "count": 990,
+                    "state": "displayed",
+                    "path": "Dog(s)"
+                },
+                {
+                    "name": "Private living room",
+                    "count": 640,
+                    "state": "displayed",
+                    "path": "Private living room"
+                },
+                {
+                    "name": "Pool",
+                    "count": 358,
+                    "state": "displayed",
+                    "path": "Pool"
+                },
+                {
+                    "name": "Doorman Entry",
+                    "count": 268,
+                    "state": "displayed",
+                    "path": "Doorman Entry"
+                },
+                {
+                    "name": "Keypad",
+                    "count": 132,
+                    "state": "displayed",
+                    "path": "Keypad"
+                },
+                {
+                    "name": "Other pet(s)",
+                    "count": 117,
+                    "state": "displayed",
+                    "path": "Other pet(s)"
+                },
+                {
+                    "name": "Smartlock",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "Smartlock"
+                },
+                {
+                    "name": "Washer / Dryer",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "Washer / Dryer"
+                },
+                {
+                    "name": "Free parking on street",
+                    "count": 26,
+                    "state": "displayed",
+                    "path": "Free parking on street"
+                },
+                {
+                    "name": "Paid parking off premises",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "Paid parking off premises"
+                }
+            ]
+        },
+        {
+            "name": "availability_365",
+            "facets": [
+                {
+                    "name": "0",
+                    "count": 10980,
+                    "state": "displayed",
+                    "path": "0"
+                },
+                {
+                    "name": "365",
+                    "count": 3641,
+                    "state": "displayed",
+                    "path": "365"
+                },
+                {
+                    "name": "364",
+                    "count": 1469,
+                    "state": "displayed",
+                    "path": "364"
+                },
+                {
+                    "name": "62",
+                    "count": 846,
+                    "state": "displayed",
+                    "path": "62"
+                },
+                {
+                    "name": "89",
+                    "count": 621,
+                    "state": "displayed",
+                    "path": "89"
+                },
+                {
+                    "name": "63",
+                    "count": 547,
+                    "state": "displayed",
+                    "path": "63"
+                },
+                {
+                    "name": "363",
+                    "count": 543,
+                    "state": "displayed",
+                    "path": "363"
+                },
+                {
+                    "name": "90",
+                    "count": 540,
+                    "state": "displayed",
+                    "path": "90"
+                },
+                {
+                    "name": "362",
+                    "count": 358,
+                    "state": "displayed",
+                    "path": "362"
+                },
+                {
+                    "name": "88",
+                    "count": 351,
+                    "state": "displayed",
+                    "path": "88"
+                },
+                {
+                    "name": "179",
+                    "count": 315,
+                    "state": "displayed",
+                    "path": "179"
+                },
+                {
+                    "name": "358",
+                    "count": 277,
+                    "state": "displayed",
+                    "path": "358"
+                },
+                {
+                    "name": "180",
+                    "count": 263,
+                    "state": "displayed",
+                    "path": "180"
+                },
+                {
+                    "name": "87",
+                    "count": 224,
+                    "state": "displayed",
+                    "path": "87"
+                },
+                {
+                    "name": "1",
+                    "count": 222,
+                    "state": "displayed",
+                    "path": "1"
+                },
+                {
+                    "name": "83",
+                    "count": 207,
+                    "state": "displayed",
+                    "path": "83"
+                },
+                {
+                    "name": "361",
+                    "count": 198,
+                    "state": "displayed",
+                    "path": "361"
+                },
+                {
+                    "name": "3",
+                    "count": 195,
+                    "state": "displayed",
+                    "path": "3"
+                },
+                {
+                    "name": "337",
+                    "count": 190,
+                    "state": "displayed",
+                    "path": "337"
+                },
+                {
+                    "name": "359",
+                    "count": 182,
+                    "state": "displayed",
+                    "path": "359"
+                },
+                {
+                    "name": "15",
+                    "count": 179,
+                    "state": "displayed",
+                    "path": "15"
+                },
+                {
+                    "name": "357",
+                    "count": 176,
+                    "state": "displayed",
+                    "path": "357"
+                },
+                {
+                    "name": "6",
+                    "count": 175,
+                    "state": "displayed",
+                    "path": "6"
+                },
+                {
+                    "name": "8",
+                    "count": 173,
+                    "state": "displayed",
+                    "path": "8"
+                },
+                {
+                    "name": "360",
+                    "count": 169,
+                    "state": "displayed",
+                    "path": "360"
+                },
+                {
+                    "name": "2",
+                    "count": 167,
+                    "state": "displayed",
+                    "path": "2"
+                },
+                {
+                    "name": "11",
+                    "count": 167,
+                    "state": "displayed",
+                    "path": "11"
+                },
+                {
+                    "name": "14",
+                    "count": 167,
+                    "state": "displayed",
+                    "path": "14"
+                },
+                {
+                    "name": "4",
+                    "count": 166,
+                    "state": "displayed",
+                    "path": "4"
+                },
+                {
+                    "name": "16",
+                    "count": 165,
+                    "state": "displayed",
+                    "path": "16"
+                },
+                {
+                    "name": "31",
+                    "count": 164,
+                    "state": "displayed",
+                    "path": "31"
+                },
+                {
+                    "name": "356",
+                    "count": 160,
+                    "state": "displayed",
+                    "path": "356"
+                },
+                {
+                    "name": "7",
+                    "count": 159,
+                    "state": "displayed",
+                    "path": "7"
+                },
+                {
+                    "name": "9",
+                    "count": 158,
+                    "state": "displayed",
+                    "path": "9"
+                },
+                {
+                    "name": "61",
+                    "count": 155,
+                    "state": "displayed",
+                    "path": "61"
+                },
+                {
+                    "name": "338",
+                    "count": 155,
+                    "state": "displayed",
+                    "path": "338"
+                },
+                {
+                    "name": "5",
+                    "count": 151,
+                    "state": "displayed",
+                    "path": "5"
+                },
+                {
+                    "name": "32",
+                    "count": 151,
+                    "state": "displayed",
+                    "path": "32"
+                },
+                {
+                    "name": "12",
+                    "count": 148,
+                    "state": "displayed",
+                    "path": "12"
+                },
+                {
+                    "name": "10",
+                    "count": 147,
+                    "state": "displayed",
+                    "path": "10"
+                },
+                {
+                    "name": "24",
+                    "count": 147,
+                    "state": "displayed",
+                    "path": "24"
+                },
+                {
+                    "name": "73",
+                    "count": 147,
+                    "state": "displayed",
+                    "path": "73"
+                },
+                {
+                    "name": "91",
+                    "count": 146,
+                    "state": "displayed",
+                    "path": "91"
+                },
+                {
+                    "name": "336",
+                    "count": 146,
+                    "state": "displayed",
+                    "path": "336"
+                },
+                {
+                    "name": "20",
+                    "count": 144,
+                    "state": "displayed",
+                    "path": "20"
+                },
+                {
+                    "name": "28",
+                    "count": 144,
+                    "state": "displayed",
+                    "path": "28"
+                },
+                {
+                    "name": "27",
+                    "count": 141,
+                    "state": "displayed",
+                    "path": "27"
+                },
+                {
+                    "name": "178",
+                    "count": 141,
+                    "state": "displayed",
+                    "path": "178"
+                },
+                {
+                    "name": "19",
+                    "count": 140,
+                    "state": "displayed",
+                    "path": "19"
+                },
+                {
+                    "name": "351",
+                    "count": 139,
+                    "state": "displayed",
+                    "path": "351"
+                },
+                {
+                    "name": "354",
+                    "count": 138,
+                    "state": "displayed",
+                    "path": "354"
+                },
+                {
+                    "name": "13",
+                    "count": 136,
+                    "state": "displayed",
+                    "path": "13"
+                },
+                {
+                    "name": "353",
+                    "count": 135,
+                    "state": "displayed",
+                    "path": "353"
+                },
+                {
+                    "name": "355",
+                    "count": 135,
+                    "state": "displayed",
+                    "path": "355"
+                },
+                {
+                    "name": "26",
+                    "count": 134,
+                    "state": "displayed",
+                    "path": "26"
+                },
+                {
+                    "name": "84",
+                    "count": 134,
+                    "state": "displayed",
+                    "path": "84"
+                },
+                {
+                    "name": "17",
+                    "count": 131,
+                    "state": "displayed",
+                    "path": "17"
+                },
+                {
+                    "name": "334",
+                    "count": 130,
+                    "state": "displayed",
+                    "path": "334"
+                },
+                {
+                    "name": "18",
+                    "count": 129,
+                    "state": "displayed",
+                    "path": "18"
+                },
+                {
+                    "name": "23",
+                    "count": 127,
+                    "state": "displayed",
+                    "path": "23"
+                },
+                {
+                    "name": "307",
+                    "count": 127,
+                    "state": "displayed",
+                    "path": "307"
+                },
+                {
+                    "name": "308",
+                    "count": 127,
+                    "state": "displayed",
+                    "path": "308"
+                },
+                {
+                    "name": "22",
+                    "count": 125,
+                    "state": "displayed",
+                    "path": "22"
+                },
+                {
+                    "name": "57",
+                    "count": 125,
+                    "state": "displayed",
+                    "path": "57"
+                },
+                {
+                    "name": "346",
+                    "count": 124,
+                    "state": "displayed",
+                    "path": "346"
+                },
+                {
+                    "name": "345",
+                    "count": 122,
+                    "state": "displayed",
+                    "path": "345"
+                },
+                {
+                    "name": "74",
+                    "count": 121,
+                    "state": "displayed",
+                    "path": "74"
+                },
+                {
+                    "name": "352",
+                    "count": 121,
+                    "state": "displayed",
+                    "path": "352"
+                },
+                {
+                    "name": "21",
+                    "count": 120,
+                    "state": "displayed",
+                    "path": "21"
+                },
+                {
+                    "name": "85",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "85"
+                },
+                {
+                    "name": "25",
+                    "count": 117,
+                    "state": "displayed",
+                    "path": "25"
+                },
+                {
+                    "name": "71",
+                    "count": 117,
+                    "state": "displayed",
+                    "path": "71"
+                },
+                {
+                    "name": "29",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "29"
+                },
+                {
+                    "name": "59",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "59"
+                },
+                {
+                    "name": "72",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "72"
+                },
+                {
+                    "name": "335",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "335"
+                },
+                {
+                    "name": "339",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "339"
+                },
+                {
+                    "name": "348",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "348"
+                },
+                {
+                    "name": "33",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "33"
+                },
+                {
+                    "name": "77",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "77"
+                },
+                {
+                    "name": "82",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "82"
+                },
+                {
+                    "name": "332",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "332"
+                },
+                {
+                    "name": "60",
+                    "count": 113,
+                    "state": "displayed",
+                    "path": "60"
+                },
+                {
+                    "name": "58",
+                    "count": 112,
+                    "state": "displayed",
+                    "path": "58"
+                },
+                {
+                    "name": "81",
+                    "count": 112,
+                    "state": "displayed",
+                    "path": "81"
+                },
+                {
+                    "name": "342",
+                    "count": 111,
+                    "state": "displayed",
+                    "path": "342"
+                },
+                {
+                    "name": "70",
+                    "count": 110,
+                    "state": "displayed",
+                    "path": "70"
+                },
+                {
+                    "name": "68",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "68"
+                },
+                {
+                    "name": "80",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "80"
+                },
+                {
+                    "name": "330",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "330"
+                },
+                {
+                    "name": "333",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "333"
+                },
+                {
+                    "name": "343",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "343"
+                },
+                {
+                    "name": "344",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "344"
+                },
+                {
+                    "name": "349",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "349"
+                },
+                {
+                    "name": "48",
+                    "count": 108,
+                    "state": "displayed",
+                    "path": "48"
+                },
+                {
+                    "name": "30",
+                    "count": 107,
+                    "state": "displayed",
+                    "path": "30"
+                },
+                {
+                    "name": "86",
+                    "count": 107,
+                    "state": "displayed",
+                    "path": "86"
+                },
+                {
+                    "name": "47",
+                    "count": 106,
+                    "state": "displayed",
+                    "path": "47"
+                },
+                {
+                    "name": "350",
+                    "count": 106,
+                    "state": "displayed",
+                    "path": "350"
+                },
+                {
+                    "name": "38",
+                    "count": 105,
+                    "state": "displayed",
+                    "path": "38"
+                },
+                {
+                    "name": "54",
+                    "count": 104,
+                    "state": "displayed",
+                    "path": "54"
+                },
+                {
+                    "name": "56",
+                    "count": 104,
+                    "state": "displayed",
+                    "path": "56"
+                },
+                {
+                    "name": "76",
+                    "count": 104,
+                    "state": "displayed",
+                    "path": "76"
+                },
+                {
+                    "name": "64",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "64"
+                },
+                {
+                    "name": "78",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "78"
+                },
+                {
+                    "name": "154",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "154"
+                },
+                {
+                    "name": "55",
+                    "count": 101,
+                    "state": "displayed",
+                    "path": "55"
+                },
+                {
+                    "name": "40",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "40"
+                },
+                {
+                    "name": "347",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "347"
+                },
+                {
+                    "name": "52",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "52"
+                },
+                {
+                    "name": "75",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "75"
+                },
+                {
+                    "name": "181",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "181"
+                },
+                {
+                    "name": "39",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "39"
+                },
+                {
+                    "name": "45",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "45"
+                },
+                {
+                    "name": "302",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "302"
+                },
+                {
+                    "name": "309",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "309"
+                },
+                {
+                    "name": "43",
+                    "count": 97,
+                    "state": "displayed",
+                    "path": "43"
+                },
+                {
+                    "name": "66",
+                    "count": 97,
+                    "state": "displayed",
+                    "path": "66"
+                },
+                {
+                    "name": "34",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "34"
+                },
+                {
+                    "name": "37",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "37"
+                },
+                {
+                    "name": "53",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "53"
+                },
+                {
+                    "name": "36",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "36"
+                },
+                {
+                    "name": "79",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "79"
+                },
+                {
+                    "name": "246",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "246"
+                },
+                {
+                    "name": "323",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "323"
+                },
+                {
+                    "name": "329",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "329"
+                },
+                {
+                    "name": "341",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "341"
+                },
+                {
+                    "name": "65",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "65"
+                },
+                {
+                    "name": "153",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "153"
+                },
+                {
+                    "name": "326",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "326"
+                },
+                {
+                    "name": "328",
+                    "count": 93,
+                    "state": "displayed",
+                    "path": "328"
+                },
+                {
+                    "name": "35",
+                    "count": 92,
+                    "state": "displayed",
+                    "path": "35"
+                },
+                {
+                    "name": "42",
+                    "count": 92,
+                    "state": "displayed",
+                    "path": "42"
+                },
+                {
+                    "name": "276",
+                    "count": 92,
+                    "state": "displayed",
+                    "path": "276"
+                },
+                {
+                    "name": "92",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "92"
+                },
+                {
+                    "name": "277",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "277"
+                },
+                {
+                    "name": "340",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "340"
+                },
+                {
+                    "name": "41",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "41"
+                },
+                {
+                    "name": "69",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "69"
+                },
+                {
+                    "name": "67",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "67"
+                },
+                {
+                    "name": "46",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "46"
+                },
+                {
+                    "name": "314",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "314"
+                },
+                {
+                    "name": "44",
+                    "count": 85,
+                    "state": "displayed",
+                    "path": "44"
+                },
+                {
+                    "name": "51",
+                    "count": 85,
+                    "state": "displayed",
+                    "path": "51"
+                },
+                {
+                    "name": "318",
+                    "count": 85,
+                    "state": "displayed",
+                    "path": "318"
+                },
+                {
+                    "name": "177",
+                    "count": 84,
+                    "state": "displayed",
+                    "path": "177"
+                },
+                {
+                    "name": "303",
+                    "count": 84,
+                    "state": "displayed",
+                    "path": "303"
+                },
+                {
+                    "name": "324",
+                    "count": 84,
+                    "state": "displayed",
+                    "path": "324"
+                },
+                {
+                    "name": "123",
+                    "count": 83,
+                    "state": "displayed",
+                    "path": "123"
+                },
+                {
+                    "name": "304",
+                    "count": 83,
+                    "state": "displayed",
+                    "path": "304"
+                },
+                {
+                    "name": "311",
+                    "count": 83,
+                    "state": "displayed",
+                    "path": "311"
+                },
+                {
+                    "name": "321",
+                    "count": 83,
+                    "state": "displayed",
+                    "path": "321"
+                },
+                {
+                    "name": "325",
+                    "count": 83,
+                    "state": "displayed",
+                    "path": "325"
+                },
+                {
+                    "name": "322",
+                    "count": 82,
+                    "state": "displayed",
+                    "path": "322"
+                },
+                {
+                    "name": "305",
+                    "count": 81,
+                    "state": "displayed",
+                    "path": "305"
+                },
+                {
+                    "name": "50",
+                    "count": 80,
+                    "state": "displayed",
+                    "path": "50"
+                },
+                {
+                    "name": "173",
+                    "count": 79,
+                    "state": "displayed",
+                    "path": "173"
+                },
+                {
+                    "name": "49",
+                    "count": 78,
+                    "state": "displayed",
+                    "path": "49"
+                },
+                {
+                    "name": "93",
+                    "count": 77,
+                    "state": "displayed",
+                    "path": "93"
+                },
+                {
+                    "name": "155",
+                    "count": 77,
+                    "state": "displayed",
+                    "path": "155"
+                },
+                {
+                    "name": "331",
+                    "count": 76,
+                    "state": "displayed",
+                    "path": "331"
+                },
+                {
+                    "name": "215",
+                    "count": 75,
+                    "state": "displayed",
+                    "path": "215"
+                },
+                {
+                    "name": "312",
+                    "count": 75,
+                    "state": "displayed",
+                    "path": "312"
+                },
+                {
+                    "name": "94",
+                    "count": 74,
+                    "state": "displayed",
+                    "path": "94"
+                },
+                {
+                    "name": "247",
+                    "count": 72,
+                    "state": "displayed",
+                    "path": "247"
+                },
+                {
+                    "name": "293",
+                    "count": 72,
+                    "state": "displayed",
+                    "path": "293"
+                },
+                {
+                    "name": "171",
+                    "count": 71,
+                    "state": "displayed",
+                    "path": "171"
+                },
+                {
+                    "name": "245",
+                    "count": 71,
+                    "state": "displayed",
+                    "path": "245"
+                },
+                {
+                    "name": "296",
+                    "count": 71,
+                    "state": "displayed",
+                    "path": "296"
+                },
+                {
+                    "name": "327",
+                    "count": 71,
+                    "state": "displayed",
+                    "path": "327"
+                },
+                {
+                    "name": "168",
+                    "count": 70,
+                    "state": "displayed",
+                    "path": "168"
+                },
+                {
+                    "name": "306",
+                    "count": 70,
+                    "state": "displayed",
+                    "path": "306"
+                },
+                {
+                    "name": "319",
+                    "count": 70,
+                    "state": "displayed",
+                    "path": "319"
+                },
+                {
+                    "name": "273",
+                    "count": 69,
+                    "state": "displayed",
+                    "path": "273"
+                },
+                {
+                    "name": "315",
+                    "count": 69,
+                    "state": "displayed",
+                    "path": "315"
+                },
+                {
+                    "name": "175",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "175"
+                },
+                {
+                    "name": "176",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "176"
+                },
+                {
+                    "name": "272",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "272"
+                },
+                {
+                    "name": "300",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "300"
+                },
+                {
+                    "name": "301",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "301"
+                },
+                {
+                    "name": "184",
+                    "count": 65,
+                    "state": "displayed",
+                    "path": "184"
+                },
+                {
+                    "name": "310",
+                    "count": 65,
+                    "state": "displayed",
+                    "path": "310"
+                },
+                {
+                    "name": "320",
+                    "count": 65,
+                    "state": "displayed",
+                    "path": "320"
+                },
+                {
+                    "name": "294",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "294"
+                },
+                {
+                    "name": "297",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "297"
+                },
+                {
+                    "name": "316",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "316"
+                },
+                {
+                    "name": "317",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "317"
+                },
+                {
+                    "name": "169",
+                    "count": 63,
+                    "state": "displayed",
+                    "path": "169"
+                },
+                {
+                    "name": "274",
+                    "count": 63,
+                    "state": "displayed",
+                    "path": "274"
+                },
+                {
+                    "name": "313",
+                    "count": 63,
+                    "state": "displayed",
+                    "path": "313"
+                },
+                {
+                    "name": "150",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "150"
+                },
+                {
+                    "name": "172",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "172"
+                },
+                {
+                    "name": "281",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "281"
+                },
+                {
+                    "name": "166",
+                    "count": 61,
+                    "state": "displayed",
+                    "path": "166"
+                },
+                {
+                    "name": "152",
+                    "count": 60,
+                    "state": "displayed",
+                    "path": "152"
+                },
+                {
+                    "name": "160",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "160"
+                },
+                {
+                    "name": "244",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "244"
+                },
+                {
+                    "name": "266",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "266"
+                },
+                {
+                    "name": "271",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "271"
+                },
+                {
+                    "name": "288",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "288"
+                }
+            ]
+        },
+        {
+            "name": "cancellation_policy",
+            "facets": [
+                {
+                    "name": "strict",
+                    "count": 19728,
+                    "state": "displayed",
+                    "path": "strict"
+                },
+                {
+                    "name": "flexible",
+                    "count": 16671,
+                    "state": "displayed",
+                    "path": "flexible"
+                },
+                {
+                    "name": "moderate",
+                    "count": 11005,
+                    "state": "displayed",
+                    "path": "moderate"
+                },
+                {
+                    "name": "super_strict_30",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "super_strict_30"
+                }
+            ]
+        },
+        {
+            "name": "features",
+            "facets": [
+                {
+                    "name": "Host Has Profile Pic",
+                    "count": 47234,
+                    "state": "displayed",
+                    "path": "Host Has Profile Pic"
+                },
+                {
+                    "name": "Is Location Exact",
+                    "count": 30928,
+                    "state": "displayed",
+                    "path": "Is Location Exact"
+                },
+                {
+                    "name": "Host Identity Verified",
+                    "count": 29148,
+                    "state": "displayed",
+                    "path": "Host Identity Verified"
+                },
+                {
+                    "name": "Instant Bookable",
+                    "count": 10741,
+                    "state": "displayed",
+                    "path": "Instant Bookable"
+                },
+                {
+                    "name": "Host Is Superhost",
+                    "count": 3794,
+                    "state": "displayed",
+                    "path": "Host Is Superhost"
+                },
+                {
+                    "name": "Require Guest Phone Verification",
+                    "count": 1409,
+                    "state": "displayed",
+                    "path": "Require Guest Phone Verification"
+                },
+                {
+                    "name": "Require Guest Profile Picture",
+                    "count": 882,
+                    "state": "displayed",
+                    "path": "Require Guest Profile Picture"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3847 @@
+{
+    "nhits": 19528,
+    "parameters": {
+        "dataset": [
+            "airbnb-listings@public"
+        ],
+        "rows": 10,
+        "start": 0,
+        "facet": [
+            "host_response_time",
+            "host_response_rate",
+            "host_verifications",
+            "city",
+            "country",
+            "property_type",
+            "room_type",
+            "bed_type",
+            "amenities",
+            "availability_365",
+            "cancellation_policy",
+            "features"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "b261cc385e1dfc1bd36c935571916912db67f2e7",
+            "fields": {
+                "host_neighbourhood": "Astoria",
+                "geolocation": [
+                    40.75806182562915,
+                    -73.92689209755501
+                ],
+                "host_verifications": "email,phone,reviews",
+                "review_scores_communication": 9,
+                "availability_90": 64,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 15,
+                "bathrooms": 1.0,
+                "description": "Large size room over looking street on the second floor apartment of a private house. Brings in plenty of sunlight from windows. Equipped with a king size bed. Located conveniently near the N/Q train line at a 4 minute walk which takes you to Central Park in less than 15 Equipped with \"Self Check-in\". If the calendar is available, you may book using instant book. Large size bedroom equipped with a king size bed and a futon. Fully automated check in system with keyless locks. Amenities provided:  -Fresh sheets and duvet -Fresh towels -Shampoo and body wash -Room Key -Wifi internet -Light breakfast (Milk, Cereal, tea and coffee)  -Hair dryer -Iron and iron board -Flexible check in and out. -Luggage can be left for later pick up. If you are booking for more than 3 persons, please consult with me before using instant book to complete your booking. You have access to the shared fully equipped kitchen and newly renovated bathroom with all the necessities including high speed wireless interne",
+                "review_scores_location": 9,
+                "accommodates": 5,
+                "summary": "Large size room over looking street on the second floor apartment of a private house. Brings in plenty of sunlight from windows. Equipped with a king size bed. Located conveniently near the N/Q train line at a 4 minute walk which takes you to Central Park in less than 15 Equipped with \"Self Check-in\". If the calendar is available, you may book using instant book.",
+                "property_type": "House",
+                "bedrooms": 1,
+                "street": "Astoria, New York, NY 11106, United States",
+                "access": "You have access to the shared fully equipped kitchen and newly renovated bathroom with all the necessities including high speed wireless internet all around the apartment.",
+                "neighbourhood_group_cleansed": "Queens",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/b383b734-b2c0-42b3-8f42-f0c534c5b5b7.jpg?aki_policy=x_large",
+                "id": "15932054",
+                "price": 50,
+                "neighbourhood_cleansed": "Astoria",
+                "reviews_per_month": 3.02,
+                "host_response_rate": 91,
+                "transit": "The Broadway Station for the N/Q Subway is less than 5 minutes walking distance from my place and runs 24/7. Getting anywhere in Manhattan is a breeze. A quick 15 minute ride will put you right by Central Park, Times Square, Upper East Side, and other popular destinations. The line will also take you right into the middle of Herald Square, Union Square, Soho, Chinatown, and more. It's an amazing subway line to be near. The N/Q subway lines also gets you to all sorts of other subways/transit hubs including The Port Authority, Grand Central Station, and Penn Station. You can buy your subway metrocards at the station. Free street parking by the house.  LGA Airport is a quick 20 minute / 20 taxi ride. There's a bus/train from LGA as well. JFK is a quick 25-30 minute / 45 Taxi ride. By public transportation it's a little over an hour and the subway is less than 6 blocks from our place. (Steinway Station stop)",
+                "neighbourhood": "Astoria",
+                "review_scores_rating": 91,
+                "smart_location": "New York, NY",
+                "host_location": "US",
+                "beds": 1,
+                "features": "Host Is Superhost,Host Has Profile Pic,Is Location Exact,Instant Bookable",
+                "space": "Large size bedroom equipped with a king size bed and a futon. Fully automated check in system with keyless locks. Amenities provided:  -Fresh sheets and duvet -Fresh towels -Shampoo and body wash -Room Key -Wifi internet -Light breakfast (Milk, Cereal, tea and coffee)  -Hair dryer -Iron and iron board -Flexible check in and out. -Luggage can be left for later pick up. If you are booking for more than 3 persons, please consult with me before using instant book to complete your booking.",
+                "host_id": "103392673",
+                "last_scraped": "2017-05-03",
+                "latitude": "40.75806182562915",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 9,
+                "state": "NY",
+                "host_since": "2016-11-12",
+                "cleaning_fee": 15,
+                "availability_60": 35,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/b383b734-b2c0-42b3-8f42-f0c534c5b5b7.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/103392673",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/b383b734-b2c0-42b3-8f42-f0c534c5b5b7.jpg?aki_policy=small",
+                "first_review": "2016-12-06",
+                "name": "Large sunny room near train NYC",
+                "neighborhood_overview": "Astoria is a very diverse neighborhood with a large variety of ethnic restaurants. Plenty of bars and supermarkets in walking distance. There is a beer garden and movie theater 4 short blocks from the house. There are enough things open late or 24 hours.",
+                "calculated_host_listings_count": 4,
+                "calendar_last_scraped": "2017-05-03",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/2f4837db-f8a7-4cf3-a6af-732afc89691e.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 4,
+                "picture_url": {
+                    "id": "898edc7fcc10e67e6e972086b81ee674",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 640,
+                    "filename": "b383b734-b2c0-42b3-8f42-f0c534c5b5b7.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(124, 123, 115, 1.00)",
+                        "rgba(74, 75, 73, 1.00)",
+                        "rgba(86, 85, 80, 1.00)"
+                    ]
+                },
+                "extra_people": 30,
+                "room_type": "Private room",
+                "notes": "Check-in is anytime after 1pm. You can self check-in using the entrance door code provided in the conformation email once booked.  You can leave your luggage in the house before you check in or after your check out for a later pick up. All of your belongings will be safe but must be picked up in a timely manner before 7pm.",
+                "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Buzzer/wireless intercom,Heating,Smoke detector,Carbon monoxide detector,Essentials,Shampoo,Lock on bedroom door,24-hour check-in,Hangers,Hair dryer,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,Self Check-In,Smartlock",
+                "listing_url": "https://www.airbnb.com/rooms/15932054",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "4 days ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/2f4837db-f8a7-4cf3-a6af-732afc89691e.jpg?aki_policy=profile_small",
+                "host_listings_count": 4,
+                "host_name": "Tarlok",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 9,
+                "interaction": "I live in the same house and usually available on the nights and at times through out the day. If you have any questions or concerns I can be available immediately via a phone call or text. Please do not knock on first floor without getting in touch with me first.",
+                "availability_365": 268,
+                "last_review": "2017-04-19",
+                "bed_type": "Real Bed",
+                "review_scores_value": 9,
+                "zipcode": "11106",
+                "longitude": "-73.92689209755501",
+                "maximum_nights": 1125,
+                "availability_30": 6,
+                "experiences_offered": "none",
+                "guests_included": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92689209755501,
+                    40.75806182562915
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "8d86df32c1b4bf383be62c8c9f9c0cc39d2e3934",
+            "fields": {
+                "host_neighbourhood": "Astoria",
+                "geolocation": [
+                    40.757609370452265,
+                    -73.92660001009925
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "review_scores_communication": 10,
+                "availability_90": 77,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 64,
+                "house_rules": "Come and go as you please. If you are checking in or out at night, please lift your luggage from the floor when moving it as it usually makes noise with the tiles and wakes up other guests.  Quiet enjoyment for you and others in the house. No loud music, noises or cooking after 9 pm, be considerate of other guests in the house. Please clean after yourselves when using the common areas (wash your dishes and throw away your garbage). No infants allowed as this apartment has several other rooms.",
+                "bathrooms": 1.5,
+                "description": "Enjoy your stay in this beautiful recently renovated private room equipped with a full size bed, located in a two story house in the heart of Astoria, minutes to Manhattan. Apartment is equipped with a bath and half, sun drenched kitchen and a patio. Enjoy your stay in this beautiful recently renovated private room equipped with a full size bed, located in a two story house in the heart of Astoria, minutes to Manhattan. Apartment is equipped with a bath and half, sun drenched kitchen and a patio. Amenities provided:  -Fresh sheets and duvet -Fresh towels -Shampoo and body wash -Room Key -Wifi internet -Light breakfast (Milk, Cereal, tea and coffee)  -Hair dryer -Personal AC/Heating unit.  -Clothing iron and iron board -Backyard access -Flexible check in and out. -Luggage can be left for later pick up. You have access to the shared fully equipped kitchen and both bathrooms with all the necessities including high speed wireless internet all around the apartment. You can also enjoy a meal",
+                "review_scores_location": 9,
+                "accommodates": 2,
+                "summary": "Enjoy your stay in this beautiful recently renovated private room equipped with a full size bed, located in a two story house in the heart of Astoria, minutes to Manhattan. Apartment is equipped with a bath and half, sun drenched kitchen and a patio.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Astoria, New York, NY 11106, United States",
+                "access": "You have access to the shared fully equipped kitchen and both bathrooms with all the necessities including high speed wireless internet all around the apartment. You can also enjoy a meal or a quick smoke in the backyard patio.",
+                "neighbourhood_group_cleansed": "Queens",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/e5470669-45c2-460d-bb4d-eb6cecd839ee.jpg?aki_policy=x_large",
+                "id": "7885338",
+                "price": 49,
+                "neighbourhood_cleansed": "Astoria",
+                "reviews_per_month": 3.08,
+                "host_response_rate": 100,
+                "transit": "The Broadway Station for the N/Q Subway is less than 5 minutes walking distance from my place and runs 24/7. Getting anywhere in Manhattan is a breeze. A quick 15 minute ride will put you right by Central Park, Times Square, Upper East Side, and other popular destinations. The line will also take you right into the middle of Herald Square, Union Square, Soho, Chinatown, and more. It's an amazing subway line to be near. The N/Q subway lines also gets you to all sorts of other subways/transit hubs including The Port Authority, Grand Central Station, and Penn Station. You can buy your subway metrocards at the station. Free street parking by the house.  LGA Airport is a quick 20 minute / 20 taxi ride. There's a bus/train from LGA as well. JFK is a quick 25-30 minute / 45 Taxi ride. By public transportation it's a little over an hour and the subway is less than 6 blocks from our place. (Steinway Station stop)",
+                "neighbourhood": "Astoria",
+                "review_scores_rating": 91,
+                "smart_location": "New York, NY",
+                "host_location": "New York, New York, United States",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact,Instant Bookable",
+                "space": "Enjoy your stay in this beautiful recently renovated private room equipped with a full size bed, located in a two story house in the heart of Astoria, minutes to Manhattan. Apartment is equipped with a bath and half, sun drenched kitchen and a patio. Amenities provided:  -Fresh sheets and duvet -Fresh towels -Shampoo and body wash -Room Key -Wifi internet -Light breakfast (Milk, Cereal, tea and coffee)  -Hair dryer -Personal AC/Heating unit.  -Clothing iron and iron board -Backyard access -Flexible check in and out. -Luggage can be left for later pick up.",
+                "host_id": "25843005",
+                "last_scraped": "2017-05-03",
+                "latitude": "40.757609370452265",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 9,
+                "state": "NY",
+                "host_since": "2015-01-09",
+                "cleaning_fee": 10,
+                "availability_60": 47,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/e5470669-45c2-460d-bb4d-eb6cecd839ee.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/25843005",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/e5470669-45c2-460d-bb4d-eb6cecd839ee.jpg?aki_policy=small",
+                "first_review": "2015-08-20",
+                "name": "Cozy room minutes to Manhattan",
+                "neighborhood_overview": "Astoria is a very diverse neighborhood with a large variety of ethnic restaurants. Plenty of bars and supermarkets in walking distance. There is a beer garden and movie theater 4 short blocks from the house. There are enough things open late or 24 hours.",
+                "calculated_host_listings_count": 8,
+                "calendar_last_scraped": "2017-05-03",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/791c4a3a-e41d-4a01-8bd5-993da9d44f6a.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 8,
+                "picture_url": {
+                    "id": "93fcd81f25028ad9a25ce2468d0d96bb",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 640,
+                    "filename": "e5470669-45c2-460d-bb4d-eb6cecd839ee.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(123, 108, 92, 1.00)",
+                        "rgba(112, 94, 76, 1.00)",
+                        "rgba(114, 91, 67, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Private room",
+                "notes": "Check-in is anytime after 1 pm. You can self check-in using the entrance door code provided in the conformation email once booked.  You can leave your luggage in the house before you check in or after your check out for a later pick up. All of your belongings will be safe but must be picked up in a timely manner before 7pm.",
+                "amenities": "Internet,Wireless Internet,Air conditioning,Kitchen,Breakfast,Buzzer/wireless intercom,Heating,Smoke detector,Carbon monoxide detector,Fire extinguisher,Essentials,Shampoo,24-hour check-in,Hangers,Hair dryer,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/7885338",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "2 weeks ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/791c4a3a-e41d-4a01-8bd5-993da9d44f6a.jpg?aki_policy=profile_small",
+                "host_listings_count": 8,
+                "host_name": "Kulwinder",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "interaction": "I live in the same house and usually available on the nights and at times through out the day. If you have any questions or concerns I can be available immediately via a phone call or text.",
+                "availability_365": 169,
+                "last_review": "2017-04-17",
+                "bed_type": "Real Bed",
+                "review_scores_value": 9,
+                "zipcode": "11106",
+                "longitude": "-73.92660001009925",
+                "maximum_nights": 1125,
+                "availability_30": 17,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92660001009925,
+                    40.757609370452265
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "f9058d12c42437a8c1e6ec97c8379f52c6bcc202",
+            "fields": {
+                "host_neighbourhood": "Battery Park City",
+                "geolocation": [
+                    40.71011910952431,
+                    -74.01504377127706
+                ],
+                "host_verifications": "email,phone,reviews,kba",
+                "review_scores_communication": 10,
+                "availability_90": 0,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 8,
+                "house_rules": "Please kindly clean up after yourself.  Don't leave dishes in the sink\u2014please use the dishwasher.  Try to leave everything cleaner than when you found it.  We prefer vegetarian eating, but we are flexible.  We don't generally have additional rules.  Some items in the kitchen are for common use; olive oil, salt, pepper and spices. Obviously water! Cooking-ware and all plates and glasses and utensils are shared and available for your comfort and use. Thanks!",
+                "bathrooms": 1.0,
+                "description": "Beautifully furnished large BR in NYC's green downtown close to all city transportation. This is a spacious room for singles or couples and comes with WIFI and access to kitchen, dishwasher and laundry. Clean and green, And right by the Hudson river! This is the Master Bedroom of a shared apartment in a secure doorman building. For the price you get access to a living room, full kitchen access and great roommates. All amenities included. You will have your own room, but share the apartment with 2 men in their 30.  We live in lovely Battery Park City. It's the south-west tip of Manhattan, right by the Hudson River and right next to the new World Trade Center. Transportation is very convenient\u2014all the trains meet down here. (4,5). (R). (1). (A,C,E). (J,M,Z); all within a 5-7 minute walk. You can be at Union Square in 15mins, including the walk to the station. You have your own room with windows facing a tree-filled courtyard, and your own bathroom. Full service and very secure doorman bu",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "Beautifully furnished large BR in NYC's green downtown close to all city transportation. This is a spacious room for singles or couples and comes with WIFI and access to kitchen, dishwasher and laundry. Clean and green, And right by the Hudson river!",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Battery Park City, New York, NY 10280, United States",
+                "neighbourhood_group_cleansed": "Manhattan",
+                "access": "Master bedroom, kitchen, private bathroom, common space; living room and kitchen table, plus dishwasher!",
+                "cancellation_policy": "flexible",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/81597844/4b6181c6_original.jpg?aki_policy=x_large",
+                "id": "470498",
+                "price": 65,
+                "neighbourhood_cleansed": "Battery Park City",
+                "reviews_per_month": 0.23,
+                "transit": "Yes, very close to all downtown trains and the PATH trains too. 1,2,3 R, 4,5,6, A,C,E, J,Z,M trains.",
+                "neighbourhood": "Battery Park City",
+                "review_scores_rating": 100,
+                "smart_location": "New York, NY",
+                "host_location": "New York, New York, United States",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "This is the Master Bedroom of a shared apartment in a secure doorman building. For the price you get access to a living room, full kitchen access and great roommates. All amenities included. You will have your own room, but share the apartment with 2 men in their 30.  We live in lovely Battery Park City. It's the south-west tip of Manhattan, right by the Hudson River and right next to the new World Trade Center. Transportation is very convenient\u2014all the trains meet down here. (4,5). (R). (1). (A,C,E). (J,M,Z); all within a 5-7 minute walk. You can be at Union Square in 15mins, including the walk to the station. You have your own room with windows facing a tree-filled courtyard, and your own bathroom. Full service and very secure doorman building. All amenities. WiFI. Air conditioning and heat. Get away from the noise and bustle of the city, and stay by the water where the air is fresh. There's dozens of green parks here and plenty to see in the new and rebuilt downtown of NYC.",
+                "host_id": "2334269",
+                "last_scraped": "2017-05-03",
+                "latitude": "40.71011910952431",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 10,
+                "state": "NY",
+                "host_since": "2012-05-09",
+                "cleaning_fee": 50,
+                "availability_60": 0,
+                "minimum_nights": 2,
+                "medium_url": "https://a0.muscache.com/im/pictures/81597844/4b6181c6_original.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/2334269",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/81597844/4b6181c6_original.jpg?aki_policy=small",
+                "first_review": "2014-06-21",
+                "name": "*Unique Master BR in Battery Park!*",
+                "neighborhood_overview": "Battery Park is clean, fresh and green. The space is super quiet, and the summer is cool and amazing down here. You have a view of trees, hear birds in the morning, and are right by the water. There's a new food court that just opened steps from here with plenty of gourmet options. There are 4 super markets including a Whole Foods within minutes walking distance. There's also a new high-end shopping center. Steps from the new WTC memorial, or the Hudson river and parks, there's plenty of things to do, and ways to enjoy this revitalized area.",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-05-03",
+                "host_picture_url": "https://a0.muscache.com/im/users/2334269/profile_pic/1391351489/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "d966d41175db719be10327689b990fb3",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "4b6181c6_original.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(138, 134, 112, 1.00)",
+                        "rgba(142, 127, 118, 1.00)",
+                        "rgba(123, 106, 100, 1.00)"
+                    ]
+                },
+                "extra_people": 15,
+                "room_type": "Private room",
+                "amenities": "TV,Internet,Wireless Internet,Air conditioning,Pool,Kitchen,Doorman,Elevator in building,Buzzer/wireless intercom,Heating,Family/kid friendly,Washer,Dryer,Smoke detector,Carbon monoxide detector,Essentials,Shampoo",
+                "listing_url": "https://www.airbnb.com/rooms/470498",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "17 months ago",
+                "monthly_price": 1550,
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/2334269/profile_pic/1391351489/original.jpg?aki_policy=profile_small",
+                "weekly_price": 400,
+                "host_listings_count": 1,
+                "host_name": "Filip",
+                "review_scores_checkin": 9,
+                "interaction": "Will meet you when you arrive. I may not be fully available during your stay, but other roommates will be living there with you, obviously in their own bedrooms.",
+                "host_about": "Friendly, fun, and occasionally funny, I grew up in New York, work as a software product designer, and when I don't want to make money, I teach yoga and meditation.\r\n\r\nI live in green and clean Battery Park City\u2014a great escape from main Manhattan\u2014but still close to everything by train. \r\n\r\nI eat vegetarian, keep houseplants, and practice meditation at home every day. My passions are also traveling, and connecting with people.\r\n\r\nI hope you can come and enjoy my cozy home\u2014the room has a lot of great vibrations, which I share kindly with you.",
+                "availability_365": 0,
+                "last_review": "2015-12-22",
+                "bed_type": "Real Bed",
+                "review_scores_value": 10,
+                "zipcode": "10280",
+                "longitude": "-74.01504377127706",
+                "maximum_nights": 31,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01504377127706,
+                    40.71011910952431
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "7e062c63dd83a0953ae0a08600f7a7e0f2df575e",
+            "fields": {
+                "geolocation": [
+                    40.714671006087336,
+                    -73.96363364439715
+                ],
+                "host_verifications": "email,phone,reviews,jumio,offline_government_id,government_id",
+                "review_scores_communication": 10,
+                "availability_90": 85,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 2,
+                "bathrooms": 1.0,
+                "description": "Cozy 1 bedroom in newly renovated apartment in Williamsburg. Between Bedford and Berry there are endless restaurants, shops, and bars to explore during your stay. Enjoy rooftop access with a breathtaking view of the NYC skyline at all hours of the day. Conveniently located near both the L and JMZ subway lines just one stop from Manhattan. Washer/dryer access as well as full use of kitchen and appliances. Come stay for a night or a week and enjoy the comforts of my beautiful apartment!",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "Cozy 1 bedroom in newly renovated apartment in Williamsburg. Between Bedford and Berry there are endless restaurants, shops, and bars to explore during your stay. Enjoy rooftop access with a breathtaking view of the NYC skyline at all hours of the day. Conveniently located near both the L and JMZ subway lines just one stop from Manhattan. Washer/dryer access as well as full use of kitchen and appliances. Come stay for a night or a week and enjoy the comforts of my beautiful apartment!",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "New York , NY 11249, United States",
+                "neighbourhood_group_cleansed": "Brooklyn",
+                "cancellation_policy": "flexible",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/57e8c095-c31c-43d6-83e9-964f1a809ce3.jpg?aki_policy=x_large",
+                "id": "17435067",
+                "price": 70,
+                "neighbourhood_cleansed": "Williamsburg",
+                "reviews_per_month": 1.02,
+                "host_response_rate": 92,
+                "review_scores_rating": 90,
+                "smart_location": "New York , NY",
+                "host_location": "US",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified",
+                "host_id": "102128176",
+                "last_scraped": "2017-05-02",
+                "latitude": "40.714671006087336",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 8,
+                "state": "NY",
+                "host_since": "2016-11-01",
+                "cleaning_fee": 15,
+                "availability_60": 55,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/57e8c095-c31c-43d6-83e9-964f1a809ce3.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/102128176",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/57e8c095-c31c-43d6-83e9-964f1a809ce3.jpg?aki_policy=small",
+                "first_review": "2017-03-05",
+                "name": "1 BR in heart of Williamsburg off Bedford",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-05-02",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/31789bf9-a656-409f-82b3-79293e5927bb.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "faedb480f51f56ff51dbf841cc5bffae",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 360,
+                    "filename": "57e8c095-c31c-43d6-83e9-964f1a809ce3.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(101, 84, 63, 1.00)",
+                        "rgba(142, 119, 96, 1.00)",
+                        "rgba(154, 132, 108, 1.00)"
+                    ]
+                },
+                "extra_people": 30,
+                "room_type": "Private room",
+                "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Heating,Washer,Dryer,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/17435067",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "4 weeks ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/31789bf9-a656-409f-82b3-79293e5927bb.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Christy",
+                "host_response_time": "within a few hours",
+                "review_scores_checkin": 10,
+                "availability_365": 85,
+                "last_review": "2017-03-19",
+                "bed_type": "Real Bed",
+                "review_scores_value": 8,
+                "zipcode": "11249",
+                "longitude": "-73.96363364439715",
+                "maximum_nights": 1125,
+                "availability_30": 25,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96363364439715,
+                    40.714671006087336
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "07fcf2dbe806b8a2bed22bad2078ba4bd9f6af32",
+            "fields": {
+                "geolocation": [
+                    40.716664157179295,
+                    -73.95625839602431
+                ],
+                "host_verifications": "email,phone,facebook,reviews,jumio,offline_government_id,government_id",
+                "review_scores_communication": 10,
+                "availability_90": 0,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 3,
+                "bathrooms": 1.0,
+                "description": "Located in the heart of Williamsburg, just one train stop from Manhattan. Right off Bedford Ave. which is full of fun restaurants, shops, movie theaters and bars. Four blocks from the Bedford Ave. L train.",
+                "review_scores_location": 10,
+                "summary": "Located in the heart of Williamsburg, just one train stop from Manhattan. Right off Bedford Ave. which is full of fun restaurants, shops, movie theaters and bars. Four blocks from the Bedford Ave. L train.",
+                "property_type": "House",
+                "accommodates": 2,
+                "bedrooms": 1,
+                "street": "New York, NY, United States",
+                "neighbourhood_group_cleansed": "Brooklyn",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/6b55de85-3ced-4b27-bb55-83b417bca70d.jpg?aki_policy=x_large",
+                "id": "16240313",
+                "price": 70,
+                "neighbourhood_cleansed": "Williamsburg",
+                "reviews_per_month": 0.6,
+                "host_response_rate": 100,
+                "review_scores_rating": 100,
+                "smart_location": "New York, NY",
+                "host_location": "New York, New York, United States",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified",
+                "host_id": "51915538",
+                "last_scraped": "2017-05-04",
+                "latitude": "40.716664157179295",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 9,
+                "state": "NY",
+                "host_since": "2015-12-21",
+                "cleaning_fee": 45,
+                "availability_60": 0,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/6b55de85-3ced-4b27-bb55-83b417bca70d.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/51915538",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/6b55de85-3ced-4b27-bb55-83b417bca70d.jpg?aki_policy=small",
+                "first_review": "2016-12-05",
+                "name": "Large Bedroom in Williamsburg Home",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-05-04",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/f9e8d17e-842c-41ad-9345-69b6a1f513f0.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 2,
+                "picture_url": {
+                    "id": "9472f537a1ba496e5b8c5e141fded6bd",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "6b55de85-3ced-4b27-bb55-83b417bca70d.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(135, 143, 98, 1.00)",
+                        "rgba(77, 82, 47, 1.00)",
+                        "rgba(101, 95, 78, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Private room",
+                "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Pets allowed,Heating,Family/kid friendly,Essentials,Shampoo,Lock on bedroom door,Hair dryer,Iron",
+                "listing_url": "https://www.airbnb.com/rooms/16240313",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "5 weeks ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/f9e8d17e-842c-41ad-9345-69b6a1f513f0.jpg?aki_policy=profile_small",
+                "host_listings_count": 2,
+                "host_name": "Alexa",
+                "host_response_time": "within a few hours",
+                "review_scores_checkin": 10,
+                "host_about": "I was born and raised in NYC, and wouldn't wanna live anywhere else. I do love to travel though, it is my favorite pastime, and where all my money goes :)\r\nI am friendly and outgoing and extremely neat",
+                "availability_365": 245,
+                "last_review": "2017-03-31",
+                "bed_type": "Real Bed",
+                "review_scores_value": 10,
+                "longitude": "-73.95625839602431",
+                "maximum_nights": 1125,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95625839602431,
+                    40.716664157179295
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "95ffab1f4ef27eeba1a6f2f44c2b000f1035de5a",
+            "fields": {
+                "geolocation": [
+                    40.713550587814346,
+                    -73.93799957731167
+                ],
+                "host_verifications": "email,phone,facebook",
+                "availability_90": 2,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 0,
+                "bathrooms": 1.0,
+                "description": "In my cozy duplex apartment, you will be able to enjoy the safe Williamsburg neighborhood that has so much to see. It is only two minutes away from the L line. Enjoy a roof access, lounge, private movie theatre, and a park right outside.",
+                "accommodates": 2,
+                "summary": "In my cozy duplex apartment, you will be able to enjoy the safe Williamsburg neighborhood that has so much to see. It is only two minutes away from the L line. Enjoy a roof access, lounge, private movie theatre, and a park right outside.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "New York, NY 11211, United States",
+                "neighbourhood_group_cleansed": "Brooklyn",
+                "cancellation_policy": "flexible",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/e82c5c32-f305-49e8-b676-2c1738beb4f6.jpg?aki_policy=x_large",
+                "id": "18293127",
+                "price": 52,
+                "neighbourhood_cleansed": "Williamsburg",
+                "host_response_rate": 100,
+                "security_deposit": 100,
+                "smart_location": "New York, NY",
+                "host_location": "New York, New York, United States",
+                "beds": 1,
+                "features": "Host Has Profile Pic",
+                "host_id": "78280902",
+                "last_scraped": "2017-05-04",
+                "latitude": "40.713550587814346",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "state": "NY",
+                "host_since": "2016-06-17",
+                "cleaning_fee": 50,
+                "availability_60": 2,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/e82c5c32-f305-49e8-b676-2c1738beb4f6.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/78280902",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/e82c5c32-f305-49e8-b676-2c1738beb4f6.jpg?aki_policy=small",
+                "name": "Williamsburg master bedroom",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-05-04",
+                "picture_url": {
+                    "id": "c1845be9605535985e5cde08d35affb3",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "e82c5c32-f305-49e8-b676-2c1738beb4f6.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(184, 167, 142, 1.00)",
+                        "rgba(171, 168, 163, 1.00)",
+                        "rgba(152, 149, 148, 1.00)"
+                    ]
+                },
+                "host_picture_url": "https://a0.muscache.com/im/pictures/9fc6d3d1-9068-416b-b26a-aa9d6024c88e.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "extra_people": 0,
+                "room_type": "Private room",
+                "amenities": "Internet,Wireless Internet,Air conditioning,Wheelchair accessible,Kitchen,Smoking allowed,Pets allowed,Gym,Elevator in building,Heating,Family/kid friendly,Washer,Dryer,Smoke detector,Safety card,Essentials,Hangers,Hair dryer,Iron,Laptop friendly workspace",
+                "listing_url": "https://www.airbnb.com/rooms/18293127",
+                "calendar_updated": "a week ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/9fc6d3d1-9068-416b-b26a-aa9d6024c88e.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Dahee",
+                "host_response_time": "within a few hours",
+                "availability_365": 138,
+                "bed_type": "Real Bed",
+                "zipcode": "11211",
+                "longitude": "-73.93799957731167",
+                "maximum_nights": 1125,
+                "availability_30": 2,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93799957731167,
+                    40.713550587814346
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "6dbcc0b07a4cff208677ab2f81f2da25fd29bf0d",
+            "fields": {
+                "host_neighbourhood": "Upper West Side",
+                "geolocation": [
+                    40.79819495534623,
+                    -73.96979373989447
+                ],
+                "host_verifications": "email,phone,linkedin,reviews,jumio,offline_government_id,government_id",
+                "review_scores_communication": 10,
+                "availability_90": 43,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 1,
+                "house_rules": "- This is a small quiet building with just a few tenants so please be respectful of them. No pets or smoking please.  - There is an authentic Japanese Shoji screen that separates the bedroom from the dining room. Any damage to it will be deducted from a security deposit.",
+                "bathrooms": 1.0,
+                "description": "Charming apartment in a great neighborhood, close to Central Park and Riverside Park, you'll find good food, entertainment, fitness and transportation nearby. We're close to Absolute Bagels, Xi'an Famous Foods, Plowshares Coffee, Sal and Carmine Pizza, BeFitNYC, Symphony Space, Smoke Jazz Club, and the Local and Express Subway 1,2,3 line.  The apartment gets amazing light with south exposures.  It is an easy walk to Riverside Park (2 blocks), subways, shopping, CitiBike. The apartment is the top floor of an old townhouse\u2014which means you must be able to climb 3 flights but once you get up here it is lovely. Enter into the dining area which opens on to a well equipped kitchen with a Julia Childs inspired pegboard for storage. Bedroom is sectioned off by an authentic, traditional, Japanese Shoji screen and there is a second sitting and TV room. This is a 2 bedroom apt and the 2nd bedroom will be closed off. You will have a closet and a couple of drawers. There is a nice desk as well as di",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "Charming apartment in a great neighborhood, close to Central Park and Riverside Park, you'll find good food, entertainment, fitness and transportation nearby. We're close to Absolute Bagels, Xi'an Famous Foods, Plowshares Coffee, Sal and Carmine Pizza, BeFitNYC, Symphony Space, Smoke Jazz Club, and the Local and Express Subway 1,2,3 line.  The apartment gets amazing light with south exposures.  It is an easy walk to Riverside Park (2 blocks), subways, shopping, CitiBike.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Upper West Side, New York, NY 10025, United States",
+                "access": "This is a 2 bedroom apt and the 2nd bedroom will be closed off. You will have a closet and a couple of drawers. There is a nice desk as well as dining table and chairs.",
+                "neighbourhood_group_cleansed": "Manhattan",
+                "cancellation_policy": "moderate",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/157aa9bc-e9de-4e6e-bbce-919595017d7f.jpg?aki_policy=x_large",
+                "id": "15868639",
+                "price": 123,
+                "neighbourhood_cleansed": "Upper West Side",
+                "reviews_per_month": 1.0,
+                "host_response_rate": 100,
+                "security_deposit": 300,
+                "transit": "I am 2 blocks from the local 1 train and 6 blocks from the Express 2,3 train and the 96th St. crosstown bus. The C and B lines are a short walk.",
+                "neighbourhood": "Upper West Side",
+                "review_scores_rating": 100,
+                "smart_location": "New York, NY",
+                "host_location": "New York, New York, United States",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "The apartment is the top floor of an old townhouse\u2014which means you must be able to climb 3 flights but once you get up here it is lovely. Enter into the dining area which opens on to a well equipped kitchen with a Julia Childs inspired pegboard for storage. Bedroom is sectioned off by an authentic, traditional, Japanese Shoji screen and there is a second sitting and TV room.",
+                "host_id": "1501292",
+                "last_scraped": "2017-05-03",
+                "latitude": "40.79819495534623",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 10,
+                "state": "NY",
+                "host_since": "2011-12-13",
+                "cleaning_fee": 100,
+                "availability_60": 13,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/157aa9bc-e9de-4e6e-bbce-919595017d7f.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/1501292",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/157aa9bc-e9de-4e6e-bbce-919595017d7f.jpg?aki_policy=small",
+                "first_review": "2017-04-13",
+                "name": "Upper West Side, Clean, Large, Sunny 1BR",
+                "neighborhood_overview": "This is a classic old Upper West Side neighborhood with one of the best old pizza places, Sal and Carmine's around the corner alongside the Anthony Bourdain recommended Xi'an Foods and just a few blocks north is the world famous Absolute Bagels (go late on weekends to avoid the line).",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-05-03",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/9cc40ebf-ac57-4e28-a882-8c1305083b8e.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "4ae0eb0d41ac5ca2f999bf925fe69a77",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "157aa9bc-e9de-4e6e-bbce-919595017d7f.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(159, 153, 139, 1.00)",
+                        "rgba(147, 138, 126, 1.00)",
+                        "rgba(66, 62, 62, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "notes": "There is no laundry in the building.",
+                "amenities": "TV,Wireless Internet,Air conditioning,Kitchen,Heating,Smoke detector,Carbon monoxide detector,First aid kit,Fire extinguisher,Essentials,Hangers,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49",
+                "listing_url": "https://www.airbnb.com/rooms/15868639",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "2 weeks ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/9cc40ebf-ac57-4e28-a882-8c1305083b8e.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Donna",
+                "host_response_time": "within a few hours",
+                "review_scores_checkin": 10,
+                "interaction": "I will be available via text or email should you need anything during your stay. I have detailed instructions available for wifi, coffee, cable and how the building works.",
+                "host_about": "I'm a Life Coach with a 19 year old daughter, a transplant from Los Angeles to New York with affection for both places.\r\nIf you read the 1 review of me I hope you will take the time to read my response. That was my first (and only) experience with Airbnb and I'm hoping for better juju this time.",
+                "availability_365": 43,
+                "last_review": "2017-04-13",
+                "review_scores_value": 10,
+                "bed_type": "Real Bed",
+                "zipcode": "10025",
+                "longitude": "-73.96979373989447",
+                "maximum_nights": 21,
+                "availability_30": 5,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96979373989447,
+                    40.79819495534623
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "0cd76aa3d3ccf57ea1b2feade00e8f65421cf6b6",
+            "fields": {
+                "host_neighbourhood": "Upper West Side",
+                "geolocation": [
+                    40.80033151096115,
+                    -73.95983348252942
+                ],
+                "host_verifications": "email,phone,reviews",
+                "review_scores_communication": 10,
+                "availability_90": 0,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 1,
+                "bathrooms": 2.0,
+                "description": "A beautiful bright bedroom with air conditioning in upper west Manhattan.  It's only 1 min to B/C train. Two full bathrooms and a kitchen shared with two other roommates. Safe, convenient, clean and quiet! (You can also (SENSITIVE CONTENTS HIDDEN) me if interested) There are three bedrooms, two bathrooms, one kitchen and one living room in the apartment. There are two full bathrooms with 24hrs hot water and a kitchen with a refrigerator are shared with two other roommates. Washing machine and dishwasher are inside the apartment. In upper west Manhattan, right next to the central park. 10min walk to Columbia University. Restaurants and grocery stores are very close by. 3min walk to Starbuck and 10 min walk to Wholefood. Super convenient! 1 min walk to B/C train (subway), 4 bus stops within 5 min walking distance",
+                "review_scores_location": 10,
+                "accommodates": 1,
+                "summary": "A beautiful bright bedroom with air conditioning in upper west Manhattan.  It's only 1 min to B/C train. Two full bathrooms and a kitchen shared with two other roommates. Safe, convenient, clean and quiet! (You can also (SENSITIVE CONTENTS HIDDEN) me if interested)",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Upper West Side, New York, NY 10025, United States",
+                "access": "There are two full bathrooms with 24hrs hot water and a kitchen with a refrigerator are shared with two other roommates. Washing machine and dishwasher are inside the apartment.",
+                "neighbourhood_group_cleansed": "Manhattan",
+                "cancellation_policy": "strict",
+                "id": "12670055",
+                "price": 85,
+                "neighbourhood_cleansed": "Upper West Side",
+                "reviews_per_month": 0.11,
+                "transit": "1 min walk to B/C train (subway), 4 bus stops within 5 min walking distance",
+                "neighbourhood": "Upper West Side",
+                "review_scores_rating": 60,
+                "smart_location": "New York, NY",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Is Location Exact",
+                "space": "There are three bedrooms, two bathrooms, one kitchen and one living room in the apartment.",
+                "host_id": "41083529",
+                "last_scraped": "2017-05-03",
+                "latitude": "40.80033151096115",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 4,
+                "state": "NY",
+                "host_since": "2015-08-10",
+                "availability_60": 0,
+                "minimum_nights": 4,
+                "host_url": "https://www.airbnb.com/users/show/41083529",
+                "first_review": "2016-08-15",
+                "name": "Yip Yingxin Ye",
+                "neighborhood_overview": "In upper west Manhattan, right next to the central park. 10min walk to Columbia University. Restaurants and grocery stores are very close by. 3min walk to Starbuck and 10 min walk to Wholefood. Super convenient!",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-05-03",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/b9300345-6cd4-47be-ae41-529a15c01734.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "df925a9942d439a2796bc773cf0f60b6",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 359,
+                    "filename": "241fc17c-9727-4dfd-835b-cd2bbdf2e19d.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(150, 146, 141, 1.00)",
+                        "rgba(152, 152, 147, 1.00)",
+                        "rgba(131, 108, 98, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Private room",
+                "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Smoking allowed,Elevator in building,Hot tub,Buzzer/wireless intercom,Heating,Family/kid friendly,Washer,Dryer,Smoke detector,Carbon monoxide detector,Fire extinguisher,Essentials,Shampoo,Lock on bedroom door,24-hour check-in,Hangers,Hair dryer,Laptop friendly workspace",
+                "listing_url": "https://www.airbnb.com/rooms/12670055",
+                "review_scores_accuracy": 8,
+                "calendar_updated": "9 months ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/b9300345-6cd4-47be-ae41-529a15c01734.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Yip",
+                "review_scores_checkin": 10,
+                "availability_365": 0,
+                "last_review": "2016-08-15",
+                "bed_type": "Real Bed",
+                "review_scores_value": 8,
+                "zipcode": "10025",
+                "longitude": "-73.95983348252942",
+                "maximum_nights": 1125,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95983348252942,
+                    40.80033151096115
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "092a7f5b3560d9486e83d59dcf495f1803055f1f",
+            "fields": {
+                "host_neighbourhood": "Upper West Side",
+                "geolocation": [
+                    40.800956109591006,
+                    -73.95955130960259
+                ],
+                "host_verifications": "email,phone,facebook,reviews,jumio",
+                "review_scores_communication": 10,
+                "availability_90": 74,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 8,
+                "bathrooms": 1.0,
+                "description": "Experience NYC as a local. In my opinion this location could not be any better! You will be a 30 second walk to Central Park and 15 minutes from Times Square. The subway is located 1 block away and museums, cafes, and dining are all within walking distance.",
+                "review_scores_location": 10,
+                "accommodates": 1,
+                "summary": "Experience NYC as a local. In my opinion this location could not be any better! You will be a 30 second walk to Central Park and 15 minutes from Times Square. The subway is located 1 block away and museums, cafes, and dining are all within walking distance.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Upper West Side, New York, NY 10026, United States",
+                "neighbourhood_group_cleansed": "Manhattan",
+                "cancellation_policy": "flexible",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/07d91827-66ed-4fef-b9a6-66fb50933469.jpg?aki_policy=x_large",
+                "id": "13711597",
+                "price": 49,
+                "neighbourhood_cleansed": "Upper West Side",
+                "reviews_per_month": 0.85,
+                "host_response_rate": 100,
+                "neighbourhood": "Upper West Side",
+                "review_scores_rating": 90,
+                "smart_location": "New York, NY",
+                "host_location": "New York, New York, United States",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "host_id": "10296495",
+                "last_scraped": "2017-05-03",
+                "latitude": "40.800956109591006",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 10,
+                "state": "NY",
+                "host_since": "2013-11-27",
+                "availability_60": 44,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/07d91827-66ed-4fef-b9a6-66fb50933469.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/10296495",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/07d91827-66ed-4fef-b9a6-66fb50933469.jpg?aki_policy=small",
+                "first_review": "2016-07-25",
+                "name": "CLEAN NEW YORK APT at Central Park",
+                "calculated_host_listings_count": 8,
+                "calendar_last_scraped": "2017-05-03",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/97bd6d7e-b708-4f38-b7b7-8c66bed8e375.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 8,
+                "picture_url": {
+                    "id": "4e18565f0456e4b9ffb0d84cb838c440",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "07d91827-66ed-4fef-b9a6-66fb50933469.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(60, 55, 47, 1.00)",
+                        "rgba(118, 97, 79, 1.00)",
+                        "rgba(196, 171, 147, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Shared room",
+                "amenities": "Wireless Internet,Air conditioning,Kitchen,Elevator in building,Heating,Smoke detector,Carbon monoxide detector,Essentials,Shampoo,Iron,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/13711597",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "2 weeks ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/97bd6d7e-b708-4f38-b7b7-8c66bed8e375.jpg?aki_policy=profile_small",
+                "host_listings_count": 8,
+                "host_name": "Blake",
+                "host_response_time": "within a day",
+                "review_scores_checkin": 10,
+                "host_about": "I am originally from Los Angeles, but I have been living in New York for six years.",
+                "availability_365": 74,
+                "last_review": "2016-09-30",
+                "bed_type": "Real Bed",
+                "review_scores_value": 9,
+                "zipcode": "10026",
+                "longitude": "-73.95955130960259",
+                "maximum_nights": 29,
+                "availability_30": 14,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95955130960259,
+                    40.800956109591006
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "082388df1f13ff41b78247af224e06ba911d0e5d",
+            "fields": {
+                "host_neighbourhood": "Upper West Side",
+                "geolocation": [
+                    40.79495553232909,
+                    -73.9657056643861
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "review_scores_communication": 10,
+                "availability_90": 13,
+                "scrape_id": "20170502132028",
+                "city": "New York",
+                "number_of_reviews": 7,
+                "bathrooms": 1.0,
+                "description": "Great luxury studio apartment with fabulous light and views, 2 blocks from Central Park.  Gym and pool.  Access to the pool and gym.  I will be gone during this time. 2 blocks from the B-C subway line and 3 blocks from the 2-3 subway line.",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "Great luxury studio apartment with fabulous light and views, 2 blocks from Central Park.  Gym and pool.",
+                "property_type": "Apartment",
+                "bedrooms": 0,
+                "street": "Upper West Side, New York, NY 10025, United States",
+                "access": "Access to the pool and gym.",
+                "neighbourhood_group_cleansed": "Manhattan",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/53760407/80dfbedc_original.jpg?aki_policy=x_large",
+                "id": "4279365",
+                "price": 200,
+                "neighbourhood_cleansed": "Upper West Side",
+                "reviews_per_month": 0.41,
+                "host_response_rate": 50,
+                "security_deposit": 100,
+                "transit": "2 blocks from the B-C subway line and 3 blocks from the 2-3 subway line.",
+                "neighbourhood": "Upper West Side",
+                "review_scores_rating": 94,
+                "smart_location": "New York, NY",
+                "host_location": "New York, New York, United States",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "host_id": "232410",
+                "last_scraped": "2017-05-03",
+                "latitude": "40.79495553232909",
+                "country_code": "US",
+                "country": "United States",
+                "market": "New York",
+                "review_scores_cleanliness": 9,
+                "state": "NY",
+                "host_since": "2010-09-12",
+                "cleaning_fee": 75,
+                "availability_60": 13,
+                "minimum_nights": 1,
+                "medium_url": "https://a0.muscache.com/im/pictures/53760407/80dfbedc_original.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/232410",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/53760407/80dfbedc_original.jpg?aki_policy=small",
+                "first_review": "2015-12-05",
+                "name": "Luxury studio apartment UWS",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-05-03",
+                "host_picture_url": "https://a0.muscache.com/im/users/232410/profile_pic/1412646281/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "b43d87368395b7efc43b6f80093bb891",
+                    "mimetype": "image/jpeg",
+                    "height": 426,
+                    "width": 639,
+                    "filename": "80dfbedc_original.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(183, 172, 182, 1.00)",
+                        "rgba(91, 86, 88, 1.00)",
+                        "rgba(23, 27, 33, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "amenities": "Internet,Wireless Internet,Air conditioning,Pool,Kitchen,Doorman,Gym,Elevator in building,Heating,Smoke detector,Carbon monoxide detector,Essentials",
+                "listing_url": "https://www.airbnb.com/rooms/4279365",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "4 days ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/232410/profile_pic/1412646281/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Lynne",
+                "host_response_time": "within a day",
+                "review_scores_checkin": 10,
+                "interaction": "I will be gone during this time.",
+                "availability_365": 13,
+                "last_review": "2016-10-03",
+                "review_scores_value": 10,
+                "bed_type": "Real Bed",
+                "zipcode": "10025",
+                "longitude": "-73.9657056643861",
+                "maximum_nights": 1125,
+                "availability_30": 5,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9657056643861,
+                    40.79495553232909
+                ]
+            },
+            "record_timestamp": "2020-08-05T00:02:25.227Z"
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "host_response_time",
+            "facets": [
+                {
+                    "name": "within an hour",
+                    "count": 5648,
+                    "state": "displayed",
+                    "path": "within an hour"
+                },
+                {
+                    "name": "within a few hours",
+                    "count": 3675,
+                    "state": "displayed",
+                    "path": "within a few hours"
+                },
+                {
+                    "name": "within a day",
+                    "count": 3155,
+                    "state": "displayed",
+                    "path": "within a day"
+                },
+                {
+                    "name": "a few days or more",
+                    "count": 658,
+                    "state": "displayed",
+                    "path": "a few days or more"
+                }
+            ]
+        },
+        {
+            "name": "host_response_rate",
+            "facets": [
+                {
+                    "name": "100",
+                    "count": 8765,
+                    "state": "displayed",
+                    "path": "100"
+                },
+                {
+                    "name": "90",
+                    "count": 716,
+                    "state": "displayed",
+                    "path": "90"
+                },
+                {
+                    "name": "80",
+                    "count": 449,
+                    "state": "displayed",
+                    "path": "80"
+                },
+                {
+                    "name": "0",
+                    "count": 316,
+                    "state": "displayed",
+                    "path": "0"
+                },
+                {
+                    "name": "50",
+                    "count": 259,
+                    "state": "displayed",
+                    "path": "50"
+                },
+                {
+                    "name": "70",
+                    "count": 188,
+                    "state": "displayed",
+                    "path": "70"
+                },
+                {
+                    "name": "60",
+                    "count": 168,
+                    "state": "displayed",
+                    "path": "60"
+                },
+                {
+                    "name": "67",
+                    "count": 147,
+                    "state": "displayed",
+                    "path": "67"
+                },
+                {
+                    "name": "75",
+                    "count": 125,
+                    "state": "displayed",
+                    "path": "75"
+                },
+                {
+                    "name": "92",
+                    "count": 122,
+                    "state": "displayed",
+                    "path": "92"
+                },
+                {
+                    "name": "94",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "94"
+                },
+                {
+                    "name": "83",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "83"
+                },
+                {
+                    "name": "86",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "86"
+                },
+                {
+                    "name": "93",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "93"
+                },
+                {
+                    "name": "95",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "95"
+                },
+                {
+                    "name": "91",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "91"
+                },
+                {
+                    "name": "88",
+                    "count": 93,
+                    "state": "displayed",
+                    "path": "88"
+                },
+                {
+                    "name": "98",
+                    "count": 92,
+                    "state": "displayed",
+                    "path": "98"
+                },
+                {
+                    "name": "96",
+                    "count": 78,
+                    "state": "displayed",
+                    "path": "96"
+                },
+                {
+                    "name": "89",
+                    "count": 76,
+                    "state": "displayed",
+                    "path": "89"
+                },
+                {
+                    "name": "99",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "99"
+                },
+                {
+                    "name": "40",
+                    "count": 61,
+                    "state": "displayed",
+                    "path": "40"
+                },
+                {
+                    "name": "97",
+                    "count": 54,
+                    "state": "displayed",
+                    "path": "97"
+                },
+                {
+                    "name": "33",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "33"
+                },
+                {
+                    "name": "71",
+                    "count": 49,
+                    "state": "displayed",
+                    "path": "71"
+                },
+                {
+                    "name": "87",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "87"
+                },
+                {
+                    "name": "78",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "78"
+                },
+                {
+                    "name": "63",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "63"
+                },
+                {
+                    "name": "20",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "20"
+                },
+                {
+                    "name": "25",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "25"
+                },
+                {
+                    "name": "73",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "73"
+                },
+                {
+                    "name": "82",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "82"
+                },
+                {
+                    "name": "30",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "30"
+                },
+                {
+                    "name": "85",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "85"
+                },
+                {
+                    "name": "68",
+                    "count": 26,
+                    "state": "displayed",
+                    "path": "68"
+                },
+                {
+                    "name": "77",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "77"
+                },
+                {
+                    "name": "10",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "10"
+                },
+                {
+                    "name": "57",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "57"
+                },
+                {
+                    "name": "79",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "79"
+                },
+                {
+                    "name": "81",
+                    "count": 17,
+                    "state": "displayed",
+                    "path": "81"
+                },
+                {
+                    "name": "56",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "56"
+                },
+                {
+                    "name": "64",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "64"
+                },
+                {
+                    "name": "43",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "43"
+                },
+                {
+                    "name": "54",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "54"
+                },
+                {
+                    "name": "69",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "69"
+                },
+                {
+                    "name": "44",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "44"
+                },
+                {
+                    "name": "29",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "29"
+                },
+                {
+                    "name": "72",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "72"
+                },
+                {
+                    "name": "62",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "62"
+                },
+                {
+                    "name": "13",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "13"
+                },
+                {
+                    "name": "38",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "38"
+                },
+                {
+                    "name": "46",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "46"
+                },
+                {
+                    "name": "58",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "58"
+                },
+                {
+                    "name": "76",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "76"
+                },
+                {
+                    "name": "55",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "55"
+                },
+                {
+                    "name": "74",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "74"
+                },
+                {
+                    "name": "84",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "84"
+                },
+                {
+                    "name": "14",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "14"
+                },
+                {
+                    "name": "17",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "17"
+                },
+                {
+                    "name": "23",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "23"
+                },
+                {
+                    "name": "61",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "61"
+                },
+                {
+                    "name": "27",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "27"
+                },
+                {
+                    "name": "47",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "47"
+                },
+                {
+                    "name": "49",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "49"
+                },
+                {
+                    "name": "22",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "22"
+                },
+                {
+                    "name": "42",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "42"
+                },
+                {
+                    "name": "45",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "45"
+                },
+                {
+                    "name": "9",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "9"
+                },
+                {
+                    "name": "11",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "11"
+                },
+                {
+                    "name": "24",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "24"
+                },
+                {
+                    "name": "35",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "35"
+                },
+                {
+                    "name": "52",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "52"
+                },
+                {
+                    "name": "53",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "53"
+                },
+                {
+                    "name": "59",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "59"
+                },
+                {
+                    "name": "3",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "3"
+                },
+                {
+                    "name": "5",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "5"
+                },
+                {
+                    "name": "7",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "7"
+                },
+                {
+                    "name": "8",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "8"
+                },
+                {
+                    "name": "15",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "15"
+                },
+                {
+                    "name": "18",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "18"
+                },
+                {
+                    "name": "31",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "31"
+                },
+                {
+                    "name": "32",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "32"
+                },
+                {
+                    "name": "34",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "34"
+                },
+                {
+                    "name": "36",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "36"
+                },
+                {
+                    "name": "39",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "39"
+                },
+                {
+                    "name": "41",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "41"
+                },
+                {
+                    "name": "51",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "51"
+                },
+                {
+                    "name": "65",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "65"
+                },
+                {
+                    "name": "66",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "66"
+                }
+            ]
+        },
+        {
+            "name": "host_verifications",
+            "facets": [
+                {
+                    "name": "phone",
+                    "count": 19276,
+                    "state": "displayed",
+                    "path": "phone"
+                },
+                {
+                    "name": "email",
+                    "count": 18616,
+                    "state": "displayed",
+                    "path": "email"
+                },
+                {
+                    "name": "reviews",
+                    "count": 17166,
+                    "state": "displayed",
+                    "path": "reviews"
+                },
+                {
+                    "name": "jumio",
+                    "count": 7531,
+                    "state": "displayed",
+                    "path": "jumio"
+                },
+                {
+                    "name": "kba",
+                    "count": 5954,
+                    "state": "displayed",
+                    "path": "kba"
+                },
+                {
+                    "name": "facebook",
+                    "count": 5067,
+                    "state": "displayed",
+                    "path": "facebook"
+                },
+                {
+                    "name": "government_id",
+                    "count": 2411,
+                    "state": "displayed",
+                    "path": "government_id"
+                },
+                {
+                    "name": "work_email",
+                    "count": 1872,
+                    "state": "displayed",
+                    "path": "work_email"
+                },
+                {
+                    "name": "google",
+                    "count": 1147,
+                    "state": "displayed",
+                    "path": "google"
+                },
+                {
+                    "name": "offline_government_id",
+                    "count": 773,
+                    "state": "displayed",
+                    "path": "offline_government_id"
+                },
+                {
+                    "name": "linkedin",
+                    "count": 608,
+                    "state": "displayed",
+                    "path": "linkedin"
+                },
+                {
+                    "name": "manual_offline",
+                    "count": 366,
+                    "state": "displayed",
+                    "path": "manual_offline"
+                },
+                {
+                    "name": "amex",
+                    "count": 265,
+                    "state": "displayed",
+                    "path": "amex"
+                },
+                {
+                    "name": "selfie",
+                    "count": 190,
+                    "state": "displayed",
+                    "path": "selfie"
+                },
+                {
+                    "name": "identity_manual",
+                    "count": 189,
+                    "state": "displayed",
+                    "path": "identity_manual"
+                },
+                {
+                    "name": "None",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "None"
+                },
+                {
+                    "name": "manual_online",
+                    "count": 107,
+                    "state": "displayed",
+                    "path": "manual_online"
+                },
+                {
+                    "name": "sent_id",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "sent_id"
+                },
+                {
+                    "name": "weibo",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "weibo"
+                },
+                {
+                    "name": "sesame",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "sesame"
+                },
+                {
+                    "name": "sesame_offline",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "sesame_offline"
+                }
+            ]
+        },
+        {
+            "name": "city",
+            "facets": [
+                {
+                    "name": "New York",
+                    "count": 19528,
+                    "state": "refined",
+                    "path": "New York"
+                }
+            ]
+        },
+        {
+            "name": "country",
+            "facets": [
+                {
+                    "name": "United States",
+                    "count": 19527,
+                    "state": "displayed",
+                    "path": "United States"
+                },
+                {
+                    "name": "Uruguay",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Uruguay"
+                }
+            ]
+        },
+        {
+            "name": "property_type",
+            "facets": [
+                {
+                    "name": "Apartment",
+                    "count": 18331,
+                    "state": "displayed",
+                    "path": "Apartment"
+                },
+                {
+                    "name": "House",
+                    "count": 301,
+                    "state": "displayed",
+                    "path": "House"
+                },
+                {
+                    "name": "Loft",
+                    "count": 265,
+                    "state": "displayed",
+                    "path": "Loft"
+                },
+                {
+                    "name": "Condominium",
+                    "count": 192,
+                    "state": "displayed",
+                    "path": "Condominium"
+                },
+                {
+                    "name": "Townhouse",
+                    "count": 178,
+                    "state": "displayed",
+                    "path": "Townhouse"
+                },
+                {
+                    "name": "Other",
+                    "count": 105,
+                    "state": "displayed",
+                    "path": "Other"
+                },
+                {
+                    "name": "Bed & Breakfast",
+                    "count": 56,
+                    "state": "displayed",
+                    "path": "Bed & Breakfast"
+                },
+                {
+                    "name": "Timeshare",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "Timeshare"
+                },
+                {
+                    "name": "Guesthouse",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Guesthouse"
+                },
+                {
+                    "name": "Hostel",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Hostel"
+                },
+                {
+                    "name": "Boutique hotel",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Boutique hotel"
+                },
+                {
+                    "name": "Serviced apartment",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Serviced apartment"
+                },
+                {
+                    "name": "Villa",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Villa"
+                },
+                {
+                    "name": "Dorm",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Dorm"
+                },
+                {
+                    "name": "Boat",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Boat"
+                },
+                {
+                    "name": "Cabin",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Cabin"
+                },
+                {
+                    "name": "Guest suite",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Guest suite"
+                },
+                {
+                    "name": "Bungalow",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Bungalow"
+                },
+                {
+                    "name": "Castle",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Castle"
+                },
+                {
+                    "name": "Hut",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Hut"
+                },
+                {
+                    "name": "Lighthouse",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Lighthouse"
+                },
+                {
+                    "name": "Vacation home",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Vacation home"
+                }
+            ]
+        },
+        {
+            "name": "room_type",
+            "facets": [
+                {
+                    "name": "Entire home/apt",
+                    "count": 10934,
+                    "state": "displayed",
+                    "path": "Entire home/apt"
+                },
+                {
+                    "name": "Private room",
+                    "count": 8001,
+                    "state": "displayed",
+                    "path": "Private room"
+                },
+                {
+                    "name": "Shared room",
+                    "count": 593,
+                    "state": "displayed",
+                    "path": "Shared room"
+                }
+            ]
+        },
+        {
+            "name": "bed_type",
+            "facets": [
+                {
+                    "name": "Real Bed",
+                    "count": 18922,
+                    "state": "displayed",
+                    "path": "Real Bed"
+                },
+                {
+                    "name": "Pull-out Sofa",
+                    "count": 209,
+                    "state": "displayed",
+                    "path": "Pull-out Sofa"
+                },
+                {
+                    "name": "Futon",
+                    "count": 191,
+                    "state": "displayed",
+                    "path": "Futon"
+                },
+                {
+                    "name": "Airbed",
+                    "count": 137,
+                    "state": "displayed",
+                    "path": "Airbed"
+                },
+                {
+                    "name": "Couch",
+                    "count": 69,
+                    "state": "displayed",
+                    "path": "Couch"
+                }
+            ]
+        },
+        {
+            "name": "amenities",
+            "facets": [
+                {
+                    "name": "Wireless Internet",
+                    "count": 18854,
+                    "state": "displayed",
+                    "path": "Wireless Internet"
+                },
+                {
+                    "name": "Kitchen",
+                    "count": 18380,
+                    "state": "displayed",
+                    "path": "Kitchen"
+                },
+                {
+                    "name": "Heating",
+                    "count": 18166,
+                    "state": "displayed",
+                    "path": "Heating"
+                },
+                {
+                    "name": "Air conditioning",
+                    "count": 16642,
+                    "state": "displayed",
+                    "path": "Air conditioning"
+                },
+                {
+                    "name": "Essentials",
+                    "count": 16136,
+                    "state": "displayed",
+                    "path": "Essentials"
+                },
+                {
+                    "name": "Smoke detector",
+                    "count": 15222,
+                    "state": "displayed",
+                    "path": "Smoke detector"
+                },
+                {
+                    "name": "Internet",
+                    "count": 13464,
+                    "state": "displayed",
+                    "path": "Internet"
+                },
+                {
+                    "name": "TV",
+                    "count": 13320,
+                    "state": "displayed",
+                    "path": "TV"
+                },
+                {
+                    "name": "Shampoo",
+                    "count": 12153,
+                    "state": "displayed",
+                    "path": "Shampoo"
+                },
+                {
+                    "name": "Hangers",
+                    "count": 11446,
+                    "state": "displayed",
+                    "path": "Hangers"
+                },
+                {
+                    "name": "Carbon monoxide detector",
+                    "count": 11160,
+                    "state": "displayed",
+                    "path": "Carbon monoxide detector"
+                },
+                {
+                    "name": "Hair dryer",
+                    "count": 10264,
+                    "state": "displayed",
+                    "path": "Hair dryer"
+                },
+                {
+                    "name": "Laptop friendly workspace",
+                    "count": 10000,
+                    "state": "displayed",
+                    "path": "Laptop friendly workspace"
+                },
+                {
+                    "name": "Buzzer/wireless intercom",
+                    "count": 9599,
+                    "state": "displayed",
+                    "path": "Buzzer/wireless intercom"
+                },
+                {
+                    "name": "Iron",
+                    "count": 9592,
+                    "state": "displayed",
+                    "path": "Iron"
+                },
+                {
+                    "name": "Family/kid friendly",
+                    "count": 8515,
+                    "state": "displayed",
+                    "path": "Family/kid friendly"
+                },
+                {
+                    "name": "Washer",
+                    "count": 8226,
+                    "state": "displayed",
+                    "path": "Washer"
+                },
+                {
+                    "name": "Dryer",
+                    "count": 8154,
+                    "state": "displayed",
+                    "path": "Dryer"
+                },
+                {
+                    "name": "Elevator in building",
+                    "count": 7891,
+                    "state": "displayed",
+                    "path": "Elevator in building"
+                },
+                {
+                    "name": "translation missing: en.hosting_amenity_50",
+                    "count": 7665,
+                    "state": "displayed",
+                    "path": "translation missing: en.hosting_amenity_50"
+                },
+                {
+                    "name": "Cable TV",
+                    "count": 6483,
+                    "state": "displayed",
+                    "path": "Cable TV"
+                },
+                {
+                    "name": "translation missing: en.hosting_amenity_49",
+                    "count": 6306,
+                    "state": "displayed",
+                    "path": "translation missing: en.hosting_amenity_49"
+                },
+                {
+                    "name": "First aid kit",
+                    "count": 5120,
+                    "state": "displayed",
+                    "path": "First aid kit"
+                },
+                {
+                    "name": "Fire extinguisher",
+                    "count": 4931,
+                    "state": "displayed",
+                    "path": "Fire extinguisher"
+                },
+                {
+                    "name": "24-hour check-in",
+                    "count": 4817,
+                    "state": "displayed",
+                    "path": "24-hour check-in"
+                },
+                {
+                    "name": "Lock on bedroom door",
+                    "count": 3903,
+                    "state": "displayed",
+                    "path": "Lock on bedroom door"
+                },
+                {
+                    "name": "Doorman",
+                    "count": 2738,
+                    "state": "displayed",
+                    "path": "Doorman"
+                },
+                {
+                    "name": "Pets allowed",
+                    "count": 2315,
+                    "state": "displayed",
+                    "path": "Pets allowed"
+                },
+                {
+                    "name": "Safety card",
+                    "count": 2208,
+                    "state": "displayed",
+                    "path": "Safety card"
+                },
+                {
+                    "name": "Gym",
+                    "count": 1742,
+                    "state": "displayed",
+                    "path": "Gym"
+                },
+                {
+                    "name": "Wheelchair accessible",
+                    "count": 1649,
+                    "state": "displayed",
+                    "path": "Wheelchair accessible"
+                },
+                {
+                    "name": "Pets live on this property",
+                    "count": 1530,
+                    "state": "displayed",
+                    "path": "Pets live on this property"
+                },
+                {
+                    "name": "Breakfast",
+                    "count": 1396,
+                    "state": "displayed",
+                    "path": "Breakfast"
+                },
+                {
+                    "name": "Self Check-In",
+                    "count": 1175,
+                    "state": "displayed",
+                    "path": "Self Check-In"
+                },
+                {
+                    "name": "Hot tub",
+                    "count": 1144,
+                    "state": "displayed",
+                    "path": "Hot tub"
+                },
+                {
+                    "name": "Smoking allowed",
+                    "count": 921,
+                    "state": "displayed",
+                    "path": "Smoking allowed"
+                },
+                {
+                    "name": "Free parking on premises",
+                    "count": 878,
+                    "state": "displayed",
+                    "path": "Free parking on premises"
+                },
+                {
+                    "name": "Indoor fireplace",
+                    "count": 836,
+                    "state": "displayed",
+                    "path": "Indoor fireplace"
+                },
+                {
+                    "name": "Dog(s)",
+                    "count": 753,
+                    "state": "displayed",
+                    "path": "Dog(s)"
+                },
+                {
+                    "name": "Suitable for events",
+                    "count": 691,
+                    "state": "displayed",
+                    "path": "Suitable for events"
+                },
+                {
+                    "name": "Cat(s)",
+                    "count": 685,
+                    "state": "displayed",
+                    "path": "Cat(s)"
+                },
+                {
+                    "name": "Lockbox",
+                    "count": 645,
+                    "state": "displayed",
+                    "path": "Lockbox"
+                },
+                {
+                    "name": "Private entrance",
+                    "count": 541,
+                    "state": "displayed",
+                    "path": "Private entrance"
+                },
+                {
+                    "name": "Bathtub",
+                    "count": 450,
+                    "state": "displayed",
+                    "path": "Bathtub"
+                },
+                {
+                    "name": "Doorman Entry",
+                    "count": 341,
+                    "state": "displayed",
+                    "path": "Doorman Entry"
+                },
+                {
+                    "name": "Pool",
+                    "count": 290,
+                    "state": "displayed",
+                    "path": "Pool"
+                },
+                {
+                    "name": "Private living room",
+                    "count": 289,
+                    "state": "displayed",
+                    "path": "Private living room"
+                },
+                {
+                    "name": "Room-darkening shades",
+                    "count": 186,
+                    "state": "displayed",
+                    "path": "Room-darkening shades"
+                },
+                {
+                    "name": "Keypad",
+                    "count": 142,
+                    "state": "displayed",
+                    "path": "Keypad"
+                },
+                {
+                    "name": "Window guards",
+                    "count": 121,
+                    "state": "displayed",
+                    "path": "Window guards"
+                },
+                {
+                    "name": "Pack \u2019n Play/travel crib",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "Pack \u2019n Play/travel crib"
+                },
+                {
+                    "name": "Smartlock",
+                    "count": 67,
+                    "state": "displayed",
+                    "path": "Smartlock"
+                },
+                {
+                    "name": "Children\u2019s books and toys",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "Children\u2019s books and toys"
+                },
+                {
+                    "name": "Babysitter recommendations",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "Babysitter recommendations"
+                },
+                {
+                    "name": "High chair",
+                    "count": 57,
+                    "state": "displayed",
+                    "path": "High chair"
+                },
+                {
+                    "name": "Game console",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "Game console"
+                },
+                {
+                    "name": "Children\u2019s dinnerware",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "Children\u2019s dinnerware"
+                },
+                {
+                    "name": "Crib",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "Crib"
+                },
+                {
+                    "name": "Other pet(s)",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "Other pet(s)"
+                },
+                {
+                    "name": "Outlet covers",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "Outlet covers"
+                },
+                {
+                    "name": "Stair gates",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "Stair gates"
+                },
+                {
+                    "name": "Changing table",
+                    "count": 21,
+                    "state": "displayed",
+                    "path": "Changing table"
+                },
+                {
+                    "name": "Baby bath",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "Baby bath"
+                },
+                {
+                    "name": "Fireplace guards",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Fireplace guards"
+                },
+                {
+                    "name": "Baby monitor",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Baby monitor"
+                },
+                {
+                    "name": "Oven",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Oven"
+                },
+                {
+                    "name": "Refrigerator",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Refrigerator"
+                },
+                {
+                    "name": "Bed linens",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Bed linens"
+                },
+                {
+                    "name": "Cooking basics",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Cooking basics"
+                },
+                {
+                    "name": "Dishes and silverware",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Dishes and silverware"
+                },
+                {
+                    "name": "Stove",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Stove"
+                },
+                {
+                    "name": "Table corner guards",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Table corner guards"
+                },
+                {
+                    "name": "Coffee maker",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Coffee maker"
+                },
+                {
+                    "name": "Microwave",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Microwave"
+                },
+                {
+                    "name": "Hot water",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Hot water"
+                },
+                {
+                    "name": "Washer / Dryer",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Washer / Dryer"
+                },
+                {
+                    "name": "Extra pillows and blankets",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Extra pillows and blankets"
+                },
+                {
+                    "name": "Free parking on street",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Free parking on street"
+                },
+                {
+                    "name": "Garden or backyard",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Garden or backyard"
+                },
+                {
+                    "name": "Patio or balcony",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Patio or balcony"
+                },
+                {
+                    "name": "Dishwasher",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Dishwasher"
+                },
+                {
+                    "name": "Long term stays allowed",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Long term stays allowed"
+                },
+                {
+                    "name": "Luggage dropoff allowed",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Luggage dropoff allowed"
+                },
+                {
+                    "name": "Private bathroom",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Private bathroom"
+                },
+                {
+                    "name": "Step-free access",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Step-free access"
+                },
+                {
+                    "name": "Accessible-height toilet",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Accessible-height toilet"
+                },
+                {
+                    "name": "BBQ grill",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "BBQ grill"
+                },
+                {
+                    "name": "Cleaning before checkout",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Cleaning before checkout"
+                },
+                {
+                    "name": "Grab-rails for shower and toilet",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Grab-rails for shower and toilet"
+                },
+                {
+                    "name": "Path to entrance lit at night",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Path to entrance lit at night"
+                },
+                {
+                    "name": "Wide clearance to bed",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Wide clearance to bed"
+                },
+                {
+                    "name": "Wide clearance to shower and toilet",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Wide clearance to shower and toilet"
+                },
+                {
+                    "name": "Wide doorway",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Wide doorway"
+                },
+                {
+                    "name": "Wide hallway clearance",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Wide hallway clearance"
+                }
+            ]
+        },
+        {
+            "name": "availability_365",
+            "facets": [
+                {
+                    "name": "0",
+                    "count": 6293,
+                    "state": "displayed",
+                    "path": "0"
+                },
+                {
+                    "name": "365",
+                    "count": 573,
+                    "state": "displayed",
+                    "path": "365"
+                },
+                {
+                    "name": "364",
+                    "count": 298,
+                    "state": "displayed",
+                    "path": "364"
+                },
+                {
+                    "name": "363",
+                    "count": 143,
+                    "state": "displayed",
+                    "path": "363"
+                },
+                {
+                    "name": "89",
+                    "count": 133,
+                    "state": "displayed",
+                    "path": "89"
+                },
+                {
+                    "name": "1",
+                    "count": 130,
+                    "state": "displayed",
+                    "path": "1"
+                },
+                {
+                    "name": "2",
+                    "count": 120,
+                    "state": "displayed",
+                    "path": "2"
+                },
+                {
+                    "name": "4",
+                    "count": 114,
+                    "state": "displayed",
+                    "path": "4"
+                },
+                {
+                    "name": "122",
+                    "count": 111,
+                    "state": "displayed",
+                    "path": "122"
+                },
+                {
+                    "name": "3",
+                    "count": 110,
+                    "state": "displayed",
+                    "path": "3"
+                },
+                {
+                    "name": "90",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "90"
+                },
+                {
+                    "name": "362",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "362"
+                },
+                {
+                    "name": "88",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "88"
+                },
+                {
+                    "name": "7",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "7"
+                },
+                {
+                    "name": "6",
+                    "count": 77,
+                    "state": "displayed",
+                    "path": "6"
+                },
+                {
+                    "name": "358",
+                    "count": 72,
+                    "state": "displayed",
+                    "path": "358"
+                },
+                {
+                    "name": "5",
+                    "count": 71,
+                    "state": "displayed",
+                    "path": "5"
+                },
+                {
+                    "name": "123",
+                    "count": 70,
+                    "state": "displayed",
+                    "path": "123"
+                },
+                {
+                    "name": "13",
+                    "count": 69,
+                    "state": "displayed",
+                    "path": "13"
+                },
+                {
+                    "name": "8",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "8"
+                },
+                {
+                    "name": "17",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "17"
+                },
+                {
+                    "name": "9",
+                    "count": 66,
+                    "state": "displayed",
+                    "path": "9"
+                },
+                {
+                    "name": "10",
+                    "count": 65,
+                    "state": "displayed",
+                    "path": "10"
+                },
+                {
+                    "name": "35",
+                    "count": 65,
+                    "state": "displayed",
+                    "path": "35"
+                },
+                {
+                    "name": "180",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "180"
+                },
+                {
+                    "name": "179",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "179"
+                },
+                {
+                    "name": "337",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "337"
+                },
+                {
+                    "name": "16",
+                    "count": 61,
+                    "state": "displayed",
+                    "path": "16"
+                },
+                {
+                    "name": "31",
+                    "count": 61,
+                    "state": "displayed",
+                    "path": "31"
+                },
+                {
+                    "name": "11",
+                    "count": 60,
+                    "state": "displayed",
+                    "path": "11"
+                },
+                {
+                    "name": "336",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "336"
+                },
+                {
+                    "name": "354",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "354"
+                },
+                {
+                    "name": "306",
+                    "count": 58,
+                    "state": "displayed",
+                    "path": "306"
+                },
+                {
+                    "name": "357",
+                    "count": 57,
+                    "state": "displayed",
+                    "path": "357"
+                },
+                {
+                    "name": "87",
+                    "count": 56,
+                    "state": "displayed",
+                    "path": "87"
+                },
+                {
+                    "name": "124",
+                    "count": 56,
+                    "state": "displayed",
+                    "path": "124"
+                },
+                {
+                    "name": "29",
+                    "count": 55,
+                    "state": "displayed",
+                    "path": "29"
+                },
+                {
+                    "name": "61",
+                    "count": 55,
+                    "state": "displayed",
+                    "path": "61"
+                },
+                {
+                    "name": "338",
+                    "count": 55,
+                    "state": "displayed",
+                    "path": "338"
+                },
+                {
+                    "name": "27",
+                    "count": 54,
+                    "state": "displayed",
+                    "path": "27"
+                },
+                {
+                    "name": "348",
+                    "count": 54,
+                    "state": "displayed",
+                    "path": "348"
+                },
+                {
+                    "name": "352",
+                    "count": 54,
+                    "state": "displayed",
+                    "path": "352"
+                },
+                {
+                    "name": "12",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "12"
+                },
+                {
+                    "name": "14",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "14"
+                },
+                {
+                    "name": "21",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "21"
+                },
+                {
+                    "name": "32",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "32"
+                },
+                {
+                    "name": "351",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "351"
+                },
+                {
+                    "name": "63",
+                    "count": 52,
+                    "state": "displayed",
+                    "path": "63"
+                },
+                {
+                    "name": "333",
+                    "count": 52,
+                    "state": "displayed",
+                    "path": "333"
+                },
+                {
+                    "name": "18",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "18"
+                },
+                {
+                    "name": "19",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "19"
+                },
+                {
+                    "name": "24",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "24"
+                },
+                {
+                    "name": "28",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "28"
+                },
+                {
+                    "name": "62",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "62"
+                },
+                {
+                    "name": "349",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "349"
+                },
+                {
+                    "name": "361",
+                    "count": 51,
+                    "state": "displayed",
+                    "path": "361"
+                },
+                {
+                    "name": "334",
+                    "count": 50,
+                    "state": "displayed",
+                    "path": "334"
+                },
+                {
+                    "name": "356",
+                    "count": 50,
+                    "state": "displayed",
+                    "path": "356"
+                },
+                {
+                    "name": "83",
+                    "count": 49,
+                    "state": "displayed",
+                    "path": "83"
+                },
+                {
+                    "name": "359",
+                    "count": 49,
+                    "state": "displayed",
+                    "path": "359"
+                },
+                {
+                    "name": "360",
+                    "count": 49,
+                    "state": "displayed",
+                    "path": "360"
+                },
+                {
+                    "name": "15",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "15"
+                },
+                {
+                    "name": "26",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "26"
+                },
+                {
+                    "name": "33",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "33"
+                },
+                {
+                    "name": "64",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "64"
+                },
+                {
+                    "name": "307",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "307"
+                },
+                {
+                    "name": "308",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "308"
+                },
+                {
+                    "name": "34",
+                    "count": 47,
+                    "state": "displayed",
+                    "path": "34"
+                },
+                {
+                    "name": "44",
+                    "count": 47,
+                    "state": "displayed",
+                    "path": "44"
+                },
+                {
+                    "name": "23",
+                    "count": 46,
+                    "state": "displayed",
+                    "path": "23"
+                },
+                {
+                    "name": "49",
+                    "count": 46,
+                    "state": "displayed",
+                    "path": "49"
+                },
+                {
+                    "name": "330",
+                    "count": 46,
+                    "state": "displayed",
+                    "path": "330"
+                },
+                {
+                    "name": "345",
+                    "count": 46,
+                    "state": "displayed",
+                    "path": "345"
+                },
+                {
+                    "name": "38",
+                    "count": 45,
+                    "state": "displayed",
+                    "path": "38"
+                },
+                {
+                    "name": "59",
+                    "count": 45,
+                    "state": "displayed",
+                    "path": "59"
+                },
+                {
+                    "name": "72",
+                    "count": 45,
+                    "state": "displayed",
+                    "path": "72"
+                },
+                {
+                    "name": "310",
+                    "count": 45,
+                    "state": "displayed",
+                    "path": "310"
+                },
+                {
+                    "name": "347",
+                    "count": 45,
+                    "state": "displayed",
+                    "path": "347"
+                },
+                {
+                    "name": "22",
+                    "count": 44,
+                    "state": "displayed",
+                    "path": "22"
+                },
+                {
+                    "name": "40",
+                    "count": 44,
+                    "state": "displayed",
+                    "path": "40"
+                },
+                {
+                    "name": "43",
+                    "count": 44,
+                    "state": "displayed",
+                    "path": "43"
+                },
+                {
+                    "name": "311",
+                    "count": 44,
+                    "state": "displayed",
+                    "path": "311"
+                },
+                {
+                    "name": "335",
+                    "count": 44,
+                    "state": "displayed",
+                    "path": "335"
+                },
+                {
+                    "name": "39",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "39"
+                },
+                {
+                    "name": "45",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "45"
+                },
+                {
+                    "name": "56",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "56"
+                },
+                {
+                    "name": "65",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "65"
+                },
+                {
+                    "name": "320",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "320"
+                },
+                {
+                    "name": "343",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "343"
+                },
+                {
+                    "name": "346",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "346"
+                },
+                {
+                    "name": "57",
+                    "count": 42,
+                    "state": "displayed",
+                    "path": "57"
+                },
+                {
+                    "name": "116",
+                    "count": 42,
+                    "state": "displayed",
+                    "path": "116"
+                },
+                {
+                    "name": "121",
+                    "count": 42,
+                    "state": "displayed",
+                    "path": "121"
+                },
+                {
+                    "name": "309",
+                    "count": 42,
+                    "state": "displayed",
+                    "path": "309"
+                },
+                {
+                    "name": "325",
+                    "count": 42,
+                    "state": "displayed",
+                    "path": "325"
+                },
+                {
+                    "name": "25",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "25"
+                },
+                {
+                    "name": "37",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "37"
+                },
+                {
+                    "name": "73",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "73"
+                },
+                {
+                    "name": "84",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "84"
+                },
+                {
+                    "name": "244",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "244"
+                },
+                {
+                    "name": "275",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "275"
+                },
+                {
+                    "name": "314",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "314"
+                },
+                {
+                    "name": "331",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "331"
+                },
+                {
+                    "name": "332",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "332"
+                },
+                {
+                    "name": "344",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "344"
+                },
+                {
+                    "name": "355",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "355"
+                },
+                {
+                    "name": "20",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "20"
+                },
+                {
+                    "name": "68",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "68"
+                },
+                {
+                    "name": "74",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "74"
+                },
+                {
+                    "name": "274",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "274"
+                },
+                {
+                    "name": "326",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "326"
+                },
+                {
+                    "name": "339",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "339"
+                },
+                {
+                    "name": "350",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "350"
+                },
+                {
+                    "name": "36",
+                    "count": 39,
+                    "state": "displayed",
+                    "path": "36"
+                },
+                {
+                    "name": "58",
+                    "count": 39,
+                    "state": "displayed",
+                    "path": "58"
+                },
+                {
+                    "name": "353",
+                    "count": 39,
+                    "state": "displayed",
+                    "path": "353"
+                },
+                {
+                    "name": "46",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "46"
+                },
+                {
+                    "name": "50",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "50"
+                },
+                {
+                    "name": "51",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "51"
+                },
+                {
+                    "name": "79",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "79"
+                },
+                {
+                    "name": "158",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "158"
+                },
+                {
+                    "name": "269",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "269"
+                },
+                {
+                    "name": "276",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "276"
+                },
+                {
+                    "name": "342",
+                    "count": 38,
+                    "state": "displayed",
+                    "path": "342"
+                },
+                {
+                    "name": "42",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "42"
+                },
+                {
+                    "name": "66",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "66"
+                },
+                {
+                    "name": "93",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "93"
+                },
+                {
+                    "name": "149",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "149"
+                },
+                {
+                    "name": "278",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "278"
+                },
+                {
+                    "name": "305",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "305"
+                },
+                {
+                    "name": "321",
+                    "count": 37,
+                    "state": "displayed",
+                    "path": "321"
+                },
+                {
+                    "name": "30",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "30"
+                },
+                {
+                    "name": "54",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "54"
+                },
+                {
+                    "name": "71",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "71"
+                },
+                {
+                    "name": "77",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "77"
+                },
+                {
+                    "name": "153",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "153"
+                },
+                {
+                    "name": "277",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "277"
+                },
+                {
+                    "name": "304",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "304"
+                },
+                {
+                    "name": "316",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "316"
+                },
+                {
+                    "name": "328",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "328"
+                },
+                {
+                    "name": "340",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "340"
+                },
+                {
+                    "name": "67",
+                    "count": 35,
+                    "state": "displayed",
+                    "path": "67"
+                },
+                {
+                    "name": "70",
+                    "count": 35,
+                    "state": "displayed",
+                    "path": "70"
+                },
+                {
+                    "name": "154",
+                    "count": 35,
+                    "state": "displayed",
+                    "path": "154"
+                },
+                {
+                    "name": "173",
+                    "count": 35,
+                    "state": "displayed",
+                    "path": "173"
+                },
+                {
+                    "name": "178",
+                    "count": 35,
+                    "state": "displayed",
+                    "path": "178"
+                },
+                {
+                    "name": "312",
+                    "count": 35,
+                    "state": "displayed",
+                    "path": "312"
+                },
+                {
+                    "name": "313",
+                    "count": 35,
+                    "state": "displayed",
+                    "path": "313"
+                },
+                {
+                    "name": "55",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "55"
+                },
+                {
+                    "name": "69",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "69"
+                },
+                {
+                    "name": "80",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "80"
+                },
+                {
+                    "name": "81",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "81"
+                },
+                {
+                    "name": "82",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "82"
+                },
+                {
+                    "name": "125",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "125"
+                },
+                {
+                    "name": "151",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "151"
+                },
+                {
+                    "name": "214",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "214"
+                },
+                {
+                    "name": "285",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "285"
+                },
+                {
+                    "name": "41",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "41"
+                },
+                {
+                    "name": "91",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "91"
+                },
+                {
+                    "name": "92",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "92"
+                },
+                {
+                    "name": "97",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "97"
+                },
+                {
+                    "name": "322",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "322"
+                },
+                {
+                    "name": "53",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "53"
+                },
+                {
+                    "name": "60",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "60"
+                },
+                {
+                    "name": "78",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "78"
+                },
+                {
+                    "name": "86",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "86"
+                },
+                {
+                    "name": "131",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "131"
+                },
+                {
+                    "name": "155",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "155"
+                },
+                {
+                    "name": "160",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "160"
+                },
+                {
+                    "name": "280",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "280"
+                },
+                {
+                    "name": "298",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "298"
+                },
+                {
+                    "name": "319",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "319"
+                },
+                {
+                    "name": "323",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "323"
+                },
+                {
+                    "name": "329",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "329"
+                },
+                {
+                    "name": "341",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "341"
+                },
+                {
+                    "name": "85",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "85"
+                },
+                {
+                    "name": "152",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "152"
+                },
+                {
+                    "name": "164",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "164"
+                },
+                {
+                    "name": "271",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "271"
+                },
+                {
+                    "name": "293",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "293"
+                },
+                {
+                    "name": "302",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "302"
+                },
+                {
+                    "name": "120",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "120"
+                },
+                {
+                    "name": "135",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "135"
+                },
+                {
+                    "name": "170",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "170"
+                },
+                {
+                    "name": "243",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "243"
+                },
+                {
+                    "name": "273",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "273"
+                },
+                {
+                    "name": "145",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "145"
+                },
+                {
+                    "name": "147",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "147"
+                },
+                {
+                    "name": "150",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "150"
+                },
+                {
+                    "name": "172",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "172"
+                },
+                {
+                    "name": "262",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "262"
+                },
+                {
+                    "name": "295",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "295"
+                },
+                {
+                    "name": "48",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "48"
+                },
+                {
+                    "name": "75",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "75"
+                },
+                {
+                    "name": "76",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "76"
+                },
+                {
+                    "name": "118",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "118"
+                },
+                {
+                    "name": "126",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "126"
+                },
+                {
+                    "name": "137",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "137"
+                },
+                {
+                    "name": "245",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "245"
+                },
+                {
+                    "name": "317",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "317"
+                }
+            ]
+        },
+        {
+            "name": "cancellation_policy",
+            "facets": [
+                {
+                    "name": "strict",
+                    "count": 9302,
+                    "state": "displayed",
+                    "path": "strict"
+                },
+                {
+                    "name": "flexible",
+                    "count": 5934,
+                    "state": "displayed",
+                    "path": "flexible"
+                },
+                {
+                    "name": "moderate",
+                    "count": 4288,
+                    "state": "displayed",
+                    "path": "moderate"
+                },
+                {
+                    "name": "super_strict_30",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "super_strict_30"
+                }
+            ]
+        },
+        {
+            "name": "features",
+            "facets": [
+                {
+                    "name": "Host Has Profile Pic",
+                    "count": 19331,
+                    "state": "displayed",
+                    "path": "Host Has Profile Pic"
+                },
+                {
+                    "name": "Is Location Exact",
+                    "count": 16084,
+                    "state": "displayed",
+                    "path": "Is Location Exact"
+                },
+                {
+                    "name": "Host Identity Verified",
+                    "count": 12747,
+                    "state": "displayed",
+                    "path": "Host Identity Verified"
+                },
+                {
+                    "name": "Instant Bookable",
+                    "count": 3655,
+                    "state": "displayed",
+                    "path": "Instant Bookable"
+                },
+                {
+                    "name": "Host Is Superhost",
+                    "count": 1705,
+                    "state": "displayed",
+                    "path": "Host Is Superhost"
+                },
+                {
+                    "name": "Require Guest Phone Verification",
+                    "count": 683,
+                    "state": "displayed",
+                    "path": "Require Guest Phone Verification"
+                },
+                {
+                    "name": "Require Guest Profile Picture",
+                    "count": 596,
+                    "state": "displayed",
+                    "path": "Require Guest Profile Picture"
+                }
+            ]
+        }
+    ]
+}

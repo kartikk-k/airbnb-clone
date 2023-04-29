@@ -34,7 +34,7 @@ function index({ searchResults }: Props) {
         setFormattedEndDate(format(new Date(endDate as string), 'dd MMM yy'))
 
         const range = new Date(endDate as string).getDate() - new Date(startDate as string).getDate()
-        setRange(range)
+        setRange(range + 1)
 
     }, [router.isReady])
 
@@ -95,7 +95,7 @@ function index({ searchResults }: Props) {
                         </div>
                     </section>
 
-                    <section className='hidden overflow-hidden my-10 mx-4 rounded-md lg:inline-flex max-h-screen sticky top-16 lg:min-w-[600px]'>
+                    <section className='hidden overflow-hidden my-10 mx-4 rounded-md lg:inline-flex max-h-screen sticky top-16 lg:min-w-[550px]'>
                         <Map searchResults={searchResults} />
                     </section>
 

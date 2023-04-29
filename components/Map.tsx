@@ -65,7 +65,7 @@ function Map({ searchResults }: Props) {
     return (
         <ReactMapGL
             mapStyle="mapbox://styles/pro2web/clgqxiepz000901oa2u5vfqs9"
-            mapboxAccessToken={process.env.mapbox_key}
+            mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_KEY}
             {...viewport}
             onDrag={(e) => handleViewportChange(e.viewState.latitude, e.viewState.longitude)}
             onZoom={(e) => handleZoomChange(e.viewState.latitude, e.viewState.longitude, e.viewState.zoom)}
