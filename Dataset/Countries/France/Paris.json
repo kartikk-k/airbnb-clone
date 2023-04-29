@@ -1,0 +1,3666 @@
+{
+    "nhits": 54513,
+    "parameters": {
+        "dataset": [
+            "airbnb-listings@public"
+        ],
+        "rows": 10,
+        "start": 0,
+        "facet": [
+            "host_response_time",
+            "host_response_rate",
+            "host_verifications",
+            "city",
+            "country",
+            "property_type",
+            "room_type",
+            "bed_type",
+            "amenities",
+            "availability_365",
+            "cancellation_policy",
+            "features"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "574b1eda61802f4bce9c0b0880949e8461d67361",
+            "fields": {
+                "host_neighbourhood": "Le Marais",
+                "geolocation": [
+                    48.8597059794778,
+                    2.356304099113336
+                ],
+                "host_verifications": "email,phone,reviews",
+                "review_scores_communication": 10,
+                "jurisdiction_names": "Paris",
+                "availability_90": 0,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 2,
+                "bathrooms": 1.0,
+                "description": "Situated between Rambuteau and City hall, my flat is central and quiet. Perfect for a romantic WE and to visit Paris. There is a fireplace which works, completed for a romantic evening with a good wine bottle ;) Enjoy it!",
+                "house_rules": "Appartement NON FUMEUR - PAS DE SOIR\u00c9ES... NO SMOKING - NO PARTIES",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "Situated between Rambuteau and City hall, my flat is central and quiet. Perfect for a romantic WE and to visit Paris. There is a fireplace which works, completed for a romantic evening with a good wine bottle ;) Enjoy it!",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Le Marais, Paris, \u00cele-de-France 75004, France",
+                "cancellation_policy": "moderate",
+                "id": "9722855",
+                "price": 150,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 0.15,
+                "neighbourhood": "Le Marais",
+                "review_scores_rating": 100,
+                "smart_location": "Paris, France",
+                "host_location": "Paris, \u00cele-de-France, France",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Is Location Exact",
+                "host_id": "50183712",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.8597059794778",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 10,
+                "state": "\u00cele-de-France",
+                "host_since": "2015-11-30",
+                "cleaning_fee": 30,
+                "availability_60": 0,
+                "minimum_nights": 1,
+                "host_url": "https://www.airbnb.com/users/show/50183712",
+                "first_review": "2016-03-11",
+                "name": "Charming & Cosy Marais/Rambuteau",
+                "neighborhood_overview": "En plein coeur du Marais: restaurants branch\u00e9s, BHV, Magasins de Luxe, \u00e9piceries...",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-04-04",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/2849a0de-67d1-4756-aad9-92400a1f6325.jpg?aki_policy=profile_x_medium",
+                "picture_url": {
+                    "id": "76bcad5a9f4e12581732cb87120a4b82",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 720,
+                    "filename": "0a5a083b-c6dc-4cac-a78a-56f1aceedd77.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(206, 198, 178, 1.00)",
+                        "rgba(189, 178, 159, 1.00)",
+                        "rgba(155, 142, 121, 1.00)"
+                    ]
+                },
+                "host_total_listings_count": 1,
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "amenities": "Cable TV,Internet,Wireless Internet,Kitchen,Elevator in building,Indoor fireplace,Buzzer/wireless intercom,Heating,Washer,Smoke detector,Essentials,Shampoo,Hangers,Hair dryer,Iron,Laptop friendly workspace",
+                "listing_url": "https://www.airbnb.com/rooms/9722855",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "8 months ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/2849a0de-67d1-4756-aad9-92400a1f6325.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Alexandra",
+                "review_scores_checkin": 10,
+                "availability_365": 0,
+                "last_review": "2016-04-05",
+                "bed_type": "Real Bed",
+                "review_scores_value": 9,
+                "zipcode": "75004",
+                "longitude": "2.356304099113336",
+                "maximum_nights": 1125,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.356304099113336,
+                    48.8597059794778
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "ffde40c69b83dbbc9da127dfe4108ca512297a74",
+            "fields": {
+                "host_neighbourhood": "Bastille",
+                "geolocation": [
+                    48.85682279594091,
+                    2.358516188496471
+                ],
+                "host_verifications": "email,phone,reviews,jumio,government_id",
+                "review_scores_communication": 10,
+                "jurisdiction_names": "Paris",
+                "availability_90": 0,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 44,
+                "bathrooms": 1.0,
+                "description": "This modern, elegant and comfortable studio apartment is the perfect solution to discover Paris. Located in the very centre of le Marais, only 2 min walk from metro station Saint-Paul and from rue des Rosiers. Perfect for a couple.            This modern 36m2 studio apartment, freshly renovated, is located on the ground floor of a typical district building. It can comfortably sleep up to two people and includes a lounge, a dining room area, and a large double (king size). The kitchen is fitted with everything guests might need during their stay. The bedroom includes a bathroom with sink and shower and a separated WC.  It is an ideal spot to relax after a long day\u2019s sightseeing around the streets of Paris. There is also a flat-screen television, telephone, and WIFI internet connection available for work and leisure purposes. I will personally welcome all the guests, to show them the apartment and answer theirs questions. My guests can also contact me on my personal phone number during t",
+                "house_rules": "Welcome home! The apartment is your home during your stay. Treat this place as if it were your own. Check-in starts at 3pm, check-out is between 7am and 12am. No check-in after 8pm. Water, electricity, internet, bedlinen and towels are included in the rent.",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "This modern, elegant and comfortable studio apartment is the perfect solution to discover Paris. Located in the very centre of le Marais, only 2 min walk from metro station Saint-Paul and from rue des Rosiers. Perfect for a couple.",
+                "property_type": "Apartment",
+                "bedrooms": 0,
+                "street": "Le Marais, Paris, \u00cele-de-France 75004, France",
+                "access": "It is an ideal spot to relax after a long day\u2019s sightseeing around the streets of Paris. There is also a flat-screen television, telephone, and WIFI internet connection available for work and leisure purposes.",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/68006088/144e9ac0_original.jpg?aki_policy=x_large",
+                "id": "5401038",
+                "price": 110,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 1.87,
+                "host_response_rate": 95,
+                "security_deposit": 300,
+                "transit": "Ideally located on metro Line, you will be able to reach easily all the famous spots of Paris (h\u00f4tel de ville, Louvre, Tuileries, Concorde and Champs Elys\u00e9es)",
+                "neighbourhood": "Le Marais",
+                "review_scores_rating": 95,
+                "smart_location": "Paris, France",
+                "host_location": "Paris, \u00cele-de-France, France",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact,Instant Bookable",
+                "space": "This modern 36m2 studio apartment, freshly renovated, is located on the ground floor of a typical district building. It can comfortably sleep up to two people and includes a lounge, a dining room area, and a large double (king size). The kitchen is fitted with everything guests might need during their stay. The bedroom includes a bathroom with sink and shower and a separated WC.",
+                "host_id": "651030",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.85682279594091",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 10,
+                "state": "\u00cele-de-France",
+                "host_since": "2011-06-01",
+                "cleaning_fee": 35,
+                "availability_60": 0,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/68006088/144e9ac0_original.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/651030",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/68006088/144e9ac0_original.jpg?aki_policy=small",
+                "first_review": "2015-05-01",
+                "name": "Large studio in the heart of Marais",
+                "neighborhood_overview": "Rue Ferdinand Duval is located in the heart of Le Marais, 1 min walk from la rue des Rosiers. The neighborhood offers a wide selection of bars, shops and restaurants.",
+                "calculated_host_listings_count": 3,
+                "calendar_last_scraped": "2017-04-05",
+                "host_picture_url": "https://a0.muscache.com/im/users/651030/profile_pic/1329994027/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 3,
+                "picture_url": {
+                    "id": "5d64e4a62c79f4bb05c7cdf83d3535b7",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 720,
+                    "filename": "144e9ac0_original.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(198, 192, 184, 1.00)",
+                        "rgba(166, 160, 151, 1.00)",
+                        "rgba(63, 58, 50, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "notes": "Bed linen and towels are provided. There is a hair dryer and a coffee machine.",
+                "amenities": "TV,Internet,Wireless Internet,Kitchen,Heating,Washer,Dryer,Fire extinguisher,Essentials",
+                "listing_url": "https://www.airbnb.com/rooms/5401038",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "a week ago",
+                "monthly_price": 2000,
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/651030/profile_pic/1329994027/original.jpg?aki_policy=profile_small",
+                "weekly_price": 600,
+                "host_listings_count": 3,
+                "host_name": "Mel",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "interaction": "I will personally welcome all the guests, to show them the apartment and answer theirs questions. My guests can also contact me on my personal phone number during their stay. I will also be present on the day of the departure.",
+                "host_about": "\"High standing and charming apartment ideally located in the historic heart of Paris just near Place de la Bastille and less than 10 minutes walk from le Marais and its magnificent Place des Vosges or Village Saint Paul.",
+                "availability_365": 25,
+                "last_review": "2017-03-19",
+                "review_scores_value": 10,
+                "bed_type": "Real Bed",
+                "zipcode": "75004",
+                "longitude": "2.358516188496471",
+                "maximum_nights": 90,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.358516188496471,
+                    48.85682279594091
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "5779246812e0129234fb253fb331320fecd0adb1",
+            "fields": {
+                "square_feet": 0,
+                "host_neighbourhood": "Le Marais",
+                "geolocation": [
+                    48.85354778006083,
+                    2.367363598479863
+                ],
+                "host_verifications": "email,phone,reviews",
+                "review_scores_communication": 9,
+                "jurisdiction_names": "Paris",
+                "availability_90": 48,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 101,
+                "bathrooms": 1.0,
+                "description": "L\u2019appartement Bastille, situ\u00e9 \u00e0 5 minutes \u00e0 pied de la zone du Marais et de la Bastille, vous permet d\u2019acc\u00e9der facilement au c\u0153ur historique de Paris en vous promenant.  Votre lieu de s\u00e9jour se situe \u00e9galement \u00e0 quelques minutes du Canal Saint Martin et du quartier Oberkampf, dont les caf\u00e9s et les restaurants sont tr\u00e8s appr\u00e9ci\u00e9s par les parisiens branch\u00e9s. Enfin, l\u2019excellente desserte de l\u2019appartement par les lignes de m\u00e9tro n\u00b05 (station Richard-Lenoir), 8 (station Saint S\u00e9bastien-Froissard) et 9 (station Saint Ambroise) vous permet de rejoindre directement les gares de l\u2019Est et du Nord, les Galeries Lafayette, les Champs Elys\u00e9es et les autres destinations incontournables de Paris.  L\u2019appartement: Belle r\u00e9novation aux couleurs modernes pour cet appartement situ\u00e9 au 1er \u00e9tage (avec ascenseur) et donnant sur la cour int\u00e9rieure d\u2019un immeuble contemporain.  Le hall d\u2019entr\u00e9e distribue sur une salle de (URL HIDDEN) d\u2019une baignoire ainsi que sur la pi\u00e8ce principale. Le s\u00e9jour est \u00e9quip\u00e9 d\u2019un",
+                "review_scores_location": 9,
+                "accommodates": 2,
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "IV Arrondissement, Paris, \u00cele-de-France 75011, France",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/62390976/008f078a_original.jpg?aki_policy=x_large",
+                "id": "680096",
+                "price": 75,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 1.89,
+                "host_response_rate": 94,
+                "security_deposit": 350,
+                "neighbourhood": "IV Arrondissement",
+                "review_scores_rating": 88,
+                "smart_location": "Paris, France",
+                "host_location": "FR",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Is Location Exact",
+                "space": "L\u2019appartement Bastille, situ\u00e9 \u00e0 5 minutes \u00e0 pied de la zone du Marais et de la Bastille, vous permet d\u2019acc\u00e9der facilement au c\u0153ur historique de Paris en vous promenant.  Votre lieu de s\u00e9jour se situe \u00e9galement \u00e0 quelques minutes du Canal Saint Martin et du quartier Oberkampf, dont les caf\u00e9s et les restaurants sont tr\u00e8s appr\u00e9ci\u00e9s par les parisiens branch\u00e9s. Enfin, l\u2019excellente desserte de l\u2019appartement par les lignes de m\u00e9tro n\u00b05 (station Richard-Lenoir), 8 (station Saint S\u00e9bastien-Froissard) et 9 (station Saint Ambroise) vous permet de rejoindre directement les gares de l\u2019Est et du Nord, les Galeries Lafayette, les Champs Elys\u00e9es et les autres destinations incontournables de Paris.  L\u2019appartement: Belle r\u00e9novation aux couleurs modernes pour cet appartement situ\u00e9 au 1er \u00e9tage (avec ascenseur) et donnant sur la cour int\u00e9rieure d\u2019un immeuble contemporain.  Le hall d\u2019entr\u00e9e distribue sur une salle de (URL HIDDEN) d\u2019une baignoire ainsi que sur la pi\u00e8ce principale. Le s\u00e9jour est \u00e9quip\u00e9 d\u2019un",
+                "host_id": "1466866",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.85354778006083",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 9,
+                "state": "\u00cele-de-France",
+                "host_since": "2011-12-03",
+                "cleaning_fee": 50,
+                "availability_60": 24,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/62390976/008f078a_original.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/1466866",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/62390976/008f078a_original.jpg?aki_policy=small",
+                "first_review": "2012-11-12",
+                "name": "Bastille appartement avec balcon",
+                "calculated_host_listings_count": 15,
+                "calendar_last_scraped": "2017-04-05",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/7c89641d-6944-4b7c-b591-a96788595193.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 15,
+                "picture_url": {
+                    "id": "30708046ea31b7c9a1d27dbeb9fc1b75",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 720,
+                    "filename": "008f078a_original.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(182, 147, 147, 1.00)",
+                        "rgba(163, 135, 139, 1.00)",
+                        "rgba(149, 122, 103, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "amenities": "TV,Cable TV,Internet,Wireless Internet,Kitchen,Elevator in building,Heating,Washer",
+                "listing_url": "https://www.airbnb.com/rooms/680096",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "yesterday",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/7c89641d-6944-4b7c-b591-a96788595193.jpg?aki_policy=profile_small",
+                "host_listings_count": 15,
+                "host_name": "Chokri",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 9,
+                "host_about": "Location meubl\u00e9e sur paris",
+                "availability_365": 318,
+                "last_review": "2017-03-19",
+                "review_scores_value": 9,
+                "bed_type": "Real Bed",
+                "zipcode": "75011",
+                "longitude": "2.367363598479863",
+                "maximum_nights": 1125,
+                "availability_30": 9,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.367363598479863,
+                    48.85354778006083
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "842f7dce1e0f877f11a1277ce036cddf8c79a8f2",
+            "fields": {
+                "host_neighbourhood": "IV Arrondissement",
+                "geolocation": [
+                    48.84797907707415,
+                    2.363884770193474
+                ],
+                "host_verifications": "email,phone,reviews",
+                "jurisdiction_names": "Paris",
+                "availability_90": 0,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 0,
+                "house_rules": "- Par respect pour les voisins, pas de bruit apr\u00e8s 23h",
+                "bathrooms": 2.0,
+                "description": "Appartement au centre de Paris, pr\u00e8s de la Seine et Bastille avec une jolie terrasse sur cour.",
+                "accommodates": 6,
+                "summary": "Appartement au centre de Paris, pr\u00e8s de la Seine et Bastille avec une jolie terrasse sur cour.",
+                "property_type": "Apartment",
+                "bedrooms": 3,
+                "street": "IV Arrondissement, Paris, \u00cele-de-France 75004, France",
+                "cancellation_policy": "flexible",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/0363d785-1aee-4e41-9487-08441de158fb.jpg?aki_policy=x_large",
+                "id": "15884584",
+                "price": 200,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "host_response_rate": 100,
+                "security_deposit": 500,
+                "neighbourhood": "IV Arrondissement",
+                "smart_location": "Paris, France",
+                "host_location": "Paris, \u00cele-de-France, France",
+                "beds": 4,
+                "features": "Host Is Superhost,Host Has Profile Pic,Is Location Exact,Instant Bookable",
+                "host_id": "35183400",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.84797907707415",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "state": "\u00cele-de-France",
+                "host_since": "2015-06-07",
+                "cleaning_fee": 65,
+                "availability_60": 0,
+                "minimum_nights": 4,
+                "medium_url": "https://a0.muscache.com/im/pictures/0363d785-1aee-4e41-9487-08441de158fb.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/35183400",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/0363d785-1aee-4e41-9487-08441de158fb.jpg?aki_policy=small",
+                "name": "Superbe appartement au coeur de Paris",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-04-05",
+                "picture_url": {
+                    "id": "c9c6d01471e1dc2c6a1a44744d3435ca",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 360,
+                    "filename": "0363d785-1aee-4e41-9487-08441de158fb.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(193, 193, 181, 1.00)",
+                        "rgba(105, 107, 95, 1.00)",
+                        "rgba(31, 34, 25, 1.00)"
+                    ]
+                },
+                "host_picture_url": "https://a0.muscache.com/im/pictures/31af3869-4869-43a4-87ec-bfbd604b2c89.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "amenities": "TV,Wireless Internet,Kitchen,Elevator in building,Heating,Washer,Dryer,Smoke detector,Essentials,Shampoo,Hangers,Hair dryer,Iron",
+                "listing_url": "https://www.airbnb.com/rooms/15884584",
+                "calendar_updated": "a week ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/31af3869-4869-43a4-87ec-bfbd604b2c89.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Guylaine",
+                "host_response_time": "within an hour",
+                "availability_365": 37,
+                "bed_type": "Real Bed",
+                "zipcode": "75004",
+                "longitude": "2.363884770193474",
+                "maximum_nights": 1125,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.363884770193474,
+                    48.84797907707415
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "37a92ab093e0f47bdee2e36f3d21754d60322734",
+            "fields": {
+                "host_neighbourhood": "IV Arrondissement",
+                "geolocation": [
+                    48.850686846375936,
+                    2.36638550649299
+                ],
+                "host_verifications": "email,phone,google,reviews,jumio,government_id",
+                "review_scores_communication": 8,
+                "jurisdiction_names": "Paris",
+                "availability_90": 78,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 14,
+                "bathrooms": 1.0,
+                "description": "Comfortable studio located near the famous area the \"Marais\". It's perfect for two people. Furthermore, the location is perfect to visit Paris. Located in 4th district, you will experience a lively neighborhood with it\u2019s many restaurants, bars and cultural events. The apartment is located on the third floor. The entrance is secure. In the apartment there are a living area and a bathroom. The space is optimized for two people. The kitchen is fully equipped to take a breakfast (toaster, coffee machine, boiler,etc.) The guest has fully access to the apartment I try, as much as possible, to be present to greet you and share with you my knowledge of Paris. If it's not possible, I ask a friend to greet you and make you feel at home. You can join me by Airbnb message. The district Bastille is one of the the most livened up districts of the capital. It is a young and livened up district. With restaurants, coffees and its opera, the place of the Bastille is the heart of the district. The distri",
+                "house_rules": "Pour le bien de notre voisinage je vous remercie de respecter les lieux en \u00e9tant calme et silencieux. De plus priez de ne pas fumer dans mon studio. Je serais disponible pour vous accueillir \u00e0 partir de 14h. Merci",
+                "review_scores_location": 9,
+                "accommodates": 2,
+                "summary": "Comfortable studio located near the famous area the \"Marais\". It's perfect for two people. Furthermore, the location is perfect to visit Paris. Located in 4th district, you will experience a lively neighborhood with it\u2019s many restaurants, bars and cultural events.",
+                "property_type": "Apartment",
+                "bedrooms": 0,
+                "street": "IV Arrondissement, Paris, \u00cele-de-France 75004, France",
+                "access": "The guest has fully access to the apartment",
+                "cancellation_policy": "moderate",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/33015a5f-99f9-4dab-9a13-960aaf4b6dce.jpg?aki_policy=x_large",
+                "id": "14065938",
+                "price": 75,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 1.98,
+                "host_response_rate": 100,
+                "security_deposit": 200,
+                "transit": "For come to our studio stop at station Bastille, the subway station  is one of the busiest of the capital. She allows to reach in every corner of the city thanks to three subway lines which cross it : lines 1, 5 and 8.",
+                "neighbourhood": "IV Arrondissement",
+                "review_scores_rating": 83,
+                "smart_location": "Paris, France",
+                "host_location": "Paris, \u00cele-de-France, France",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact,Instant Bookable",
+                "space": "The apartment is located on the third floor. The entrance is secure. In the apartment there are a living area and a bathroom. The space is optimized for two people. The kitchen is fully equipped to take a breakfast (toaster, coffee machine, boiler,etc.)",
+                "host_id": "51600284",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.850686846375936",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 9,
+                "state": "\u00cele-de-France",
+                "host_since": "2015-12-17",
+                "availability_60": 48,
+                "minimum_nights": 4,
+                "medium_url": "https://a0.muscache.com/im/pictures/33015a5f-99f9-4dab-9a13-960aaf4b6dce.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/51600284",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/33015a5f-99f9-4dab-9a13-960aaf4b6dce.jpg?aki_policy=small",
+                "first_review": "2016-09-06",
+                "name": "\u2764\ufe0f  The perfect studio for a couple \u2764\ufe0f",
+                "neighborhood_overview": "The district Bastille is one of the the most livened up districts of the capital. It is a young and livened up district. With restaurants, coffees and its opera, the place of the Bastille is the heart of the district. The district Bastille is a place of markets and concerts. It is an ideal district for a brunch, an afterwork or an evening with friends. Our studio is also at 5 minutes of le Marais.",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-04-05",
+                "host_picture_url": "https://a0.muscache.com/im/pictures/4b6cef7c-f5ca-4b31-a2ea-e08fafbd21d6.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "337f3c75d246d65215ee854e8b6cf950",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 720,
+                    "filename": "33015a5f-99f9-4dab-9a13-960aaf4b6dce.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(201, 197, 185, 1.00)",
+                        "rgba(197, 172, 162, 1.00)",
+                        "rgba(164, 125, 122, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "notes": "Late arrivals - For arrivals after 8:00 PM , I will ask you an additional  20 euros for my friend who manage my apartment when I can't greet you. No smoke inside my studio.",
+                "amenities": "Internet,Wireless Internet,Kitchen,Heating,Smoke detector,Carbon monoxide detector,Essentials,Shampoo,24-hour check-in,Hangers,Hair dryer,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/14065938",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "today",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/4b6cef7c-f5ca-4b31-a2ea-e08fafbd21d6.jpg?aki_policy=profile_small",
+                "host_listings_count": 1,
+                "host_name": "Christophe",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 9,
+                "interaction": "I try, as much as possible, to be present to greet you and share with you my knowledge of Paris. If it's not possible, I ask a friend to greet you and make you feel at home. You can join me by Airbnb message.",
+                "host_about": "Je mets \u00e0 disposition mon appartement lors de mes cong\u00e9s ou d\u00e9placements professionnels.",
+                "availability_365": 168,
+                "last_review": "2017-03-27",
+                "review_scores_value": 9,
+                "bed_type": "Real Bed",
+                "zipcode": "75004",
+                "longitude": "2.36638550649299",
+                "maximum_nights": 1125,
+                "availability_30": 18,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.36638550649299,
+                    48.850686846375936
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "683622dd75d68eaa5e1fc4104e2cd38e19aa6d24",
+            "fields": {
+                "host_neighbourhood": "IV Arrondissement",
+                "geolocation": [
+                    48.854632560990055,
+                    2.3664662789405106
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "review_scores_communication": 10,
+                "jurisdiction_names": "Paris",
+                "availability_90": 43,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 4,
+                "bathrooms": 1.0,
+                "description": "Studio tr\u00e8s calme avec vue de c\u00f4t\u00e9 sur les toits de Paris. Peut accueillir jusqu'\u00e0 2 personnes. Tout est accessible aux voyageurs. Aucun \u00e9quipement ou zone du logement n'est partag\u00e9e. Le studio est non fumeur. Echange facile, r\u00e9sidence principale \u00e0 10 minutes \u00e0 pied du studio. Non, remise en main propre des clefs du studio \u00e0 leur arriv\u00e9e. J'aime: Quartier r\u00e9sidentiel, central et anim\u00e9 du Marais, id\u00e9alement plac\u00e9 \u00e0 100m du m\u00e9tro Bastille (3 lignes), et \u00e0 quelques pas de la superbe place des Vosges. Rue calme, mais \u00e0 proximit\u00e9 des bars et galeries d'art du Marais. La plupart des sites touristiques comme Beaubourg ou Notre-Dame sont accessibles \u00e0 pied ou \u00e0 quelques stations de m\u00e9tro. A ne pas manquer: La Place des Vosges. Acc\u00e8s via 3 lignes de metro (ligne 1, 5 et 8) et 2 lignes de bus. Absence de parking dans le logement. Logement facile d'acc\u00e8s en Taxi ou RER depuis l'a\u00e9roport. Attention: 5\u00e8me \u00e9tage sans ascenseur et les \u00e9tages sont assez hauts, au total: 104 marches. Ce studio est dest",
+                "house_rules": "Une dur\u00e9e de s\u00e9jour de 4 nuits minimum. Animaux autoris\u00e9s. Logement non fumeur.",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "Au coeur de Paris, studio de charme au 5eme (sans ascenseur), tr\u00e8s calme, ensoleill\u00e9 (sauf en hiver), poutres, vue sur les toits de Paris.  R\u00e9cemment r\u00e9nov\u00e9 et meubl\u00e9.  Canap\u00e9-lit confortable. Lit gonflable \u00e9lectrique pour une 3eme personne.",
+                "property_type": "Apartment",
+                "street": "IV Arrondissement, Paris, \u00cele-de-France 75004, France",
+                "access": "Tout est accessible aux voyageurs. Aucun \u00e9quipement ou zone du logement n'est partag\u00e9e. Le studio est non fumeur.",
+                "cancellation_policy": "flexible",
+                "id": "5281574",
+                "price": 80,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 0.18,
+                "host_response_rate": 100,
+                "transit": "Acc\u00e8s via 3 lignes de metro (ligne 1, 5 et 8) et 2 lignes de bus. Absence de parking dans le logement. Logement facile d'acc\u00e8s en Taxi ou RER depuis l'a\u00e9roport.",
+                "neighbourhood": "IV Arrondissement",
+                "review_scores_rating": 95,
+                "smart_location": "Paris, France",
+                "host_location": "Paris, \u00cele-de-France, France",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "Studio tr\u00e8s calme avec vue de c\u00f4t\u00e9 sur les toits de Paris. Peut accueillir jusqu'\u00e0 2 personnes.",
+                "host_id": "13908877",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.854632560990055",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 10,
+                "state": "\u00cele-de-France",
+                "host_since": "2014-04-05",
+                "availability_60": 31,
+                "minimum_nights": 4,
+                "host_url": "https://www.airbnb.com/users/show/13908877",
+                "first_review": "2015-06-09",
+                "name": "Studio de charme Marais 4e",
+                "neighborhood_overview": "J'aime: Quartier r\u00e9sidentiel, central et anim\u00e9 du Marais, id\u00e9alement plac\u00e9 \u00e0 100m du m\u00e9tro Bastille (3 lignes), et \u00e0 quelques pas de la superbe place des Vosges. Rue calme, mais \u00e0 proximit\u00e9 des bars et galeries d'art du Marais. La plupart des sites touristiques comme Beaubourg ou Notre-Dame sont accessibles \u00e0 pied ou \u00e0 quelques stations de m\u00e9tro. A ne pas manquer: La Place des Vosges.",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-04-05",
+                "host_total_listings_count": 1,
+                "host_picture_url": "https://a0.muscache.com/im/users/13908877/profile_pic/1423300863/original.jpg?aki_policy=profile_x_medium",
+                "picture_url": {
+                    "id": "a54022d9ba266466db09a20eced69d2d",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 640,
+                    "filename": "b8290348_original.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(104, 98, 91, 1.00)",
+                        "rgba(130, 123, 113, 1.00)",
+                        "rgba(101, 92, 85, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "notes": "Attention: 5\u00e8me \u00e9tage sans ascenseur et les \u00e9tages sont assez hauts, au total: 104 marches. Ce studio est destin\u00e9 \u00e0 l'\u00e9change ou \u00e0 la location, donc disponible \u00e0 toutes p\u00e9riodes, \u00e9galement pour des \u00e9changes non-simultan\u00e9s.",
+                "amenities": "Cable TV,Wireless Internet,Air conditioning,Kitchen,Buzzer/wireless intercom,Heating,Essentials",
+                "listing_url": "https://www.airbnb.com/rooms/5281574",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "a week ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/13908877/profile_pic/1423300863/original.jpg?aki_policy=profile_small",
+                "weekly_price": 550,
+                "host_listings_count": 1,
+                "host_name": "Jean-Marc",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "interaction": "Echange facile, r\u00e9sidence principale \u00e0 10 minutes \u00e0 pied du studio. Non, remise en main propre des clefs du studio \u00e0 leur arriv\u00e9e.",
+                "availability_365": 318,
+                "last_review": "2016-09-30",
+                "bed_type": "Pull-out Sofa",
+                "review_scores_value": 10,
+                "zipcode": "75004",
+                "longitude": "2.3664662789405106",
+                "maximum_nights": 1125,
+                "availability_30": 11,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3664662789405106,
+                    48.854632560990055
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "c679d802cbf7d1e5f8eaa23a1cf5fe72f5aec472",
+            "fields": {
+                "host_neighbourhood": "Saint-Germain-des-Pr\u00e9s - Od\u00e9on",
+                "geolocation": [
+                    48.858513535743626,
+                    2.3518035902854746
+                ],
+                "host_verifications": "email,phone,reviews,jumio,work_email",
+                "review_scores_communication": 9,
+                "jurisdiction_names": "Paris",
+                "availability_90": 28,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 5,
+                "bathrooms": 2.0,
+                "description": "Marais Terrace This 2300sqft 3BR Paris apartment is very spacious and also features a 400 sqft private terrace. Appointed with outdoor furniture and barbecue grill, the terrace is ideal for outdoor eating and entertaining. Master and second bedroom have queen-sized beds, third bedroom has two single beds, a trundle bed, and a crib. From the apartment\u2019s private, street-level entrance, a carpeted staircase leads one flight up to the main floor, where you\u2019ll enter into the large open floor plan of the living and dining rooms. Also on this level are the master bedroom, full bathroom, additional WC, kitchen, and utility room with washer/dryer. Two additional bedrooms and a full bathroom are located on the level above. The living area features a white leather couch and chairs that are arranged around a rustic coffee table and face three sets of French doors that open onto the terrace. The large windows, columns, and floor-to-ceiling bookshelves give the main salon a dramatic height and airin",
+                "house_rules": "No smoking. No pets. Check-in outside business hours (between 7am and 9am or 7pm and 10pm) or on a French National Holiday are subject to a US75 fee. Very early / late check-in before 7am or after 10pm are subject to a US100 fee.",
+                "review_scores_location": 9,
+                "accommodates": 7,
+                "summary": "Marais Terrace This 2300sqft 3BR Paris apartment is very spacious and also features a 400 sqft private terrace. Appointed with outdoor furniture and barbecue grill, the terrace is ideal for outdoor eating and entertaining. Master and second bedroom have queen-sized beds, third bedroom has two single beds, a trundle bed, and a crib.",
+                "property_type": "Apartment",
+                "bedrooms": 3,
+                "street": "Ch\u00e2telet - Les Halles - Beaubourg, Paris, \u00cele-de-France 75004, France",
+                "access": "Guests have 100% privacy and access to the entire apartment, free Wifi, cable + Free calls to US/Canada.",
+                "cancellation_policy": "strict",
+                "id": "8166244",
+                "price": 534,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 0.3,
+                "host_response_rate": 100,
+                "security_deposit": 937,
+                "transit": "The Seine River is around the corner, the Notre-Dame Cathedral and the romantic Ile Saint Louis are a short 5 minutes walk. If you have any interest in art, you have plenty of galleries and workshops where you can buy exquisite gifts. You are also a short stroll away to Place des Vosges and of all those beautiful museums: Carnavalet, Jewish Museum, Picasso Museum and so many others. The Louvre, even closer, is a 5 minutes walk. On top of everything, and it is rather rare in the center of Paris, this is a very quiet apartment in the middle of a superb lively neighborhood.",
+                "neighbourhood": "Ch\u00e2telet - Les Halles - Beaubourg",
+                "review_scores_rating": 88,
+                "smart_location": "Paris, France",
+                "host_location": "Sausalito, California, United States",
+                "beds": 5,
+                "features": "Host Is Superhost,Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "From the apartment\u2019s private, street-level entrance, a carpeted staircase leads one flight up to the main floor, where you\u2019ll enter into the large open floor plan of the living and dining rooms. Also on this level are the master bedroom, full bathroom, additional WC, kitchen, and utility room with washer/dryer. Two additional bedrooms and a full bathroom are located on the level above. The living area features a white leather couch and chairs that are arranged around a rustic coffee table and face three sets of French doors that open onto the terrace. The large windows, columns, and floor-to-ceiling bookshelves give the main salon a dramatic height and airiness. Around a corner you will find another seating area on a raised platform. With a large sectional sofa in lavender and playful d\u00e9cor, this room provides a small television nook that is separate from the main salon. Consistent with the red and white motif of the main salon, the dining area has large wood table with seating for eig",
+                "host_id": "2575917",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.858513535743626",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 9,
+                "state": "\u00cele-de-France",
+                "host_since": "2012-06-07",
+                "cleaning_fee": 230,
+                "availability_60": 17,
+                "minimum_nights": 5,
+                "host_url": "https://www.airbnb.com/users/show/2575917",
+                "first_review": "2015-11-15",
+                "name": "Quiet 3br/Terrace in buzzing Marais",
+                "neighborhood_overview": "The Marais is one of the most ancient and picturesque central parts of Paris, characterized by its unique 17th century buildings and elegant stores and restaurants. For visitors wishing to explore Paris on foot, this is an excellent starting point.",
+                "calculated_host_listings_count": 25,
+                "calendar_last_scraped": "2017-04-05",
+                "host_picture_url": "https://a0.muscache.com/im/users/2575917/profile_pic/1430184092/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 26,
+                "picture_url": {
+                    "id": "025df7d188db30e134b81a534caedd85",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 720,
+                    "filename": "bbdac672-d299-4437-bb6b-38d606d13fbd.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(197, 194, 170, 1.00)",
+                        "rgba(169, 156, 119, 1.00)",
+                        "rgba(103, 88, 46, 1.00)"
+                    ]
+                },
+                "extra_people": 37,
+                "room_type": "Entire home/apt",
+                "notes": "1st Floor - No Elevator. Private terrace.",
+                "amenities": "TV,Cable TV,Internet,Wireless Internet,Kitchen,Buzzer/wireless intercom,Heating,Family/kid friendly,Washer,Dryer,First aid kit,Essentials,Shampoo",
+                "listing_url": "https://www.airbnb.com/rooms/8166244",
+                "review_scores_accuracy": 9,
+                "calendar_updated": "today",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/2575917/profile_pic/1430184092/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 26,
+                "host_name": "Patrick",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "interaction": "We are dedicated to helping you from the moment you land to the moment you depart.  We can organize your transportation to and/or from the apartment if you request. We greet you in person to give you the keys, explain the property specifics and the neighborhood.  If you need us for anything - from an insider tip to a problem at the apartment - we are just an email or phone call away. Our Paris team provides assistance 7 days/week from 9 am to 7 pm.  We have a 24h emergency response number.",
+                "host_about": "I rented my first apartment more than 15 years ago while traveling with my girlfriend. We immediately became hooked to the concept of vacation rentals and never stayed in an hotel again. Now I am happy to be able to host fellow travelers. Few cities are as fabulous as Paris. Stay in one of our handpicked apartments, all located in the best neighborhoods!",
+                "availability_365": 238,
+                "last_review": "2016-12-27",
+                "bed_type": "Real Bed",
+                "review_scores_value": 9,
+                "zipcode": "75004",
+                "longitude": "2.3518035902854746",
+                "maximum_nights": 1125,
+                "availability_30": 10,
+                "experiences_offered": "none",
+                "guests_included": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3518035902854746,
+                    48.858513535743626
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "8e5b5a75de7e93cc1fdb687fdd41368dcb1b23db",
+            "fields": {
+                "square_feet": 215,
+                "host_neighbourhood": "IV Arrondissement",
+                "geolocation": [
+                    48.85500776444087,
+                    2.367311492873968
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "review_scores_communication": 10,
+                "jurisdiction_names": "Paris",
+                "availability_90": 21,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 111,
+                "bathrooms": 1.0,
+                "description": "The studio is located at the foot of the Bastille underground , close to the Place des Vosges in the 4th arrondissement of Paris , in the heart of the famous Marais district. You can easily walk to all the historical monuments such as Notre Dame , the Pantheon, the Sainte Chapelle, the Louvre , the Eiffel Tower .. and many other monuments. The studio is fully renovated and equipped with a dishwasher, a washer dryer, microwave , internet, TV ... The studio is located at the foot of the Bastille underground, close to the Place des Vosges in the 4th arrondissement of Paris, in the heart of the famous Marais district. This studio of 20 m2, located on the second floor of a 17th century building with typical charm of the \"Marais\", is fully equipped to offer you a pleasant stay in the heart of the capital fran\u00e7aise.Parmi equipment you will find: fridge / freezer, dishwasher, ceramic hob, hood, combination microwave oven, dishes and cooking utensils, coffee maker, kettle, toaster, washer-dryer",
+                "house_rules": "After booking(URL HIDDEN)-\u00a0 After the reservation is accepted, I will email you all information how to get to the apartment from airports or train stations, and will also request some travel details from you to plan the checkin.(URL HIDDEN)-\u00a0 I am flexible. You can arrive on evening but you must pay 30\u20ac after 20:00 pm and leave early in the morning but you must pay 30\u20ac before 07:00 am. I will just ask you to provide your flight/train details after the booking is completed so I can make arrangements and make sure I will be able to welcome you.(URL HIDDEN)-\u00a0 Appartement non fumeur et animaux non admis. L'appartement doit \u00eatre rendu propre. No smoking and no pets. The apartment must be clean.",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "The studio is located at the foot of the Bastille underground , close to the Place des Vosges in the 4th arrondissement of Paris , in the heart of the famous Marais district. You can easily walk to all the historical monuments such as Notre Dame , the Pantheon, the Sainte Chapelle, the Louvre , the Eiffel Tower .. and many other monuments. The studio is fully renovated and equipped with a dishwasher, a washer dryer, microwave , internet, TV ...",
+                "property_type": "Apartment",
+                "bedrooms": 0,
+                "street": "IV Arrondissement, Paris, \u00cele-de-France 75004, France",
+                "access": "The studio is located at the foot of the Bastille underground, close to the Place des Vosges in the 4th arrondissement of Paris, in the heart of the famous Marais district. This studio of 20 m2, located on the second floor of a 17th century building with typical charm of the \"Marais\", is fully equipped to offer you a pleasant stay in the heart of the capital fran\u00e7aise.Parmi equipment you will find: fridge / freezer, dishwasher, ceramic hob, hood, combination microwave oven, dishes and cooking utensils, coffee maker, kettle, toaster, washer-dryer, hair dryer, vacuum cleaner, fan, unlimited Wi-Fi internet access, unlimited phone to 150 countries , television ADSL.Le linen is provided for the rental period and you will find a comfortable sofa bed (120x190). You will find near this apartment all necessary shops (bakery, butcher, doctor, pharmacy, hospital, laundry, market, restaurants, cafes, hairdressers, supermarkets, theaters, clubs ...). The whole area is very lively, it is considered",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/6210274/e377df7c_original.jpg?aki_policy=x_large",
+                "id": "512163",
+                "price": 95,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 1.92,
+                "host_response_rate": 100,
+                "security_deposit": 200,
+                "transit": "You can also opt for public transport as lines 1 , 5, 8 serving easily the sights of Paris . The access to the Paris airports are therefore easily accessible since joining the RER subway lines. You also have the possibility to park your car in a public garage near the apartment.",
+                "neighbourhood": "IV Arrondissement",
+                "review_scores_rating": 95,
+                "smart_location": "Paris, France",
+                "host_location": "Paris, \u00cele-de-France, France",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact,Instant Bookable",
+                "space": "The studio is located at the foot of the Bastille underground, close to the Place des Vosges in the 4th arrondissement of Paris, in the heart of the famous Marais district. This studio of 20 m2, located on the second floor of a 17th century building with typical charm of the \"Marais\", is fully equipped to offer you a pleasant stay in the heart of the capital fran\u00e7aise.Parmi equipment you will find: fridge / freezer, dishwasher, ceramic hob, hood, combination microwave oven, dishes and cooking utensils, coffee maker, kettle, toaster, washer-dryer, hair dryer, vacuum cleaner, fan, unlimited Wi-Fi internet access, unlimited phone to 150 countries , television ADSL.Le linen is provided for the rental period and you will find a comfortable sofa bed (120x190). You will find near this apartment all necessary shops (bakery, butcher, doctor, pharmacy, hospital, laundry, market, restaurants, cafes, hairdressers, supermarkets, theaters, clubs ...). The whole area is very lively, it is considered",
+                "host_id": "2522825",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.85500776444087",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 10,
+                "state": "\u00cele-de-France",
+                "host_since": "2012-06-01",
+                "availability_60": 18,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/6210274/e377df7c_original.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/2522825",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/6210274/e377df7c_original.jpg?aki_policy=small",
+                "first_review": "2012-07-09",
+                "name": "Paris 4 -Marais - Place des Vosges",
+                "neighborhood_overview": "The Marais is a former central district where you can find many bars, restaurants, food shops , bakery ... You are 10 minutes walk from Notre Dame Cathedral and the many monuments of Paris .",
+                "calculated_host_listings_count": 11,
+                "calendar_last_scraped": "2017-04-05",
+                "host_picture_url": "https://a0.muscache.com/im/users/2522825/profile_pic/1359377022/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 11,
+                "picture_url": {
+                    "id": "eeef0f298174ef655b409ba7d9a4a681",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 720,
+                    "filename": "e377df7c_original.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(150, 134, 117, 1.00)",
+                        "rgba(196, 180, 162, 1.00)",
+                        "rgba(209, 191, 170, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "notes": "On arrival we will be able if you wish to exchange about places to see in Paris with a map and answer gladly to all of your questions to make your stay as pleasant as possible",
+                "amenities": "TV,Cable TV,Internet,Wireless Internet,Kitchen,Heating,Washer,Dryer,Smoke detector,Essentials,Shampoo,Hangers,Hair dryer,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+                "listing_url": "https://www.airbnb.com/rooms/512163",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "today",
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/2522825/profile_pic/1359377022/original.jpg?aki_policy=profile_small",
+                "host_listings_count": 11,
+                "host_name": "Arnaud",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "interaction": "During your stay in the studio you have all the information needed to join if difficulty to book a restaurant, attraction or any other application. I will be reachable without any worries ...",
+                "host_about": "I am passionate about decorating, I fully refurbished the apartments with my friend and we both tried to design them as if we lived there. Thus we have comfortably furnished and equipped to meet the spirit of a hotel for our guests feel right at home ....\r\n\r\nJe suis passionn\u00e9 de d\u00e9coration, j'ai int\u00e9gralement refait les appartements avec mon ami, et nous avons tous les deux essay\u00e9 de les concevoir comme si nous y vivions. Ainsi nous les avons meubl\u00e9s et \u00e9quip\u00e9s confortablement afin de retrouver l'esprit d'un h\u00f4tel pour que nos invit\u00e9s s'y sentent comme chez eux....",
+                "availability_365": 296,
+                "last_review": "2017-01-14",
+                "review_scores_value": 9,
+                "bed_type": "Couch",
+                "zipcode": "75004",
+                "longitude": "2.367311492873968",
+                "maximum_nights": 330,
+                "availability_30": 18,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.367311492873968,
+                    48.85500776444087
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "6bb08cea2dc8dadd2a56b931fc475ffb48afcb7a",
+            "fields": {
+                "square_feet": 646,
+                "host_neighbourhood": "Le Marais",
+                "geolocation": [
+                    48.85550835530436,
+                    2.3620398081734226
+                ],
+                "host_verifications": "email,phone,reviews,jumio",
+                "review_scores_communication": 10,
+                "jurisdiction_names": "Paris",
+                "availability_90": 22,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 1,
+                "bathrooms": 1.0,
+                "description": "Lovely apartment with antique wood floor located in the heart of old Paris next to metro StPaul (line 1), next to Carnavalet, Picasso museum, Maison europ\u00e9enne de la photographie, place des Vosges, Hotel de Ville, place de la Bastille. The neighbourhood is calm, but restaurants and bars are just 5mn walking from home. 3rd floor with elevator. The flat is composed of 2 bedrooms and the living-room.  The living-room and the largest bedroom overlook the street. The other bedroom has view on the courtyard, as well as the kitchen. The kitchen is fully furnished : washing machine, gas+electric oven, microwave oven, fridge. Bathroom, separated toilet. Electric heating in each room. WIFI, TV, landline phone, and a choice of various guide books to find all necessary informations and tips about the city!",
+                "house_rules": "We have two cats (females). We ask our guests to feed them everyday. Pet food is provided. Our cats are very quiet, one is tortoise shell and the other is black. They don't scratch or bite. They are very independant. They will never bother you, provided that you feed them everyday!",
+                "review_scores_location": 10,
+                "accommodates": 2,
+                "summary": "You will find a cosy apartment with antique wood floor, confortable sofa, a large bedroom with a desk. and a dressing room. The rooms give on a quiet street, especially at night. The great advantage is the location, in the heart of lively area, with all kind of shops, boutiques, and various museums. With metro line 1 at only 5mn walk, you will reach in less than 30mn most of all famous places of Paris.",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Le Marais, Paris, \u00cele-de-France 75004, France",
+                "cancellation_policy": "strict",
+                "xl_picture_url": "https://a0.muscache.com/im/pictures/91363144-d50f-40f7-963e-f150e0d476fd.jpg?aki_policy=x_large",
+                "id": "704192",
+                "price": 60,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "reviews_per_month": 0.15,
+                "host_response_rate": 67,
+                "security_deposit": 200,
+                "transit": "M\u00e9tro Saint Paul, ligne 1",
+                "neighbourhood": "Le Marais",
+                "review_scores_rating": 80,
+                "smart_location": "Paris, France",
+                "host_location": "Paris, \u00cele-de-France, France",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+                "space": "Lovely apartment with antique wood floor located in the heart of old Paris next to metro StPaul (line 1), next to Carnavalet, Picasso museum, Maison europ\u00e9enne de la photographie, place des Vosges, Hotel de Ville, place de la Bastille. The neighbourhood is calm, but restaurants and bars are just 5mn walking from home. 3rd floor with elevator. The flat is composed of 2 bedrooms and the living-room.  The living-room and the largest bedroom overlook the street. The other bedroom has view on the courtyard, as well as the kitchen. The kitchen is fully furnished : washing machine, gas+electric oven, microwave oven, fridge. Bathroom, separated toilet. Electric heating in each room. WIFI, TV, landline phone, and a choice of various guide books to find all necessary informations and tips about the city!",
+                "host_id": "3616371",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.85550835530436",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "review_scores_cleanliness": 6,
+                "state": "\u00cele-de-France",
+                "host_since": "2012-09-19",
+                "cleaning_fee": 20,
+                "availability_60": 0,
+                "minimum_nights": 3,
+                "medium_url": "https://a0.muscache.com/im/pictures/91363144-d50f-40f7-963e-f150e0d476fd.jpg?aki_policy=medium",
+                "host_url": "https://www.airbnb.com/users/show/3616371",
+                "thumbnail_url": "https://a0.muscache.com/im/pictures/91363144-d50f-40f7-963e-f150e0d476fd.jpg?aki_policy=small",
+                "first_review": "2016-09-12",
+                "name": "Charming apartment in Le Marais",
+                "calculated_host_listings_count": 1,
+                "calendar_last_scraped": "2017-04-05",
+                "host_picture_url": "https://a0.muscache.com/im/users/3616371/profile_pic/1398873358/original.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 1,
+                "picture_url": {
+                    "id": "5e696ade8fd4a9b78346ecc581714c35",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 640,
+                    "filename": "91363144-d50f-40f7-963e-f150e0d476fd.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(229, 222, 209, 1.00)",
+                        "rgba(208, 198, 186, 1.00)",
+                        "rgba(124, 103, 89, 1.00)"
+                    ]
+                },
+                "extra_people": 0,
+                "room_type": "Private room",
+                "notes": "We have 2 cats, both female. We provide pet food and litter.",
+                "amenities": "TV,Cable TV,Internet,Wireless Internet,Kitchen,Pets live on this property,Cat(s),Elevator in building,Buzzer/wireless intercom,Heating,Washer,Smoke detector,Essentials,Shampoo,24-hour check-in,Hangers,Hair dryer,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50,Private living room",
+                "listing_url": "https://www.airbnb.com/rooms/704192",
+                "review_scores_accuracy": 10,
+                "calendar_updated": "3 weeks ago",
+                "monthly_price": 1950,
+                "host_thumbnail_url": "https://a0.muscache.com/im/users/3616371/profile_pic/1398873358/original.jpg?aki_policy=profile_small",
+                "weekly_price": 500,
+                "host_listings_count": 1,
+                "host_name": "Gilles",
+                "host_response_time": "within an hour",
+                "review_scores_checkin": 10,
+                "host_about": "I try to receive my hosts the better that I can, so they will keep a good record of their stay in my home.",
+                "availability_365": 22,
+                "last_review": "2016-09-12",
+                "review_scores_value": 10,
+                "bed_type": "Real Bed",
+                "zipcode": "75004",
+                "longitude": "2.3620398081734226",
+                "maximum_nights": 30,
+                "availability_30": 0,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3620398081734226,
+                    48.85550835530436
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        },
+        {
+            "datasetid": "airbnb-listings@public",
+            "recordid": "2441e103f9fe5098f9066df4bd5b22c2b0180587",
+            "fields": {
+                "host_neighbourhood": "III Arrondissement",
+                "geolocation": [
+                    48.858342671969176,
+                    2.3499246739863358
+                ],
+                "host_verifications": "email,phone",
+                "jurisdiction_names": "Paris",
+                "availability_90": 24,
+                "scrape_id": "20170404145355",
+                "city": "Paris",
+                "number_of_reviews": 0,
+                "bathrooms": 1.5,
+                "description": "Situ\u00e9 dans une charmante rue pi\u00e9tonne en plein coeur du Marais, vous appr\u00e9cierez cet appartement de 50m\u00b2, tr\u00e8s lumineux et calme donnant sur un jardin. Mobilier de design italien et jonc de mer au sol, il saura vous s\u00e9duire par son volume et sa situation g\u00e9ographique id\u00e9ale! Ce quartier, tr\u00e8s demand\u00e9, vous charmera avec son histoire et ses nombreux mus\u00e9es. C'est \u00e9galement un endroit id\u00e9al pour ceux qui appr\u00e9cient les bons restaurants et la vie nocturnes",
+                "accommodates": 4,
+                "summary": "Situ\u00e9 dans une charmante rue pi\u00e9tonne en plein coeur du Marais, vous appr\u00e9cierez cet appartement de 50m\u00b2, tr\u00e8s lumineux et calme donnant sur un jardin. Mobilier de design italien et jonc de mer au sol, il saura vous s\u00e9duire par son volume et sa situation g\u00e9ographique id\u00e9ale! Ce quartier, tr\u00e8s demand\u00e9, vous charmera avec son histoire et ses nombreux mus\u00e9es. C'est \u00e9galement un endroit id\u00e9al pour ceux qui appr\u00e9cient les bons restaurants et la vie nocturnes",
+                "property_type": "Apartment",
+                "bedrooms": 1,
+                "street": "Ch\u00e2telet - Les Halles - Beaubourg, Paris, \u00cele-de-France 75004, France",
+                "cancellation_policy": "strict",
+                "id": "15390017",
+                "price": 212,
+                "neighbourhood_cleansed": "H\u00f4tel-de-Ville",
+                "host_response_rate": 90,
+                "security_deposit": 800,
+                "neighbourhood": "Ch\u00e2telet - Les Halles - Beaubourg",
+                "smart_location": "Paris, France",
+                "host_location": "FR",
+                "beds": 1,
+                "features": "Host Has Profile Pic,Is Location Exact,Instant Bookable",
+                "host_id": "98163440",
+                "last_scraped": "2017-04-05",
+                "latitude": "48.858342671969176",
+                "country_code": "FR",
+                "country": "France",
+                "market": "Paris",
+                "state": "\u00cele-de-France",
+                "host_since": "2016-10-05",
+                "cleaning_fee": 50,
+                "availability_60": 16,
+                "minimum_nights": 30,
+                "host_url": "https://www.airbnb.com/users/show/98163440",
+                "name": "Adorable 2 pi\u00e8ces au coeur du Marais!",
+                "calculated_host_listings_count": 6,
+                "calendar_last_scraped": "2017-04-05",
+                "picture_url": {
+                    "id": "f235a1ce2a0fcf89e0e97474ae69d3fe",
+                    "mimetype": "image/jpeg",
+                    "height": 480,
+                    "width": 640,
+                    "filename": "18c30466-4ca9-4cfb-bdf2-544391f1c8a5.jpg",
+                    "thumbnail": true,
+                    "format": "JPEG",
+                    "color_summary": [
+                        "rgba(142, 130, 100, 1.00)",
+                        "rgba(160, 132, 115, 1.00)",
+                        "rgba(157, 137, 130, 1.00)"
+                    ]
+                },
+                "host_picture_url": "https://a0.muscache.com/im/pictures/f0d5e2ff-eaca-4c97-9ea7-8de3f2de6465.jpg?aki_policy=profile_x_medium",
+                "host_total_listings_count": 6,
+                "extra_people": 0,
+                "room_type": "Entire home/apt",
+                "amenities": "TV,Wireless Internet,Kitchen,Elevator in building,Heating,Family/kid friendly,Washer,Smoke detector,Hangers,Iron,Laptop friendly workspace",
+                "listing_url": "https://www.airbnb.com/rooms/15390017",
+                "calendar_updated": "5 days ago",
+                "host_thumbnail_url": "https://a0.muscache.com/im/pictures/f0d5e2ff-eaca-4c97-9ea7-8de3f2de6465.jpg?aki_policy=profile_small",
+                "host_listings_count": 6,
+                "host_name": "Aurore",
+                "host_response_time": "within a few hours",
+                "availability_365": 213,
+                "bed_type": "Real Bed",
+                "zipcode": "75004",
+                "longitude": "2.3499246739863358",
+                "maximum_nights": 365,
+                "availability_30": 15,
+                "experiences_offered": "none",
+                "guests_included": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3499246739863358,
+                    48.858342671969176
+                ]
+            },
+            "record_timestamp": "2020-09-01T13:46:29.42Z"
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "host_response_time",
+            "facets": [
+                {
+                    "name": "within an hour",
+                    "count": 16552,
+                    "state": "displayed",
+                    "path": "within an hour"
+                },
+                {
+                    "name": "within a few hours",
+                    "count": 9457,
+                    "state": "displayed",
+                    "path": "within a few hours"
+                },
+                {
+                    "name": "within a day",
+                    "count": 8786,
+                    "state": "displayed",
+                    "path": "within a day"
+                },
+                {
+                    "name": "a few days or more",
+                    "count": 1622,
+                    "state": "displayed",
+                    "path": "a few days or more"
+                }
+            ]
+        },
+        {
+            "name": "host_response_rate",
+            "facets": [
+                {
+                    "name": "100",
+                    "count": 25648,
+                    "state": "displayed",
+                    "path": "100"
+                },
+                {
+                    "name": "90",
+                    "count": 1653,
+                    "state": "displayed",
+                    "path": "90"
+                },
+                {
+                    "name": "0",
+                    "count": 1031,
+                    "state": "displayed",
+                    "path": "0"
+                },
+                {
+                    "name": "80",
+                    "count": 880,
+                    "state": "displayed",
+                    "path": "80"
+                },
+                {
+                    "name": "50",
+                    "count": 663,
+                    "state": "displayed",
+                    "path": "50"
+                },
+                {
+                    "name": "99",
+                    "count": 454,
+                    "state": "displayed",
+                    "path": "99"
+                },
+                {
+                    "name": "67",
+                    "count": 439,
+                    "state": "displayed",
+                    "path": "67"
+                },
+                {
+                    "name": "97",
+                    "count": 413,
+                    "state": "displayed",
+                    "path": "97"
+                },
+                {
+                    "name": "98",
+                    "count": 364,
+                    "state": "displayed",
+                    "path": "98"
+                },
+                {
+                    "name": "75",
+                    "count": 347,
+                    "state": "displayed",
+                    "path": "75"
+                },
+                {
+                    "name": "70",
+                    "count": 339,
+                    "state": "displayed",
+                    "path": "70"
+                },
+                {
+                    "name": "60",
+                    "count": 308,
+                    "state": "displayed",
+                    "path": "60"
+                },
+                {
+                    "name": "95",
+                    "count": 290,
+                    "state": "displayed",
+                    "path": "95"
+                },
+                {
+                    "name": "93",
+                    "count": 284,
+                    "state": "displayed",
+                    "path": "93"
+                },
+                {
+                    "name": "94",
+                    "count": 271,
+                    "state": "displayed",
+                    "path": "94"
+                },
+                {
+                    "name": "83",
+                    "count": 259,
+                    "state": "displayed",
+                    "path": "83"
+                },
+                {
+                    "name": "92",
+                    "count": 233,
+                    "state": "displayed",
+                    "path": "92"
+                },
+                {
+                    "name": "88",
+                    "count": 231,
+                    "state": "displayed",
+                    "path": "88"
+                },
+                {
+                    "name": "86",
+                    "count": 216,
+                    "state": "displayed",
+                    "path": "86"
+                },
+                {
+                    "name": "89",
+                    "count": 213,
+                    "state": "displayed",
+                    "path": "89"
+                },
+                {
+                    "name": "96",
+                    "count": 172,
+                    "state": "displayed",
+                    "path": "96"
+                },
+                {
+                    "name": "91",
+                    "count": 153,
+                    "state": "displayed",
+                    "path": "91"
+                },
+                {
+                    "name": "33",
+                    "count": 141,
+                    "state": "displayed",
+                    "path": "33"
+                },
+                {
+                    "name": "40",
+                    "count": 128,
+                    "state": "displayed",
+                    "path": "40"
+                },
+                {
+                    "name": "78",
+                    "count": 124,
+                    "state": "displayed",
+                    "path": "78"
+                },
+                {
+                    "name": "71",
+                    "count": 111,
+                    "state": "displayed",
+                    "path": "71"
+                },
+                {
+                    "name": "73",
+                    "count": 74,
+                    "state": "displayed",
+                    "path": "73"
+                },
+                {
+                    "name": "82",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "82"
+                },
+                {
+                    "name": "84",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "84"
+                },
+                {
+                    "name": "74",
+                    "count": 59,
+                    "state": "displayed",
+                    "path": "74"
+                },
+                {
+                    "name": "87",
+                    "count": 58,
+                    "state": "displayed",
+                    "path": "87"
+                },
+                {
+                    "name": "25",
+                    "count": 56,
+                    "state": "displayed",
+                    "path": "25"
+                },
+                {
+                    "name": "63",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "63"
+                },
+                {
+                    "name": "68",
+                    "count": 50,
+                    "state": "displayed",
+                    "path": "68"
+                },
+                {
+                    "name": "20",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "20"
+                },
+                {
+                    "name": "57",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "57"
+                },
+                {
+                    "name": "30",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "30"
+                },
+                {
+                    "name": "85",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "85"
+                },
+                {
+                    "name": "56",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "56"
+                },
+                {
+                    "name": "77",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "77"
+                },
+                {
+                    "name": "43",
+                    "count": 26,
+                    "state": "displayed",
+                    "path": "43"
+                },
+                {
+                    "name": "81",
+                    "count": 25,
+                    "state": "displayed",
+                    "path": "81"
+                },
+                {
+                    "name": "38",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "38"
+                },
+                {
+                    "name": "64",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "64"
+                },
+                {
+                    "name": "10",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "10"
+                },
+                {
+                    "name": "79",
+                    "count": 21,
+                    "state": "displayed",
+                    "path": "79"
+                },
+                {
+                    "name": "69",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "69"
+                },
+                {
+                    "name": "72",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "72"
+                },
+                {
+                    "name": "29",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "29"
+                },
+                {
+                    "name": "76",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "76"
+                },
+                {
+                    "name": "62",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "62"
+                },
+                {
+                    "name": "17",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "17"
+                },
+                {
+                    "name": "44",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "44"
+                },
+                {
+                    "name": "58",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "58"
+                },
+                {
+                    "name": "59",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "59"
+                },
+                {
+                    "name": "23",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "23"
+                },
+                {
+                    "name": "36",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "36"
+                },
+                {
+                    "name": "42",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "42"
+                },
+                {
+                    "name": "55",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "55"
+                },
+                {
+                    "name": "54",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "54"
+                },
+                {
+                    "name": "14",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "14"
+                },
+                {
+                    "name": "31",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "31"
+                },
+                {
+                    "name": "46",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "46"
+                },
+                {
+                    "name": "47",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "47"
+                },
+                {
+                    "name": "53",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "53"
+                },
+                {
+                    "name": "65",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "65"
+                },
+                {
+                    "name": "13",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "13"
+                },
+                {
+                    "name": "35",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "35"
+                },
+                {
+                    "name": "41",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "41"
+                },
+                {
+                    "name": "61",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "61"
+                },
+                {
+                    "name": "11",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "11"
+                },
+                {
+                    "name": "27",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "27"
+                },
+                {
+                    "name": "52",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "52"
+                },
+                {
+                    "name": "66",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "66"
+                },
+                {
+                    "name": "18",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "18"
+                },
+                {
+                    "name": "21",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "21"
+                },
+                {
+                    "name": "22",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "22"
+                },
+                {
+                    "name": "37",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "37"
+                }
+            ]
+        },
+        {
+            "name": "host_verifications",
+            "facets": [
+                {
+                    "name": "phone",
+                    "count": 53751,
+                    "state": "displayed",
+                    "path": "phone"
+                },
+                {
+                    "name": "email",
+                    "count": 52612,
+                    "state": "displayed",
+                    "path": "email"
+                },
+                {
+                    "name": "reviews",
+                    "count": 48064,
+                    "state": "displayed",
+                    "path": "reviews"
+                },
+                {
+                    "name": "jumio",
+                    "count": 30537,
+                    "state": "displayed",
+                    "path": "jumio"
+                },
+                {
+                    "name": "facebook",
+                    "count": 9885,
+                    "state": "displayed",
+                    "path": "facebook"
+                },
+                {
+                    "name": "government_id",
+                    "count": 8731,
+                    "state": "displayed",
+                    "path": "government_id"
+                },
+                {
+                    "name": "work_email",
+                    "count": 3259,
+                    "state": "displayed",
+                    "path": "work_email"
+                },
+                {
+                    "name": "offline_government_id",
+                    "count": 2174,
+                    "state": "displayed",
+                    "path": "offline_government_id"
+                },
+                {
+                    "name": "manual_offline",
+                    "count": 1898,
+                    "state": "displayed",
+                    "path": "manual_offline"
+                },
+                {
+                    "name": "google",
+                    "count": 1776,
+                    "state": "displayed",
+                    "path": "google"
+                },
+                {
+                    "name": "linkedin",
+                    "count": 1056,
+                    "state": "displayed",
+                    "path": "linkedin"
+                },
+                {
+                    "name": "manual_online",
+                    "count": 519,
+                    "state": "displayed",
+                    "path": "manual_online"
+                },
+                {
+                    "name": "kba",
+                    "count": 235,
+                    "state": "displayed",
+                    "path": "kba"
+                },
+                {
+                    "name": "selfie",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "selfie"
+                },
+                {
+                    "name": "identity_manual",
+                    "count": 105,
+                    "state": "displayed",
+                    "path": "identity_manual"
+                },
+                {
+                    "name": "sent_id",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "sent_id"
+                },
+                {
+                    "name": "weibo",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "weibo"
+                },
+                {
+                    "name": "None",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "None"
+                },
+                {
+                    "name": "amex",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "amex"
+                },
+                {
+                    "name": "photographer",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "photographer"
+                },
+                {
+                    "name": "sesame",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "sesame"
+                },
+                {
+                    "name": "sesame_offline",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "sesame_offline"
+                }
+            ]
+        },
+        {
+            "name": "city",
+            "facets": [
+                {
+                    "name": "Paris",
+                    "count": 54513,
+                    "state": "refined",
+                    "path": "Paris"
+                }
+            ]
+        },
+        {
+            "name": "country",
+            "facets": [
+                {
+                    "name": "France",
+                    "count": 54512,
+                    "state": "displayed",
+                    "path": "France"
+                },
+                {
+                    "name": "Switzerland",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Switzerland"
+                }
+            ]
+        },
+        {
+            "name": "property_type",
+            "facets": [
+                {
+                    "name": "Apartment",
+                    "count": 52090,
+                    "state": "displayed",
+                    "path": "Apartment"
+                },
+                {
+                    "name": "Loft",
+                    "count": 602,
+                    "state": "displayed",
+                    "path": "Loft"
+                },
+                {
+                    "name": "House",
+                    "count": 557,
+                    "state": "displayed",
+                    "path": "House"
+                },
+                {
+                    "name": "Bed & Breakfast",
+                    "count": 394,
+                    "state": "displayed",
+                    "path": "Bed & Breakfast"
+                },
+                {
+                    "name": "Condominium",
+                    "count": 253,
+                    "state": "displayed",
+                    "path": "Condominium"
+                },
+                {
+                    "name": "Other",
+                    "count": 159,
+                    "state": "displayed",
+                    "path": "Other"
+                },
+                {
+                    "name": "Boutique hotel",
+                    "count": 114,
+                    "state": "displayed",
+                    "path": "Boutique hotel"
+                },
+                {
+                    "name": "Townhouse",
+                    "count": 73,
+                    "state": "displayed",
+                    "path": "Townhouse"
+                },
+                {
+                    "name": "Guesthouse",
+                    "count": 71,
+                    "state": "displayed",
+                    "path": "Guesthouse"
+                },
+                {
+                    "name": "Dorm",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "Dorm"
+                },
+                {
+                    "name": "Hostel",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "Hostel"
+                },
+                {
+                    "name": "Boat",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "Boat"
+                },
+                {
+                    "name": "Serviced apartment",
+                    "count": 27,
+                    "state": "displayed",
+                    "path": "Serviced apartment"
+                },
+                {
+                    "name": "Cabin",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Cabin"
+                },
+                {
+                    "name": "Villa",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Villa"
+                },
+                {
+                    "name": "Timeshare",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Timeshare"
+                },
+                {
+                    "name": "Bungalow",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Bungalow"
+                },
+                {
+                    "name": "Camper/RV",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Camper/RV"
+                },
+                {
+                    "name": "Cave",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Cave"
+                },
+                {
+                    "name": "Earth House",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Earth House"
+                },
+                {
+                    "name": "Igloo",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Igloo"
+                },
+                {
+                    "name": "Chalet",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Chalet"
+                },
+                {
+                    "name": "Tipi",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Tipi"
+                },
+                {
+                    "name": "Treehouse",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Treehouse"
+                }
+            ]
+        },
+        {
+            "name": "room_type",
+            "facets": [
+                {
+                    "name": "Entire home/apt",
+                    "count": 46897,
+                    "state": "displayed",
+                    "path": "Entire home/apt"
+                },
+                {
+                    "name": "Private room",
+                    "count": 7073,
+                    "state": "displayed",
+                    "path": "Private room"
+                },
+                {
+                    "name": "Shared room",
+                    "count": 543,
+                    "state": "displayed",
+                    "path": "Shared room"
+                }
+            ]
+        },
+        {
+            "name": "bed_type",
+            "facets": [
+                {
+                    "name": "Real Bed",
+                    "count": 48844,
+                    "state": "displayed",
+                    "path": "Real Bed"
+                },
+                {
+                    "name": "Pull-out Sofa",
+                    "count": 4350,
+                    "state": "displayed",
+                    "path": "Pull-out Sofa"
+                },
+                {
+                    "name": "Couch",
+                    "count": 911,
+                    "state": "displayed",
+                    "path": "Couch"
+                },
+                {
+                    "name": "Futon",
+                    "count": 374,
+                    "state": "displayed",
+                    "path": "Futon"
+                },
+                {
+                    "name": "Airbed",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "Airbed"
+                }
+            ]
+        },
+        {
+            "name": "amenities",
+            "facets": [
+                {
+                    "name": "Kitchen",
+                    "count": 52066,
+                    "state": "displayed",
+                    "path": "Kitchen"
+                },
+                {
+                    "name": "Heating",
+                    "count": 51704,
+                    "state": "displayed",
+                    "path": "Heating"
+                },
+                {
+                    "name": "Wireless Internet",
+                    "count": 51255,
+                    "state": "displayed",
+                    "path": "Wireless Internet"
+                },
+                {
+                    "name": "Essentials",
+                    "count": 46594,
+                    "state": "displayed",
+                    "path": "Essentials"
+                },
+                {
+                    "name": "Washer",
+                    "count": 41903,
+                    "state": "displayed",
+                    "path": "Washer"
+                },
+                {
+                    "name": "Internet",
+                    "count": 36327,
+                    "state": "displayed",
+                    "path": "Internet"
+                },
+                {
+                    "name": "TV",
+                    "count": 36177,
+                    "state": "displayed",
+                    "path": "TV"
+                },
+                {
+                    "name": "Smoke detector",
+                    "count": 32436,
+                    "state": "displayed",
+                    "path": "Smoke detector"
+                },
+                {
+                    "name": "Family/kid friendly",
+                    "count": 30238,
+                    "state": "displayed",
+                    "path": "Family/kid friendly"
+                },
+                {
+                    "name": "Iron",
+                    "count": 28846,
+                    "state": "displayed",
+                    "path": "Iron"
+                },
+                {
+                    "name": "Hangers",
+                    "count": 28782,
+                    "state": "displayed",
+                    "path": "Hangers"
+                },
+                {
+                    "name": "Hair dryer",
+                    "count": 28780,
+                    "state": "displayed",
+                    "path": "Hair dryer"
+                },
+                {
+                    "name": "Shampoo",
+                    "count": 28144,
+                    "state": "displayed",
+                    "path": "Shampoo"
+                },
+                {
+                    "name": "Laptop friendly workspace",
+                    "count": 24325,
+                    "state": "displayed",
+                    "path": "Laptop friendly workspace"
+                },
+                {
+                    "name": "Elevator in building",
+                    "count": 23784,
+                    "state": "displayed",
+                    "path": "Elevator in building"
+                },
+                {
+                    "name": "Buzzer/wireless intercom",
+                    "count": 19122,
+                    "state": "displayed",
+                    "path": "Buzzer/wireless intercom"
+                },
+                {
+                    "name": "Cable TV",
+                    "count": 18427,
+                    "state": "displayed",
+                    "path": "Cable TV"
+                },
+                {
+                    "name": "Dryer",
+                    "count": 15797,
+                    "state": "displayed",
+                    "path": "Dryer"
+                },
+                {
+                    "name": "translation missing: en.hosting_amenity_50",
+                    "count": 15737,
+                    "state": "displayed",
+                    "path": "translation missing: en.hosting_amenity_50"
+                },
+                {
+                    "name": "24-hour check-in",
+                    "count": 14005,
+                    "state": "displayed",
+                    "path": "24-hour check-in"
+                },
+                {
+                    "name": "Smoking allowed",
+                    "count": 11105,
+                    "state": "displayed",
+                    "path": "Smoking allowed"
+                },
+                {
+                    "name": "translation missing: en.hosting_amenity_49",
+                    "count": 10870,
+                    "state": "displayed",
+                    "path": "translation missing: en.hosting_amenity_49"
+                },
+                {
+                    "name": "Carbon monoxide detector",
+                    "count": 8853,
+                    "state": "displayed",
+                    "path": "Carbon monoxide detector"
+                },
+                {
+                    "name": "Safety card",
+                    "count": 7071,
+                    "state": "displayed",
+                    "path": "Safety card"
+                },
+                {
+                    "name": "First aid kit",
+                    "count": 6905,
+                    "state": "displayed",
+                    "path": "First aid kit"
+                },
+                {
+                    "name": "Breakfast",
+                    "count": 6694,
+                    "state": "displayed",
+                    "path": "Breakfast"
+                },
+                {
+                    "name": "Fire extinguisher",
+                    "count": 5829,
+                    "state": "displayed",
+                    "path": "Fire extinguisher"
+                },
+                {
+                    "name": "Pets allowed",
+                    "count": 5661,
+                    "state": "displayed",
+                    "path": "Pets allowed"
+                },
+                {
+                    "name": "Indoor fireplace",
+                    "count": 4231,
+                    "state": "displayed",
+                    "path": "Indoor fireplace"
+                },
+                {
+                    "name": "Wheelchair accessible",
+                    "count": 2990,
+                    "state": "displayed",
+                    "path": "Wheelchair accessible"
+                },
+                {
+                    "name": "Air conditioning",
+                    "count": 2887,
+                    "state": "displayed",
+                    "path": "Air conditioning"
+                },
+                {
+                    "name": "Lock on bedroom door",
+                    "count": 2750,
+                    "state": "displayed",
+                    "path": "Lock on bedroom door"
+                },
+                {
+                    "name": "Free parking on premises",
+                    "count": 1907,
+                    "state": "displayed",
+                    "path": "Free parking on premises"
+                },
+                {
+                    "name": "Suitable for events",
+                    "count": 1831,
+                    "state": "displayed",
+                    "path": "Suitable for events"
+                },
+                {
+                    "name": "Doorman",
+                    "count": 1531,
+                    "state": "displayed",
+                    "path": "Doorman"
+                },
+                {
+                    "name": "Self Check-In",
+                    "count": 1432,
+                    "state": "displayed",
+                    "path": "Self Check-In"
+                },
+                {
+                    "name": "Private entrance",
+                    "count": 1418,
+                    "state": "displayed",
+                    "path": "Private entrance"
+                },
+                {
+                    "name": "Pets live on this property",
+                    "count": 1298,
+                    "state": "displayed",
+                    "path": "Pets live on this property"
+                },
+                {
+                    "name": "Cat(s)",
+                    "count": 881,
+                    "state": "displayed",
+                    "path": "Cat(s)"
+                },
+                {
+                    "name": "Hot tub",
+                    "count": 631,
+                    "state": "displayed",
+                    "path": "Hot tub"
+                },
+                {
+                    "name": "Lockbox",
+                    "count": 631,
+                    "state": "displayed",
+                    "path": "Lockbox"
+                },
+                {
+                    "name": "Doorman Entry",
+                    "count": 545,
+                    "state": "displayed",
+                    "path": "Doorman Entry"
+                },
+                {
+                    "name": "Gym",
+                    "count": 327,
+                    "state": "displayed",
+                    "path": "Gym"
+                },
+                {
+                    "name": "Dog(s)",
+                    "count": 244,
+                    "state": "displayed",
+                    "path": "Dog(s)"
+                },
+                {
+                    "name": "Private living room",
+                    "count": 215,
+                    "state": "displayed",
+                    "path": "Private living room"
+                },
+                {
+                    "name": "Keypad",
+                    "count": 165,
+                    "state": "displayed",
+                    "path": "Keypad"
+                },
+                {
+                    "name": "Pool",
+                    "count": 135,
+                    "state": "displayed",
+                    "path": "Pool"
+                },
+                {
+                    "name": "Bathtub",
+                    "count": 127,
+                    "state": "displayed",
+                    "path": "Bathtub"
+                },
+                {
+                    "name": "Smartlock",
+                    "count": 103,
+                    "state": "displayed",
+                    "path": "Smartlock"
+                },
+                {
+                    "name": "Other pet(s)",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "Other pet(s)"
+                },
+                {
+                    "name": "Room-darkening shades",
+                    "count": 47,
+                    "state": "displayed",
+                    "path": "Room-darkening shades"
+                },
+                {
+                    "name": "Children\u2019s books and toys",
+                    "count": 39,
+                    "state": "displayed",
+                    "path": "Children\u2019s books and toys"
+                },
+                {
+                    "name": "Pack \u2019n Play/travel crib",
+                    "count": 39,
+                    "state": "displayed",
+                    "path": "Pack \u2019n Play/travel crib"
+                },
+                {
+                    "name": "High chair",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "High chair"
+                },
+                {
+                    "name": "Children\u2019s dinnerware",
+                    "count": 25,
+                    "state": "displayed",
+                    "path": "Children\u2019s dinnerware"
+                },
+                {
+                    "name": "Crib",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "Crib"
+                },
+                {
+                    "name": "Washer / Dryer",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "Washer / Dryer"
+                },
+                {
+                    "name": "Changing table",
+                    "count": 17,
+                    "state": "displayed",
+                    "path": "Changing table"
+                },
+                {
+                    "name": "Game console",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Game console"
+                },
+                {
+                    "name": "Window guards",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "Window guards"
+                },
+                {
+                    "name": "Babysitter recommendations",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Babysitter recommendations"
+                },
+                {
+                    "name": "Baby bath",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Baby bath"
+                },
+                {
+                    "name": "Outlet covers",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Outlet covers"
+                },
+                {
+                    "name": "Paid parking off premises",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Paid parking off premises"
+                },
+                {
+                    "name": "Fireplace guards",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Fireplace guards"
+                },
+                {
+                    "name": "Table corner guards",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Table corner guards"
+                },
+                {
+                    "name": "Stair gates",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Stair gates"
+                },
+                {
+                    "name": "Baby monitor",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Baby monitor"
+                },
+                {
+                    "name": "Free parking on street",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Free parking on street"
+                }
+            ]
+        },
+        {
+            "name": "availability_365",
+            "facets": [
+                {
+                    "name": "0",
+                    "count": 14769,
+                    "state": "displayed",
+                    "path": "0"
+                },
+                {
+                    "name": "365",
+                    "count": 3123,
+                    "state": "displayed",
+                    "path": "365"
+                },
+                {
+                    "name": "364",
+                    "count": 1115,
+                    "state": "displayed",
+                    "path": "364"
+                },
+                {
+                    "name": "363",
+                    "count": 652,
+                    "state": "displayed",
+                    "path": "363"
+                },
+                {
+                    "name": "89",
+                    "count": 382,
+                    "state": "displayed",
+                    "path": "89"
+                },
+                {
+                    "name": "94",
+                    "count": 380,
+                    "state": "displayed",
+                    "path": "94"
+                },
+                {
+                    "name": "90",
+                    "count": 338,
+                    "state": "displayed",
+                    "path": "90"
+                },
+                {
+                    "name": "4",
+                    "count": 324,
+                    "state": "displayed",
+                    "path": "4"
+                },
+                {
+                    "name": "362",
+                    "count": 320,
+                    "state": "displayed",
+                    "path": "362"
+                },
+                {
+                    "name": "3",
+                    "count": 294,
+                    "state": "displayed",
+                    "path": "3"
+                },
+                {
+                    "name": "2",
+                    "count": 291,
+                    "state": "displayed",
+                    "path": "2"
+                },
+                {
+                    "name": "1",
+                    "count": 279,
+                    "state": "displayed",
+                    "path": "1"
+                },
+                {
+                    "name": "358",
+                    "count": 261,
+                    "state": "displayed",
+                    "path": "358"
+                },
+                {
+                    "name": "278",
+                    "count": 252,
+                    "state": "displayed",
+                    "path": "278"
+                },
+                {
+                    "name": "88",
+                    "count": 242,
+                    "state": "displayed",
+                    "path": "88"
+                },
+                {
+                    "name": "339",
+                    "count": 240,
+                    "state": "displayed",
+                    "path": "339"
+                },
+                {
+                    "name": "277",
+                    "count": 215,
+                    "state": "displayed",
+                    "path": "277"
+                },
+                {
+                    "name": "7",
+                    "count": 209,
+                    "state": "displayed",
+                    "path": "7"
+                },
+                {
+                    "name": "5",
+                    "count": 205,
+                    "state": "displayed",
+                    "path": "5"
+                },
+                {
+                    "name": "308",
+                    "count": 205,
+                    "state": "displayed",
+                    "path": "308"
+                },
+                {
+                    "name": "9",
+                    "count": 204,
+                    "state": "displayed",
+                    "path": "9"
+                },
+                {
+                    "name": "6",
+                    "count": 203,
+                    "state": "displayed",
+                    "path": "6"
+                },
+                {
+                    "name": "279",
+                    "count": 193,
+                    "state": "displayed",
+                    "path": "279"
+                },
+                {
+                    "name": "361",
+                    "count": 192,
+                    "state": "displayed",
+                    "path": "361"
+                },
+                {
+                    "name": "93",
+                    "count": 185,
+                    "state": "displayed",
+                    "path": "93"
+                },
+                {
+                    "name": "360",
+                    "count": 183,
+                    "state": "displayed",
+                    "path": "360"
+                },
+                {
+                    "name": "8",
+                    "count": 181,
+                    "state": "displayed",
+                    "path": "8"
+                },
+                {
+                    "name": "12",
+                    "count": 176,
+                    "state": "displayed",
+                    "path": "12"
+                },
+                {
+                    "name": "95",
+                    "count": 176,
+                    "state": "displayed",
+                    "path": "95"
+                },
+                {
+                    "name": "357",
+                    "count": 176,
+                    "state": "displayed",
+                    "path": "357"
+                },
+                {
+                    "name": "15",
+                    "count": 175,
+                    "state": "displayed",
+                    "path": "15"
+                },
+                {
+                    "name": "180",
+                    "count": 172,
+                    "state": "displayed",
+                    "path": "180"
+                },
+                {
+                    "name": "31",
+                    "count": 170,
+                    "state": "displayed",
+                    "path": "31"
+                },
+                {
+                    "name": "179",
+                    "count": 164,
+                    "state": "displayed",
+                    "path": "179"
+                },
+                {
+                    "name": "359",
+                    "count": 164,
+                    "state": "displayed",
+                    "path": "359"
+                },
+                {
+                    "name": "13",
+                    "count": 163,
+                    "state": "displayed",
+                    "path": "13"
+                },
+                {
+                    "name": "247",
+                    "count": 163,
+                    "state": "displayed",
+                    "path": "247"
+                },
+                {
+                    "name": "356",
+                    "count": 162,
+                    "state": "displayed",
+                    "path": "356"
+                },
+                {
+                    "name": "83",
+                    "count": 160,
+                    "state": "displayed",
+                    "path": "83"
+                },
+                {
+                    "name": "276",
+                    "count": 160,
+                    "state": "displayed",
+                    "path": "276"
+                },
+                {
+                    "name": "11",
+                    "count": 159,
+                    "state": "displayed",
+                    "path": "11"
+                },
+                {
+                    "name": "64",
+                    "count": 159,
+                    "state": "displayed",
+                    "path": "64"
+                },
+                {
+                    "name": "20",
+                    "count": 158,
+                    "state": "displayed",
+                    "path": "20"
+                },
+                {
+                    "name": "10",
+                    "count": 154,
+                    "state": "displayed",
+                    "path": "10"
+                },
+                {
+                    "name": "309",
+                    "count": 153,
+                    "state": "displayed",
+                    "path": "309"
+                },
+                {
+                    "name": "21",
+                    "count": 150,
+                    "state": "displayed",
+                    "path": "21"
+                },
+                {
+                    "name": "340",
+                    "count": 150,
+                    "state": "displayed",
+                    "path": "340"
+                },
+                {
+                    "name": "87",
+                    "count": 149,
+                    "state": "displayed",
+                    "path": "87"
+                },
+                {
+                    "name": "216",
+                    "count": 149,
+                    "state": "displayed",
+                    "path": "216"
+                },
+                {
+                    "name": "338",
+                    "count": 146,
+                    "state": "displayed",
+                    "path": "338"
+                },
+                {
+                    "name": "354",
+                    "count": 146,
+                    "state": "displayed",
+                    "path": "354"
+                },
+                {
+                    "name": "16",
+                    "count": 145,
+                    "state": "displayed",
+                    "path": "16"
+                },
+                {
+                    "name": "62",
+                    "count": 145,
+                    "state": "displayed",
+                    "path": "62"
+                },
+                {
+                    "name": "25",
+                    "count": 144,
+                    "state": "displayed",
+                    "path": "25"
+                },
+                {
+                    "name": "63",
+                    "count": 143,
+                    "state": "displayed",
+                    "path": "63"
+                },
+                {
+                    "name": "304",
+                    "count": 142,
+                    "state": "displayed",
+                    "path": "304"
+                },
+                {
+                    "name": "350",
+                    "count": 141,
+                    "state": "displayed",
+                    "path": "350"
+                },
+                {
+                    "name": "352",
+                    "count": 140,
+                    "state": "displayed",
+                    "path": "352"
+                },
+                {
+                    "name": "26",
+                    "count": 139,
+                    "state": "displayed",
+                    "path": "26"
+                },
+                {
+                    "name": "353",
+                    "count": 139,
+                    "state": "displayed",
+                    "path": "353"
+                },
+                {
+                    "name": "355",
+                    "count": 139,
+                    "state": "displayed",
+                    "path": "355"
+                },
+                {
+                    "name": "17",
+                    "count": 138,
+                    "state": "displayed",
+                    "path": "17"
+                },
+                {
+                    "name": "305",
+                    "count": 137,
+                    "state": "displayed",
+                    "path": "305"
+                },
+                {
+                    "name": "22",
+                    "count": 136,
+                    "state": "displayed",
+                    "path": "22"
+                },
+                {
+                    "name": "248",
+                    "count": 135,
+                    "state": "displayed",
+                    "path": "248"
+                },
+                {
+                    "name": "310",
+                    "count": 132,
+                    "state": "displayed",
+                    "path": "310"
+                },
+                {
+                    "name": "349",
+                    "count": 131,
+                    "state": "displayed",
+                    "path": "349"
+                },
+                {
+                    "name": "28",
+                    "count": 128,
+                    "state": "displayed",
+                    "path": "28"
+                },
+                {
+                    "name": "35",
+                    "count": 128,
+                    "state": "displayed",
+                    "path": "35"
+                },
+                {
+                    "name": "37",
+                    "count": 127,
+                    "state": "displayed",
+                    "path": "37"
+                },
+                {
+                    "name": "32",
+                    "count": 125,
+                    "state": "displayed",
+                    "path": "32"
+                },
+                {
+                    "name": "346",
+                    "count": 125,
+                    "state": "displayed",
+                    "path": "346"
+                },
+                {
+                    "name": "91",
+                    "count": 124,
+                    "state": "displayed",
+                    "path": "91"
+                },
+                {
+                    "name": "307",
+                    "count": 124,
+                    "state": "displayed",
+                    "path": "307"
+                },
+                {
+                    "name": "351",
+                    "count": 124,
+                    "state": "displayed",
+                    "path": "351"
+                },
+                {
+                    "name": "14",
+                    "count": 122,
+                    "state": "displayed",
+                    "path": "14"
+                },
+                {
+                    "name": "19",
+                    "count": 122,
+                    "state": "displayed",
+                    "path": "19"
+                },
+                {
+                    "name": "65",
+                    "count": 122,
+                    "state": "displayed",
+                    "path": "65"
+                },
+                {
+                    "name": "186",
+                    "count": 122,
+                    "state": "displayed",
+                    "path": "186"
+                },
+                {
+                    "name": "34",
+                    "count": 120,
+                    "state": "displayed",
+                    "path": "34"
+                },
+                {
+                    "name": "337",
+                    "count": 120,
+                    "state": "displayed",
+                    "path": "337"
+                },
+                {
+                    "name": "343",
+                    "count": 120,
+                    "state": "displayed",
+                    "path": "343"
+                },
+                {
+                    "name": "24",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "24"
+                },
+                {
+                    "name": "30",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "30"
+                },
+                {
+                    "name": "333",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "333"
+                },
+                {
+                    "name": "335",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "335"
+                },
+                {
+                    "name": "341",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "341"
+                },
+                {
+                    "name": "348",
+                    "count": 119,
+                    "state": "displayed",
+                    "path": "348"
+                },
+                {
+                    "name": "36",
+                    "count": 118,
+                    "state": "displayed",
+                    "path": "36"
+                },
+                {
+                    "name": "280",
+                    "count": 117,
+                    "state": "displayed",
+                    "path": "280"
+                },
+                {
+                    "name": "289",
+                    "count": 117,
+                    "state": "displayed",
+                    "path": "289"
+                },
+                {
+                    "name": "324",
+                    "count": 117,
+                    "state": "displayed",
+                    "path": "324"
+                },
+                {
+                    "name": "344",
+                    "count": 117,
+                    "state": "displayed",
+                    "path": "344"
+                },
+                {
+                    "name": "18",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "18"
+                },
+                {
+                    "name": "303",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "303"
+                },
+                {
+                    "name": "306",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "306"
+                },
+                {
+                    "name": "313",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "313"
+                },
+                {
+                    "name": "336",
+                    "count": 116,
+                    "state": "displayed",
+                    "path": "336"
+                },
+                {
+                    "name": "27",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "27"
+                },
+                {
+                    "name": "84",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "84"
+                },
+                {
+                    "name": "178",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "178"
+                },
+                {
+                    "name": "347",
+                    "count": 115,
+                    "state": "displayed",
+                    "path": "347"
+                },
+                {
+                    "name": "320",
+                    "count": 114,
+                    "state": "displayed",
+                    "path": "320"
+                },
+                {
+                    "name": "345",
+                    "count": 114,
+                    "state": "displayed",
+                    "path": "345"
+                },
+                {
+                    "name": "29",
+                    "count": 113,
+                    "state": "displayed",
+                    "path": "29"
+                },
+                {
+                    "name": "33",
+                    "count": 112,
+                    "state": "displayed",
+                    "path": "33"
+                },
+                {
+                    "name": "39",
+                    "count": 112,
+                    "state": "displayed",
+                    "path": "39"
+                },
+                {
+                    "name": "23",
+                    "count": 111,
+                    "state": "displayed",
+                    "path": "23"
+                },
+                {
+                    "name": "298",
+                    "count": 111,
+                    "state": "displayed",
+                    "path": "298"
+                },
+                {
+                    "name": "275",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "275"
+                },
+                {
+                    "name": "318",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "318"
+                },
+                {
+                    "name": "326",
+                    "count": 109,
+                    "state": "displayed",
+                    "path": "326"
+                },
+                {
+                    "name": "59",
+                    "count": 108,
+                    "state": "displayed",
+                    "path": "59"
+                },
+                {
+                    "name": "282",
+                    "count": 108,
+                    "state": "displayed",
+                    "path": "282"
+                },
+                {
+                    "name": "295",
+                    "count": 108,
+                    "state": "displayed",
+                    "path": "295"
+                },
+                {
+                    "name": "334",
+                    "count": 108,
+                    "state": "displayed",
+                    "path": "334"
+                },
+                {
+                    "name": "58",
+                    "count": 107,
+                    "state": "displayed",
+                    "path": "58"
+                },
+                {
+                    "name": "155",
+                    "count": 107,
+                    "state": "displayed",
+                    "path": "155"
+                },
+                {
+                    "name": "302",
+                    "count": 106,
+                    "state": "displayed",
+                    "path": "302"
+                },
+                {
+                    "name": "312",
+                    "count": 106,
+                    "state": "displayed",
+                    "path": "312"
+                },
+                {
+                    "name": "332",
+                    "count": 106,
+                    "state": "displayed",
+                    "path": "332"
+                },
+                {
+                    "name": "296",
+                    "count": 105,
+                    "state": "displayed",
+                    "path": "296"
+                },
+                {
+                    "name": "327",
+                    "count": 105,
+                    "state": "displayed",
+                    "path": "327"
+                },
+                {
+                    "name": "50",
+                    "count": 104,
+                    "state": "displayed",
+                    "path": "50"
+                },
+                {
+                    "name": "61",
+                    "count": 103,
+                    "state": "displayed",
+                    "path": "61"
+                },
+                {
+                    "name": "73",
+                    "count": 103,
+                    "state": "displayed",
+                    "path": "73"
+                },
+                {
+                    "name": "38",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "38"
+                },
+                {
+                    "name": "70",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "70"
+                },
+                {
+                    "name": "271",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "271"
+                },
+                {
+                    "name": "342",
+                    "count": 102,
+                    "state": "displayed",
+                    "path": "342"
+                },
+                {
+                    "name": "319",
+                    "count": 101,
+                    "state": "displayed",
+                    "path": "319"
+                },
+                {
+                    "name": "329",
+                    "count": 101,
+                    "state": "displayed",
+                    "path": "329"
+                },
+                {
+                    "name": "79",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "79"
+                },
+                {
+                    "name": "293",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "293"
+                },
+                {
+                    "name": "331",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "331"
+                },
+                {
+                    "name": "67",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "67"
+                },
+                {
+                    "name": "287",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "287"
+                },
+                {
+                    "name": "315",
+                    "count": 99,
+                    "state": "displayed",
+                    "path": "315"
+                },
+                {
+                    "name": "311",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "311"
+                },
+                {
+                    "name": "328",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "328"
+                },
+                {
+                    "name": "185",
+                    "count": 97,
+                    "state": "displayed",
+                    "path": "185"
+                },
+                {
+                    "name": "246",
+                    "count": 97,
+                    "state": "displayed",
+                    "path": "246"
+                },
+                {
+                    "name": "325",
+                    "count": 97,
+                    "state": "displayed",
+                    "path": "325"
+                },
+                {
+                    "name": "43",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "43"
+                },
+                {
+                    "name": "60",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "60"
+                },
+                {
+                    "name": "263",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "263"
+                },
+                {
+                    "name": "285",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "285"
+                },
+                {
+                    "name": "286",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "286"
+                },
+                {
+                    "name": "300",
+                    "count": 96,
+                    "state": "displayed",
+                    "path": "300"
+                },
+                {
+                    "name": "44",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "44"
+                },
+                {
+                    "name": "273",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "273"
+                },
+                {
+                    "name": "314",
+                    "count": 95,
+                    "state": "displayed",
+                    "path": "314"
+                },
+                {
+                    "name": "49",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "49"
+                },
+                {
+                    "name": "78",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "78"
+                },
+                {
+                    "name": "294",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "294"
+                },
+                {
+                    "name": "297",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "297"
+                },
+                {
+                    "name": "322",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "322"
+                },
+                {
+                    "name": "323",
+                    "count": 94,
+                    "state": "displayed",
+                    "path": "323"
+                },
+                {
+                    "name": "53",
+                    "count": 93,
+                    "state": "displayed",
+                    "path": "53"
+                },
+                {
+                    "name": "81",
+                    "count": 93,
+                    "state": "displayed",
+                    "path": "81"
+                },
+                {
+                    "name": "265",
+                    "count": 93,
+                    "state": "displayed",
+                    "path": "265"
+                },
+                {
+                    "name": "40",
+                    "count": 92,
+                    "state": "displayed",
+                    "path": "40"
+                },
+                {
+                    "name": "76",
+                    "count": 92,
+                    "state": "displayed",
+                    "path": "76"
+                },
+                {
+                    "name": "281",
+                    "count": 92,
+                    "state": "displayed",
+                    "path": "281"
+                },
+                {
+                    "name": "72",
+                    "count": 91,
+                    "state": "displayed",
+                    "path": "72"
+                },
+                {
+                    "name": "77",
+                    "count": 91,
+                    "state": "displayed",
+                    "path": "77"
+                },
+                {
+                    "name": "86",
+                    "count": 91,
+                    "state": "displayed",
+                    "path": "86"
+                },
+                {
+                    "name": "249",
+                    "count": 91,
+                    "state": "displayed",
+                    "path": "249"
+                },
+                {
+                    "name": "299",
+                    "count": 91,
+                    "state": "displayed",
+                    "path": "299"
+                },
+                {
+                    "name": "66",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "66"
+                },
+                {
+                    "name": "80",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "80"
+                },
+                {
+                    "name": "215",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "215"
+                },
+                {
+                    "name": "321",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "321"
+                },
+                {
+                    "name": "47",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "47"
+                },
+                {
+                    "name": "69",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "69"
+                },
+                {
+                    "name": "85",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "85"
+                },
+                {
+                    "name": "125",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "125"
+                },
+                {
+                    "name": "292",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "292"
+                },
+                {
+                    "name": "330",
+                    "count": 89,
+                    "state": "displayed",
+                    "path": "330"
+                },
+                {
+                    "name": "82",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "82"
+                },
+                {
+                    "name": "96",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "96"
+                },
+                {
+                    "name": "154",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "154"
+                },
+                {
+                    "name": "256",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "256"
+                },
+                {
+                    "name": "264",
+                    "count": 88,
+                    "state": "displayed",
+                    "path": "264"
+                },
+                {
+                    "name": "41",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "41"
+                },
+                {
+                    "name": "45",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "45"
+                },
+                {
+                    "name": "173",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "173"
+                },
+                {
+                    "name": "214",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "214"
+                },
+                {
+                    "name": "42",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "42"
+                },
+                {
+                    "name": "51",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "51"
+                },
+                {
+                    "name": "55",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "55"
+                },
+                {
+                    "name": "57",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "57"
+                },
+                {
+                    "name": "75",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "75"
+                },
+                {
+                    "name": "241",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "241"
+                },
+                {
+                    "name": "259",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "259"
+                },
+                {
+                    "name": "272",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "272"
+                },
+                {
+                    "name": "284",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "284"
+                },
+                {
+                    "name": "301",
+                    "count": 86,
+                    "state": "displayed",
+                    "path": "301"
+                },
+                {
+                    "name": "71",
+                    "count": 85,
+                    "state": "displayed",
+                    "path": "71"
+                },
+                {
+                    "name": "124",
+                    "count": 85,
+                    "state": "displayed",
+                    "path": "124"
+                }
+            ]
+        },
+        {
+            "name": "cancellation_policy",
+            "facets": [
+                {
+                    "name": "flexible",
+                    "count": 19719,
+                    "state": "displayed",
+                    "path": "flexible"
+                },
+                {
+                    "name": "strict",
+                    "count": 19034,
+                    "state": "displayed",
+                    "path": "strict"
+                },
+                {
+                    "name": "moderate",
+                    "count": 15742,
+                    "state": "displayed",
+                    "path": "moderate"
+                },
+                {
+                    "name": "super_strict_60",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "super_strict_60"
+                },
+                {
+                    "name": "super_strict_30",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "super_strict_30"
+                }
+            ]
+        },
+        {
+            "name": "features",
+            "facets": [
+                {
+                    "name": "Host Has Profile Pic",
+                    "count": 54299,
+                    "state": "displayed",
+                    "path": "Host Has Profile Pic"
+                },
+                {
+                    "name": "Is Location Exact",
+                    "count": 46576,
+                    "state": "displayed",
+                    "path": "Is Location Exact"
+                },
+                {
+                    "name": "Host Identity Verified",
+                    "count": 29987,
+                    "state": "displayed",
+                    "path": "Host Identity Verified"
+                },
+                {
+                    "name": "Instant Bookable",
+                    "count": 11579,
+                    "state": "displayed",
+                    "path": "Instant Bookable"
+                },
+                {
+                    "name": "Host Is Superhost",
+                    "count": 3090,
+                    "state": "displayed",
+                    "path": "Host Is Superhost"
+                },
+                {
+                    "name": "Require Guest Phone Verification",
+                    "count": 1459,
+                    "state": "displayed",
+                    "path": "Require Guest Phone Verification"
+                },
+                {
+                    "name": "Require Guest Profile Picture",
+                    "count": 803,
+                    "state": "displayed",
+                    "path": "Require Guest Profile Picture"
+                }
+            ]
+        }
+    ]
+}
