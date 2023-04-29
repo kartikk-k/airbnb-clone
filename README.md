@@ -1,10 +1,7 @@
 # Basic Airbnb Clone
 Preview
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/hU7eZWgM7cU"
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+![Preview Image](Assets/Images/preview.png)
 
 <hr>
 
